@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="94576814-dc65-4aaf-b54d-e750a2a410d8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Gulliverovy cesty</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Vydavatel čtenáři</text>
+      </navLabel>
+      <content src="Text/gulliverovy_cesty_005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Dopis kapitána Gullivera příbuznému Sympsonovi</text>
+      </navLabel>
+      <content src="Text/gulliverovy_cesty_006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Díl I CESTA DO LILIPUTU</text>
+      </navLabel>
+      <content src="Text/gulliverovy_cesty_007.html"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>KAPITOLA 1</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_008.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>KAPITOLA 2</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_009.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>KAPITOLA 3</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_010.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>KAPITOLA 4</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_011.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>KAPITOLA 5</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_012.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>KAPITOLA 6</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_013.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>KAPITOLA 7</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_014.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>KAPITOLA 8</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_015.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Díl II CESTA DO BROBDINGNAGU</text>
+      </navLabel>
+      <content src="Text/gulliverovy_cesty_016.html"/>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>KAPITOLA 1</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_017.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>KAPITOLA 2</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_018.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>KAPITOLA 3</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_019.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>KAPITOLA 4</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_020.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>KAPITOLA 5</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_021.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>KAPITOLA 6</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_022.html"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>KAPITOLA 7</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_023.html"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>KAPITOLA 8</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_024.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Díl III CESTA DO LAPUTY, BALNIBARBI, LUGGNAGGU, GLUBBDUBDRIBU A DO JAPONSKA</text>
+      </navLabel>
+      <content src="Text/gulliverovy_cesty_025.html"/>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>KAPITOLA 1</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_026.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>KAPITOLA 2</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_027.html"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>KAPITOLA 3</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_028.html"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>KAPITOLA 4</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_029.html"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>KAPITOLA 5</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_030.html"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>KAPITOLA 6</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_031.html"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>KAPITOLA 7</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_032.html"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>KAPITOLA 8</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_033.html"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>KAPITOLA 9</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_034.html"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>KAPITOLA 10</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_035.html"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>KAPITOLA 11</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_036.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Díl IV CESTA DO ZEMĚ HVAJNINIMŮ</text>
+      </navLabel>
+      <content src="Text/gulliverovy_cesty_037.html"/>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>KAPITOLA 1</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_038.html"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>KAPITOLA 2</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_039.html"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>KAPITOLA 3</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_040.html"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>KAPITOLA 4</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_041.html"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>KAPITOLA 5</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_042.html"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>KAPITOLA 6</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_043.html"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>KAPITOLA 7</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_044.html"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>KAPITOLA 8</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_045.html"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>KAPITOLA 9</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_046.html"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>KAPITOLA 10</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_047.html"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>KAPITOLA 11</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_048.html"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>KAPITOLA 12</text>
+        </navLabel>
+        <content src="Text/gulliverovy_cesty_049.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Poznámky pod čarou</text>
+      </navLabel>
+      <content src="Text/gulliverovy_cesty_050.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,443 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Gulliverovy cesty",
+    "identifier": "94576814-dc65-4aaf-b54d-e750a2a410d8",
+    "author": "Jonathan Swift",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2021-08-09T14:19:22.701Z",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_028.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_029.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_030.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_031.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_032.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_033.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_034.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_035.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_036.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_037.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_038.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_039.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_040.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_041.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_042.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_043.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_044.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_045.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_046.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_047.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_048.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_049.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_050.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/gulliverovy_cesty_051.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Vydavatel čtenáři",
+      "href": "OEBPS/Text/gulliverovy_cesty_005.html"
+    },
+    {
+      "title": "Dopis kapitána Gullivera příbuznému Sympsonovi",
+      "href": "OEBPS/Text/gulliverovy_cesty_006.html"
+    },
+    {
+      "title": "Díl I CESTA DO LILIPUTU",
+      "children": [
+        {
+          "title": "KAPITOLA 1",
+          "href": "OEBPS/Text/gulliverovy_cesty_008.html"
+        },
+        {
+          "title": "KAPITOLA 2",
+          "href": "OEBPS/Text/gulliverovy_cesty_009.html"
+        },
+        {
+          "title": "KAPITOLA 3",
+          "href": "OEBPS/Text/gulliverovy_cesty_010.html"
+        },
+        {
+          "title": "KAPITOLA 4",
+          "href": "OEBPS/Text/gulliverovy_cesty_011.html"
+        },
+        {
+          "title": "KAPITOLA 5",
+          "href": "OEBPS/Text/gulliverovy_cesty_012.html"
+        },
+        {
+          "title": "KAPITOLA 6",
+          "href": "OEBPS/Text/gulliverovy_cesty_013.html"
+        },
+        {
+          "title": "KAPITOLA 7",
+          "href": "OEBPS/Text/gulliverovy_cesty_014.html"
+        },
+        {
+          "title": "KAPITOLA 8",
+          "href": "OEBPS/Text/gulliverovy_cesty_015.html"
+        }
+      ],
+      "href": "OEBPS/Text/gulliverovy_cesty_007.html"
+    },
+    {
+      "title": "Díl II CESTA DO BROBDINGNAGU",
+      "children": [
+        {
+          "title": "KAPITOLA 1",
+          "href": "OEBPS/Text/gulliverovy_cesty_017.html"
+        },
+        {
+          "title": "KAPITOLA 2",
+          "href": "OEBPS/Text/gulliverovy_cesty_018.html"
+        },
+        {
+          "title": "KAPITOLA 3",
+          "href": "OEBPS/Text/gulliverovy_cesty_019.html"
+        },
+        {
+          "title": "KAPITOLA 4",
+          "href": "OEBPS/Text/gulliverovy_cesty_020.html"
+        },
+        {
+          "title": "KAPITOLA 5",
+          "href": "OEBPS/Text/gulliverovy_cesty_021.html"
+        },
+        {
+          "title": "KAPITOLA 6",
+          "href": "OEBPS/Text/gulliverovy_cesty_022.html"
+        },
+        {
+          "title": "KAPITOLA 7",
+          "href": "OEBPS/Text/gulliverovy_cesty_023.html"
+        },
+        {
+          "title": "KAPITOLA 8",
+          "href": "OEBPS/Text/gulliverovy_cesty_024.html"
+        }
+      ],
+      "href": "OEBPS/Text/gulliverovy_cesty_016.html"
+    },
+    {
+      "title": "Díl III CESTA DO LAPUTY, BALNIBARBI, LUGGNAGGU, GLUBBDUBDRIBU A DO JAPONSKA",
+      "children": [
+        {
+          "title": "KAPITOLA 1",
+          "href": "OEBPS/Text/gulliverovy_cesty_026.html"
+        },
+        {
+          "title": "KAPITOLA 2",
+          "href": "OEBPS/Text/gulliverovy_cesty_027.html"
+        },
+        {
+          "title": "KAPITOLA 3",
+          "href": "OEBPS/Text/gulliverovy_cesty_028.html"
+        },
+        {
+          "title": "KAPITOLA 4",
+          "href": "OEBPS/Text/gulliverovy_cesty_029.html"
+        },
+        {
+          "title": "KAPITOLA 5",
+          "href": "OEBPS/Text/gulliverovy_cesty_030.html"
+        },
+        {
+          "title": "KAPITOLA 6",
+          "href": "OEBPS/Text/gulliverovy_cesty_031.html"
+        },
+        {
+          "title": "KAPITOLA 7",
+          "href": "OEBPS/Text/gulliverovy_cesty_032.html"
+        },
+        {
+          "title": "KAPITOLA 8",
+          "href": "OEBPS/Text/gulliverovy_cesty_033.html"
+        },
+        {
+          "title": "KAPITOLA 9",
+          "href": "OEBPS/Text/gulliverovy_cesty_034.html"
+        },
+        {
+          "title": "KAPITOLA 10",
+          "href": "OEBPS/Text/gulliverovy_cesty_035.html"
+        },
+        {
+          "title": "KAPITOLA 11",
+          "href": "OEBPS/Text/gulliverovy_cesty_036.html"
+        }
+      ],
+      "href": "OEBPS/Text/gulliverovy_cesty_025.html"
+    },
+    {
+      "title": "Díl IV CESTA DO ZEMĚ HVAJNINIMŮ",
+      "children": [
+        {
+          "title": "KAPITOLA 1",
+          "href": "OEBPS/Text/gulliverovy_cesty_038.html"
+        },
+        {
+          "title": "KAPITOLA 2",
+          "href": "OEBPS/Text/gulliverovy_cesty_039.html"
+        },
+        {
+          "title": "KAPITOLA 3",
+          "href": "OEBPS/Text/gulliverovy_cesty_040.html"
+        },
+        {
+          "title": "KAPITOLA 4",
+          "href": "OEBPS/Text/gulliverovy_cesty_041.html"
+        },
+        {
+          "title": "KAPITOLA 5",
+          "href": "OEBPS/Text/gulliverovy_cesty_042.html"
+        },
+        {
+          "title": "KAPITOLA 6",
+          "href": "OEBPS/Text/gulliverovy_cesty_043.html"
+        },
+        {
+          "title": "KAPITOLA 7",
+          "href": "OEBPS/Text/gulliverovy_cesty_044.html"
+        },
+        {
+          "title": "KAPITOLA 8",
+          "href": "OEBPS/Text/gulliverovy_cesty_045.html"
+        },
+        {
+          "title": "KAPITOLA 9",
+          "href": "OEBPS/Text/gulliverovy_cesty_046.html"
+        },
+        {
+          "title": "KAPITOLA 10",
+          "href": "OEBPS/Text/gulliverovy_cesty_047.html"
+        },
+        {
+          "title": "KAPITOLA 11",
+          "href": "OEBPS/Text/gulliverovy_cesty_048.html"
+        },
+        {
+          "title": "KAPITOLA 12",
+          "href": "OEBPS/Text/gulliverovy_cesty_049.html"
+        }
+      ],
+      "href": "OEBPS/Text/gulliverovy_cesty_037.html"
+    },
+    {
+      "title": "Poznámky pod čarou",
+      "href": "OEBPS/Text/gulliverovy_cesty_050.html"
+    }
+  ]
+}
