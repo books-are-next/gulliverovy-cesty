@@ -6,7 +6,7 @@ Gulliverovy cesty
 
 Jonathan Swift
 
-Přeložil Aloys Skoumal
+_Přeložil Aloys Skoumal_
 
 
 ---
@@ -40,9 +40,9 @@ Verze 1.0 z 24. 4. 2018.
 title: ''
 ---
 
-Jonathan Swift
+**Jonathan Swift**
 
-Gulliverovy cesty
+**Gulliverovy cesty**
 
 Edice Literatura pro děti a mládež
 
@@ -50,7 +50,7 @@ Překlad Aloys Skoumal
 
 Redakce Jaroslava Bednářová
 
-Vydala Městská knihovna v Praze
+Vydala **Městská knihovna v Praze**
 
 Mariánské nám. 1, 115 72 Praha 1
 

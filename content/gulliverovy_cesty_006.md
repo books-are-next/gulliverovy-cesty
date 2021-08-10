@@ -22,4 +22,4 @@ Troufají si ti ubozí živočichové myslit, že jsem klesl tak hluboko, abych 
 
 Uvedl bych při této trapné příležitosti ještě jiné stížnosti. Ale přestanu a nebudu už trápit sebe ani Vás. Přiznávám se upřímně, že od posledního návratu zkažené rysy mé jahuovské povahy ožily ve mně stykem s několika lidmi z Vašeho plemene, a zvláště stykem s rodinou, což je nevyhnutelné. Jinak bych se nebyl nikdy podjal tak zpozdilého záměru, napravovat jahuovské plémě v našem království. Ale ode všech takových blouznivých plánů jsem už navždycky upustil.
 
-_2\. dubna 1727_
+___2\. dubna 1727___
