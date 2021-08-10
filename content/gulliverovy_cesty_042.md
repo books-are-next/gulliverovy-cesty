@@ -1,8 +1,6 @@
 ---
-title: ''
+title: KAPITOLA 5
 ---
-
-## KAPITOLA 5
 
 Spisovatel poučuje svého pána na jeho rozkaz o anglických poměrech. Příčiny válek mezi evropskými panovníky. Spisovatel začíná vykládat anglickou ústavu.
 

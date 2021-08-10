@@ -1,8 +1,6 @@
 ---
-title: ''
+title: KAPITOLA 8
 ---
-
-## KAPITOLA 8
 
 Šťastnou náhodou najde spisovatel možnost odejít z Blefusku. Po menších nesnázích se dostane šťastně do své rodné země.
 

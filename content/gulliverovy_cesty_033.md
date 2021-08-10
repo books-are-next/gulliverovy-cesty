@@ -1,8 +1,6 @@
 ---
-title: ''
+title: KAPITOLA 8
 ---
-
-## KAPITOLA 8
 
 Další zprávy o Glubbdubdribu. Opravují se staré i novější dějiny.
 

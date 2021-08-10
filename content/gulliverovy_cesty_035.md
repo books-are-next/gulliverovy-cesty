@@ -1,8 +1,6 @@
 ---
-title: ''
+title: KAPITOLA 10
 ---
-
-## KAPITOLA 10
 
 Velebí se Luggnačtí. Podrobný popis Struldbrugů s hojnými rozhovory spisovatele a několika významných osob  
 o tomto předmětu.

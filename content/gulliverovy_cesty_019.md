@@ -1,8 +1,6 @@
 ---
-title: ''
+title: KAPITOLA 3
 ---
-
-## KAPITOLA 3
 
 Spisovatel je pozván ke dvoru. Královna ho koupí od sedláka, jeho pána, a daruje ho králi. Jeho hádání s předními učenci jeho veličenstva. Spisovateli zařídí v paláci komnatu. Dochází velké přízně u královny. Zastává se cti své vlasti. Jeho půtky s královniným trpaslíkem.
 

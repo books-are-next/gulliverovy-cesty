@@ -1,8 +1,6 @@
 ---
-title: ''
+title: KAPITOLA 7
 ---
-
-## KAPITOLA 7
 
 Spisovatel se doví, že má býti obžalován z velezrady, a uteče do Blefusku. Jak ho tam přijali.
 

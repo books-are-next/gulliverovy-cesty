@@ -1,8 +1,6 @@
 ---
-title: ''
+title: KAPITOLA 8
 ---
-
-## KAPITOLA 8
 
 Spisovatel vypráví o některých zvláštnostech Jahuů. Veliké ctnosti Hvajninimů. Jak vychovávají a cvičí svou mládež. Jejich valný sněm.
 

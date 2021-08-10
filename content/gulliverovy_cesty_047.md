@@ -1,8 +1,6 @@
 ---
-title: ''
+title: KAPITOLA 10
 ---
-
-## KAPITOLA 10
 
 Spisovatelovo zařízení a šťastný život u Hvajninimů. Jak silně se zdokonaloval v ctnosti, rozmlouvaje s nimi. Jejich rozmluvy. Pán oznámí spisovateli, že musí odejíti ze země. Spisovatel padne ze zármutku do mdlob, ale nakonec se podrobí. S pomocí spoluslužebníkovou si vymyslí a zhotoví kánoi a pustí se nazdařbůh na moře.
 

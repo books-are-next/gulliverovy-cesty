@@ -1,8 +1,6 @@
 ---
-title: ''
+title: KAPITOLA 7
 ---
-
-## KAPITOLA 7
 
 Spisovatelova láska k vlasti. Spisovatel podává králi velmi výhodný návrh, ale ten je zamítnut. Králova veliká nevědomost o politice. Učenost té země velmi nedokonalá a kusá. Jejich zákony, vojenství a politické strany.
 

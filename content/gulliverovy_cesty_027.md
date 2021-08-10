@@ -1,8 +1,6 @@
 ---
-title: ''
+title: KAPITOLA 2
 ---
-
-## KAPITOLA 2
 
 Líčení podivných nápadů a rozmarů Lapuťanů. Zpráva o jejich učenosti. O králi a jeho dvoru. Jak spisovatele přijali. Obyvatele trápí strach a starosti.
 

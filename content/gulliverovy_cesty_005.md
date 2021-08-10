@@ -1,8 +1,6 @@
 ---
-title: ''
+title: Vydavatel čtenáři
 ---
-
-# Vydavatel čtenáři
 
 Spisovatel těchto cest pan Lemuel Gulliver je můj dávný a důvěrný přítel. Jsme po matce také vzdálení příbuzní. Asi před třemi lety se panu Gulliverovi omrzel shluk zvědavců, kteří se za ním táhli do Redriffu, a zakoupil v Newarku v hrabství nottinghamském, svém rodném kraji, kus pozemku s příhodným domem. Žije tam v ústraní, těší se však vážnosti u svých sousedů.
 
