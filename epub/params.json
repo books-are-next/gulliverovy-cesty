@@ -22,8 +22,8 @@
       "brAfter": "",
       "blockquote": "",
       "figure": "",
-      "em": "",
-      "strong": "",
+      "em": "mlptitulkaprekladatel\nmlpdopispodpis\ncalibre1 \nmlpznakkurziva11b",
+      "strong": "mlpurove2kapilolafalesnynadpis\nmlpznaktucne\nmlptirazautoranazev\ncalibre13",
       "remove": "",
       "ignore": ""
     },
@@ -91,89 +91,90 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": [],
+        "children": [
+          {
+            "filename": "gulliverovy_cesty_008.md",
+            "xhtml": "gulliverovy_cesty_008.html",
+            "id": 7,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 1"
+          },
+          {
+            "filename": "gulliverovy_cesty_009.md",
+            "xhtml": "gulliverovy_cesty_009.html",
+            "id": 8,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 2"
+          },
+          {
+            "filename": "gulliverovy_cesty_010.md",
+            "xhtml": "gulliverovy_cesty_010.html",
+            "id": 9,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 3"
+          },
+          {
+            "filename": "gulliverovy_cesty_011.md",
+            "xhtml": "gulliverovy_cesty_011.html",
+            "id": 10,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 4"
+          },
+          {
+            "filename": "gulliverovy_cesty_012.md",
+            "xhtml": "gulliverovy_cesty_012.html",
+            "id": 11,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 5"
+          },
+          {
+            "filename": "gulliverovy_cesty_013.md",
+            "xhtml": "gulliverovy_cesty_013.html",
+            "id": 12,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 6"
+          },
+          {
+            "filename": "gulliverovy_cesty_014.md",
+            "xhtml": "gulliverovy_cesty_014.html",
+            "id": 13,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 7"
+          },
+          {
+            "filename": "gulliverovy_cesty_015.md",
+            "xhtml": "gulliverovy_cesty_015.html",
+            "id": 14,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 8"
+          }
+        ],
         "title": "Díl I\n\nCESTA DO LILIPUTU",
         "subtitle": ""
-      },
-      {
-        "filename": "gulliverovy_cesty_008.md",
-        "xhtml": "gulliverovy_cesty_008.html",
-        "id": 7,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 1"
-      },
-      {
-        "filename": "gulliverovy_cesty_009.md",
-        "xhtml": "gulliverovy_cesty_009.html",
-        "id": 8,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 2"
-      },
-      {
-        "filename": "gulliverovy_cesty_010.md",
-        "xhtml": "gulliverovy_cesty_010.html",
-        "id": 9,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 3"
-      },
-      {
-        "filename": "gulliverovy_cesty_011.md",
-        "xhtml": "gulliverovy_cesty_011.html",
-        "id": 10,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 4"
-      },
-      {
-        "filename": "gulliverovy_cesty_012.md",
-        "xhtml": "gulliverovy_cesty_012.html",
-        "id": 11,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 5"
-      },
-      {
-        "filename": "gulliverovy_cesty_013.md",
-        "xhtml": "gulliverovy_cesty_013.html",
-        "id": 12,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 6"
-      },
-      {
-        "filename": "gulliverovy_cesty_014.md",
-        "xhtml": "gulliverovy_cesty_014.html",
-        "id": 13,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 7"
-      },
-      {
-        "filename": "gulliverovy_cesty_015.md",
-        "xhtml": "gulliverovy_cesty_015.html",
-        "id": 14,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 8"
       },
       {
         "filename": "gulliverovy_cesty_016.md",
@@ -182,89 +183,90 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": [],
+        "children": [
+          {
+            "filename": "gulliverovy_cesty_017.md",
+            "xhtml": "gulliverovy_cesty_017.html",
+            "id": 16,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 1"
+          },
+          {
+            "filename": "gulliverovy_cesty_018.md",
+            "xhtml": "gulliverovy_cesty_018.html",
+            "id": 17,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 2"
+          },
+          {
+            "filename": "gulliverovy_cesty_019.md",
+            "xhtml": "gulliverovy_cesty_019.html",
+            "id": 18,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 3"
+          },
+          {
+            "filename": "gulliverovy_cesty_020.md",
+            "xhtml": "gulliverovy_cesty_020.html",
+            "id": 19,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 4"
+          },
+          {
+            "filename": "gulliverovy_cesty_021.md",
+            "xhtml": "gulliverovy_cesty_021.html",
+            "id": 20,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 5"
+          },
+          {
+            "filename": "gulliverovy_cesty_022.md",
+            "xhtml": "gulliverovy_cesty_022.html",
+            "id": 21,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 6"
+          },
+          {
+            "filename": "gulliverovy_cesty_023.md",
+            "xhtml": "gulliverovy_cesty_023.html",
+            "id": 22,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 7"
+          },
+          {
+            "filename": "gulliverovy_cesty_024.md",
+            "xhtml": "gulliverovy_cesty_024.html",
+            "id": 23,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 8"
+          }
+        ],
         "title": "Díl II\n\nCESTA DO BROBDINGNAGU",
         "subtitle": ""
-      },
-      {
-        "filename": "gulliverovy_cesty_017.md",
-        "xhtml": "gulliverovy_cesty_017.html",
-        "id": 16,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 1"
-      },
-      {
-        "filename": "gulliverovy_cesty_018.md",
-        "xhtml": "gulliverovy_cesty_018.html",
-        "id": 17,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 2"
-      },
-      {
-        "filename": "gulliverovy_cesty_019.md",
-        "xhtml": "gulliverovy_cesty_019.html",
-        "id": 18,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 3"
-      },
-      {
-        "filename": "gulliverovy_cesty_020.md",
-        "xhtml": "gulliverovy_cesty_020.html",
-        "id": 19,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 4"
-      },
-      {
-        "filename": "gulliverovy_cesty_021.md",
-        "xhtml": "gulliverovy_cesty_021.html",
-        "id": 20,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 5"
-      },
-      {
-        "filename": "gulliverovy_cesty_022.md",
-        "xhtml": "gulliverovy_cesty_022.html",
-        "id": 21,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 6"
-      },
-      {
-        "filename": "gulliverovy_cesty_023.md",
-        "xhtml": "gulliverovy_cesty_023.html",
-        "id": 22,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 7"
-      },
-      {
-        "filename": "gulliverovy_cesty_024.md",
-        "xhtml": "gulliverovy_cesty_024.html",
-        "id": 23,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 8"
       },
       {
         "filename": "gulliverovy_cesty_025.md",
@@ -273,118 +275,119 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": [],
+        "children": [
+          {
+            "filename": "gulliverovy_cesty_026.md",
+            "xhtml": "gulliverovy_cesty_026.html",
+            "id": 25,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 1"
+          },
+          {
+            "filename": "gulliverovy_cesty_027.md",
+            "xhtml": "gulliverovy_cesty_027.html",
+            "id": 26,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 2"
+          },
+          {
+            "filename": "gulliverovy_cesty_028.md",
+            "xhtml": "gulliverovy_cesty_028.html",
+            "id": 27,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 3"
+          },
+          {
+            "filename": "gulliverovy_cesty_029.md",
+            "xhtml": "gulliverovy_cesty_029.html",
+            "id": 28,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 4"
+          },
+          {
+            "filename": "gulliverovy_cesty_030.md",
+            "xhtml": "gulliverovy_cesty_030.html",
+            "id": 29,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 5"
+          },
+          {
+            "filename": "gulliverovy_cesty_031.md",
+            "xhtml": "gulliverovy_cesty_031.html",
+            "id": 30,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 6"
+          },
+          {
+            "filename": "gulliverovy_cesty_032.md",
+            "xhtml": "gulliverovy_cesty_032.html",
+            "id": 31,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 7"
+          },
+          {
+            "filename": "gulliverovy_cesty_033.md",
+            "xhtml": "gulliverovy_cesty_033.html",
+            "id": 32,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 8"
+          },
+          {
+            "filename": "gulliverovy_cesty_034.md",
+            "xhtml": "gulliverovy_cesty_034.html",
+            "id": 33,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 9"
+          },
+          {
+            "filename": "gulliverovy_cesty_035.md",
+            "xhtml": "gulliverovy_cesty_035.html",
+            "id": 34,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 10"
+          },
+          {
+            "filename": "gulliverovy_cesty_036.md",
+            "xhtml": "gulliverovy_cesty_036.html",
+            "id": 35,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 11"
+          }
+        ],
         "title": "Díl III\n\nCESTA DO LAPUTY, BALNIBARBI, LUGGNAGGU, GLUBBDUBDRIBU A DO JAPONSKA"
-      },
-      {
-        "filename": "gulliverovy_cesty_026.md",
-        "xhtml": "gulliverovy_cesty_026.html",
-        "id": 25,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 1"
-      },
-      {
-        "filename": "gulliverovy_cesty_027.md",
-        "xhtml": "gulliverovy_cesty_027.html",
-        "id": 26,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 2"
-      },
-      {
-        "filename": "gulliverovy_cesty_028.md",
-        "xhtml": "gulliverovy_cesty_028.html",
-        "id": 27,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 3"
-      },
-      {
-        "filename": "gulliverovy_cesty_029.md",
-        "xhtml": "gulliverovy_cesty_029.html",
-        "id": 28,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 4"
-      },
-      {
-        "filename": "gulliverovy_cesty_030.md",
-        "xhtml": "gulliverovy_cesty_030.html",
-        "id": 29,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 5"
-      },
-      {
-        "filename": "gulliverovy_cesty_031.md",
-        "xhtml": "gulliverovy_cesty_031.html",
-        "id": 30,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 6"
-      },
-      {
-        "filename": "gulliverovy_cesty_032.md",
-        "xhtml": "gulliverovy_cesty_032.html",
-        "id": 31,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 7"
-      },
-      {
-        "filename": "gulliverovy_cesty_033.md",
-        "xhtml": "gulliverovy_cesty_033.html",
-        "id": 32,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 8"
-      },
-      {
-        "filename": "gulliverovy_cesty_034.md",
-        "xhtml": "gulliverovy_cesty_034.html",
-        "id": 33,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 9"
-      },
-      {
-        "filename": "gulliverovy_cesty_035.md",
-        "xhtml": "gulliverovy_cesty_035.html",
-        "id": 34,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 10"
-      },
-      {
-        "filename": "gulliverovy_cesty_036.md",
-        "xhtml": "gulliverovy_cesty_036.html",
-        "id": 35,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 11"
       },
       {
         "filename": "gulliverovy_cesty_037.md",
@@ -393,128 +396,129 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": [],
+        "children": [
+          {
+            "filename": "gulliverovy_cesty_038.md",
+            "xhtml": "gulliverovy_cesty_038.html",
+            "id": 37,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 1"
+          },
+          {
+            "filename": "gulliverovy_cesty_039.md",
+            "xhtml": "gulliverovy_cesty_039.html",
+            "id": 38,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 2"
+          },
+          {
+            "filename": "gulliverovy_cesty_040.md",
+            "xhtml": "gulliverovy_cesty_040.html",
+            "id": 39,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 3"
+          },
+          {
+            "filename": "gulliverovy_cesty_041.md",
+            "xhtml": "gulliverovy_cesty_041.html",
+            "id": 40,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 4"
+          },
+          {
+            "filename": "gulliverovy_cesty_042.md",
+            "xhtml": "gulliverovy_cesty_042.html",
+            "id": 41,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 5"
+          },
+          {
+            "filename": "gulliverovy_cesty_043.md",
+            "xhtml": "gulliverovy_cesty_043.html",
+            "id": 42,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 6"
+          },
+          {
+            "filename": "gulliverovy_cesty_044.md",
+            "xhtml": "gulliverovy_cesty_044.html",
+            "id": 43,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 7"
+          },
+          {
+            "filename": "gulliverovy_cesty_045.md",
+            "xhtml": "gulliverovy_cesty_045.html",
+            "id": 44,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 8"
+          },
+          {
+            "filename": "gulliverovy_cesty_046.md",
+            "xhtml": "gulliverovy_cesty_046.html",
+            "id": 45,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 9"
+          },
+          {
+            "filename": "gulliverovy_cesty_047.md",
+            "xhtml": "gulliverovy_cesty_047.html",
+            "id": 46,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 10"
+          },
+          {
+            "filename": "gulliverovy_cesty_048.md",
+            "xhtml": "gulliverovy_cesty_048.html",
+            "id": 47,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 11"
+          },
+          {
+            "filename": "gulliverovy_cesty_049.md",
+            "xhtml": "gulliverovy_cesty_049.html",
+            "id": 48,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "KAPITOLA 12"
+          }
+        ],
         "title": "Díl IV\n\nCESTA DO ZEMĚ HVAJNINIMŮ"
-      },
-      {
-        "filename": "gulliverovy_cesty_038.md",
-        "xhtml": "gulliverovy_cesty_038.html",
-        "id": 37,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 1"
-      },
-      {
-        "filename": "gulliverovy_cesty_039.md",
-        "xhtml": "gulliverovy_cesty_039.html",
-        "id": 38,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 2"
-      },
-      {
-        "filename": "gulliverovy_cesty_040.md",
-        "xhtml": "gulliverovy_cesty_040.html",
-        "id": 39,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 3"
-      },
-      {
-        "filename": "gulliverovy_cesty_041.md",
-        "xhtml": "gulliverovy_cesty_041.html",
-        "id": 40,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 4"
-      },
-      {
-        "filename": "gulliverovy_cesty_042.md",
-        "xhtml": "gulliverovy_cesty_042.html",
-        "id": 41,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 5"
-      },
-      {
-        "filename": "gulliverovy_cesty_043.md",
-        "xhtml": "gulliverovy_cesty_043.html",
-        "id": 42,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 6"
-      },
-      {
-        "filename": "gulliverovy_cesty_044.md",
-        "xhtml": "gulliverovy_cesty_044.html",
-        "id": 43,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 7"
-      },
-      {
-        "filename": "gulliverovy_cesty_045.md",
-        "xhtml": "gulliverovy_cesty_045.html",
-        "id": 44,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 8"
-      },
-      {
-        "filename": "gulliverovy_cesty_046.md",
-        "xhtml": "gulliverovy_cesty_046.html",
-        "id": 45,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 9"
-      },
-      {
-        "filename": "gulliverovy_cesty_047.md",
-        "xhtml": "gulliverovy_cesty_047.html",
-        "id": 46,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 10"
-      },
-      {
-        "filename": "gulliverovy_cesty_048.md",
-        "xhtml": "gulliverovy_cesty_048.html",
-        "id": 47,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 11"
-      },
-      {
-        "filename": "gulliverovy_cesty_049.md",
-        "xhtml": "gulliverovy_cesty_049.html",
-        "id": 48,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "KAPITOLA 12"
       },
       {
         "filename": "gulliverovy_cesty_050.md",
@@ -543,7 +547,7 @@
       "identifier": "94576814-dc65-4aaf-b54d-e750a2a410d8",
       "author": "Jonathan Swift",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-10T08:27:53.893Z"
+      "modified": "2021-08-10T08:37:15.790Z"
     },
     "chapters": [
       {
@@ -946,6 +950,6 @@
       "user": "books-are-next",
       "repo": "gulliverovy-cesty"
     },
-    "generatedAt": 1628584074597
+    "generatedAt": 1628584636468
   }
 }
