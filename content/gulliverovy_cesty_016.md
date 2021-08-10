@@ -1,7 +1,5 @@
 ---
-title: ''
+title: "Díl II\n\nCESTA\_DO BROBDINGNAGU"
 ---
 
-# Díl II  
-  
-CESTA DO BROBDINGNAGU
+

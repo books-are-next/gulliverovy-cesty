@@ -1,7 +1,5 @@
 ---
-title: ''
+title: "Díl IV\n\nCESTA DO ZEMĚ\_HVAJNINIMŮ"
 ---
 
-# Díl IV  
-  
-CESTA DO ZEMĚ HVAJNINIMŮ
+
