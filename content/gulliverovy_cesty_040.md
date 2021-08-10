@@ -1,8 +1,6 @@
 ---
-title: ''
+title: KAPITOLA 3
 ---
-
-## KAPITOLA 3
 
 Spisovatel se horlivě snaží naučit řeči, jeho pán Hvajninim mu napomáhá v učení. Popis řeči. Několik urozených Hvajninimů se přijde ze zvědavosti podívat na spisovatele. Ten podává pánovi stručnou zprávu o své cestě.
 

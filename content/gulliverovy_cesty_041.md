@@ -1,8 +1,6 @@
 ---
-title: ''
+title: KAPITOLA 4
 ---
-
-## KAPITOLA 4
 
 Hvajninimský pojem pravdy a klamu. Nelibost pánova nad spisovatelovou řečí. Spisovatel podává podrobnější zprávu o sobě a o příhodách z cesty.
 

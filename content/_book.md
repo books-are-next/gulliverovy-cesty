@@ -61,7 +61,19 @@ chapters:
   - gulliverovy_cesty_049.html
   - gulliverovy_cesty_050.html
   - gulliverovy_cesty_051.html
-tocBase: []
+tocBase:
+  - link: gulliverovy_cesty_008.html
+    title: KAPITOLA 1
+  - link: gulliverovy_cesty_009.html
+    title: KAPITOLA 2
+  - link: gulliverovy_cesty_010.html
+    title: KAPITOLA 3
+  - link: gulliverovy_cesty_011.html
+    title: KAPITOLA 4
+  - link: gulliverovy_cesty_012.html
+    title: KAPITOLA 5
+  - link: gulliverovy_cesty_013.html
+    title: KAPITOLA 6
 static:
   - style
   - scripts

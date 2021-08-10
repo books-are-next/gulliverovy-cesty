@@ -1,8 +1,6 @@
 ---
-title: ''
+title: KAPITOLA 6
 ---
-
-## KAPITOLA 6
 
 Rozličné výmysly spisovatelovy, jimiž se zavděčoval králi a královně. Ukazuje zběhlost v hudbě. Král se vyptává na evropské poměry. Spisovatel mu je líčí. Královy poznámky o nich.
 

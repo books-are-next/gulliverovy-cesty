@@ -1,8 +1,6 @@
 ---
-title: ''
+title: KAPITOLA 7
 ---
-
-## KAPITOLA 7
 
 Spisovatel odjíždí z Lagada, přichází do Maldonady. Není po ruce loď. Odjíždí nakrátko do Glubbdubdribu, je přijat guvernérem.
 

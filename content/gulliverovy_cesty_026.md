@@ -1,8 +1,6 @@
 ---
-title: ''
+title: KAPITOLA 1
 ---
-
-## KAPITOLA 1
 
 Spisovatel se vydá na třetí cestu. Je zajat piráty. Holanďanova zlomyslnost. Příjezd na ostrov. Přijmou ho na Laputu.
 

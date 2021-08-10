@@ -1,8 +1,6 @@
 ---
-title: ''
+title: KAPITOLA 9
 ---
-
-## KAPITOLA 9
 
 Veliká rozprava na valném shromáždění Hvajninimů, na čem se usnesli. Hvajninimská vzdělanost. Jejich stavby. Jak pohřbívají. Kus o jejich řeči.
 

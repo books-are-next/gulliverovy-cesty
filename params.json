@@ -9,7 +9,7 @@
       "languageCode": "cs"
     },
     "elements": {
-      "title": "mlpurovan2kapitola",
+      "title": "mlpurovan2kapitola\nmlpuroven1zvlastnipripady",
       "subtitle": "",
       "h2": "",
       "h3": "",
@@ -98,7 +98,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "KAPITOLA 1"
       },
       {
         "filename": "gulliverovy_cesty_009.md",
@@ -107,7 +108,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "KAPITOLA 2"
       },
       {
         "filename": "gulliverovy_cesty_010.md",
@@ -116,7 +118,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "KAPITOLA 3"
       },
       {
         "filename": "gulliverovy_cesty_011.md",
@@ -125,7 +128,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "KAPITOLA 4"
       },
       {
         "filename": "gulliverovy_cesty_012.md",
@@ -134,7 +138,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "KAPITOLA 5"
       },
       {
         "filename": "gulliverovy_cesty_013.md",
@@ -143,7 +148,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "KAPITOLA 6"
       },
       {
         "filename": "gulliverovy_cesty_014.md",
@@ -495,7 +501,7 @@
       "identifier": "94576814-dc65-4aaf-b54d-e750a2a410d8",
       "author": "Jonathan Swift",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-10T08:10:45.563Z"
+      "modified": "2021-08-10T08:19:16.936Z"
     },
     "chapters": [
       {
@@ -523,13 +529,13 @@
         "xhtml": "gulliverovy_cesty_004.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vydavatel čtenáři",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_005.md",
         "xhtml": "gulliverovy_cesty_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dopis kapitána\nGullivera příbuznému Sympsonovi",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_006.md",
         "xhtml": "gulliverovy_cesty_006.html"
@@ -577,13 +583,13 @@
         "xhtml": "gulliverovy_cesty_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 7",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_014.md",
         "xhtml": "gulliverovy_cesty_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 8",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_015.md",
         "xhtml": "gulliverovy_cesty_015.html"
@@ -595,7 +601,7 @@
         "xhtml": "gulliverovy_cesty_016.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 1",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_017.md",
         "xhtml": "gulliverovy_cesty_017.html"
@@ -607,37 +613,37 @@
         "xhtml": "gulliverovy_cesty_018.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 3",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_019.md",
         "xhtml": "gulliverovy_cesty_019.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 4",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_020.md",
         "xhtml": "gulliverovy_cesty_020.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 5",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_021.md",
         "xhtml": "gulliverovy_cesty_021.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 6",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_022.md",
         "xhtml": "gulliverovy_cesty_022.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 7",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_023.md",
         "xhtml": "gulliverovy_cesty_023.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 8",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_024.md",
         "xhtml": "gulliverovy_cesty_024.html"
@@ -649,67 +655,67 @@
         "xhtml": "gulliverovy_cesty_025.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 1",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_026.md",
         "xhtml": "gulliverovy_cesty_026.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 2",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_027.md",
         "xhtml": "gulliverovy_cesty_027.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 3",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_028.md",
         "xhtml": "gulliverovy_cesty_028.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 4",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_029.md",
         "xhtml": "gulliverovy_cesty_029.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 5",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_030.md",
         "xhtml": "gulliverovy_cesty_030.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 6",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_031.md",
         "xhtml": "gulliverovy_cesty_031.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 7",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_032.md",
         "xhtml": "gulliverovy_cesty_032.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 8",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_033.md",
         "xhtml": "gulliverovy_cesty_033.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 9",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_034.md",
         "xhtml": "gulliverovy_cesty_034.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 10",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_035.md",
         "xhtml": "gulliverovy_cesty_035.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 11",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_036.md",
         "xhtml": "gulliverovy_cesty_036.html"
@@ -721,79 +727,79 @@
         "xhtml": "gulliverovy_cesty_037.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 1",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_038.md",
         "xhtml": "gulliverovy_cesty_038.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 2",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_039.md",
         "xhtml": "gulliverovy_cesty_039.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 3",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_040.md",
         "xhtml": "gulliverovy_cesty_040.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 4",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_041.md",
         "xhtml": "gulliverovy_cesty_041.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 5",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_042.md",
         "xhtml": "gulliverovy_cesty_042.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 6",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_043.md",
         "xhtml": "gulliverovy_cesty_043.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 7",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_044.md",
         "xhtml": "gulliverovy_cesty_044.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 8",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_045.md",
         "xhtml": "gulliverovy_cesty_045.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 9",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_046.md",
         "xhtml": "gulliverovy_cesty_046.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 10",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_047.md",
         "xhtml": "gulliverovy_cesty_047.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 11",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_048.md",
         "xhtml": "gulliverovy_cesty_048.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA 12",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_049.md",
         "xhtml": "gulliverovy_cesty_049.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poznámky pod čarou",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_050.md",
         "xhtml": "gulliverovy_cesty_050.html"
@@ -898,6 +904,6 @@
       "user": "books-are-next",
       "repo": "gulliverovy-cesty"
     },
-    "generatedAt": 1628583046258
+    "generatedAt": 1628583557581
   }
 }

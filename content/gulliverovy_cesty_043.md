@@ -1,8 +1,6 @@
 ---
-title: ''
+title: KAPITOLA 6
 ---
-
-## KAPITOLA 6
 
 Pokračování o anglických poměrech. Povaha prvního ministra na evropských dvorech.
 

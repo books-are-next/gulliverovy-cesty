@@ -1,8 +1,6 @@
 ---
-title: ''
+title: KAPITOLA 5
 ---
-
-## KAPITOLA 5
 
 Rozličná dobrodružství, která spisovatele potkala. Poprava zločince. Spisovatel ukazuje, jak se vyzná v plavectví.
 

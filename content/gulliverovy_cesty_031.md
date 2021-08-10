@@ -1,8 +1,6 @@
 ---
-title: ''
+title: KAPITOLA 6
 ---
-
-## KAPITOLA 6
 
 Další zpráva o akademii. Spisovatel navrhuje několik oprav, a ty jsou uctivě přijaty.
 

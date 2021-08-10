@@ -1,8 +1,6 @@
 ---
-title: ''
+title: KAPITOLA 11
 ---
-
-## KAPITOLA 11
 
 Spisovatel odjíždí z Luggnaggu a odplouvá do Japonska. Odtamtud se vrací na holandské lodi do Amsterodamu a z Amsterodamu do Anglie.
 

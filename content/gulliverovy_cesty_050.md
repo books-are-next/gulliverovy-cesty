@@ -1,8 +1,6 @@
 ---
-title: ''
+title: Poznámky pod čarou
 ---
-
-# Poznámky pod čarou
 
 [\[1\]](../Text/gulliverovy_cesty_019.html#_ftnref1) Dutá míra (něco přes litr) užívaná v některých zemích. _Pozn. red._
 
