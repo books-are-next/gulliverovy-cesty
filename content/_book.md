@@ -12,8 +12,6 @@ meta:
 chapters:
   - gulliverovy_cesty_001.html
   - gulliverovy_cesty_002.html
-  - gulliverovy_cesty_003.html
-  - gulliverovy_cesty_004.html
   - gulliverovy_cesty_005.html
   - gulliverovy_cesty_006.html
   - gulliverovy_cesty_007.html
@@ -60,12 +58,13 @@ chapters:
   - gulliverovy_cesty_048.html
   - gulliverovy_cesty_049.html
   - gulliverovy_cesty_050.html
-  - gulliverovy_cesty_051.html
 tocBase:
   - link: gulliverovy_cesty_005.html
     title: Vydavatel čtenáři
   - link: gulliverovy_cesty_006.html
     title: "Dopis kapitána Gullivera\_příbuznému Sympsonovi"
+  - link: gulliverovy_cesty_007.html
+    title: "Díl I\n\nCESTA\_DO LILIPUTU"
   - link: gulliverovy_cesty_008.html
     title: KAPITOLA 1
   - link: gulliverovy_cesty_009.html
@@ -82,6 +81,8 @@ tocBase:
     title: KAPITOLA 7
   - link: gulliverovy_cesty_015.html
     title: KAPITOLA 8
+  - link: gulliverovy_cesty_016.html
+    title: "Díl II\n\nCESTA\_DO BROBDINGNAGU"
   - link: gulliverovy_cesty_017.html
     title: KAPITOLA 1
   - link: gulliverovy_cesty_018.html
@@ -98,6 +99,8 @@ tocBase:
     title: KAPITOLA 7
   - link: gulliverovy_cesty_024.html
     title: KAPITOLA 8
+  - link: gulliverovy_cesty_025.html
+    title: "Díl III\n\nCESTA DO LAPUTY, BALNIBARBI, LUGGNAGGU, GLUBBDUBDRIBU\_A DO JAPONSKA"
   - link: gulliverovy_cesty_026.html
     title: KAPITOLA 1
   - link: gulliverovy_cesty_027.html
@@ -120,6 +123,8 @@ tocBase:
     title: KAPITOLA 10
   - link: gulliverovy_cesty_036.html
     title: KAPITOLA 11
+  - link: gulliverovy_cesty_037.html
+    title: "Díl IV\n\nCESTA DO ZEMĚ\_HVAJNINIMŮ"
   - link: gulliverovy_cesty_038.html
     title: KAPITOLA 1
   - link: gulliverovy_cesty_039.html
