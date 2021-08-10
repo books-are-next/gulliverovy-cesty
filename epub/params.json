@@ -32,36 +32,36 @@
         "filename": "gulliverovy_cesty_001.md",
         "xhtml": "gulliverovy_cesty_001.html",
         "id": 0,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "children": []
       },
       {
         "filename": "gulliverovy_cesty_002.md",
         "xhtml": "gulliverovy_cesty_002.html",
         "id": 1,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "children": []
       },
       {
         "filename": "gulliverovy_cesty_003.md",
         "xhtml": "gulliverovy_cesty_003.html",
         "id": 2,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "children": []
       },
       {
         "filename": "gulliverovy_cesty_004.md",
         "xhtml": "gulliverovy_cesty_004.html",
         "id": 3,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "children": []
       },
       {
@@ -91,7 +91,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Díl I\n\nCESTA DO LILIPUTU",
+        "subtitle": ""
       },
       {
         "filename": "gulliverovy_cesty_008.md",
@@ -180,7 +182,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Díl II\n\nCESTA DO BROBDINGNAGU",
+        "subtitle": ""
       },
       {
         "filename": "gulliverovy_cesty_017.md",
@@ -269,7 +273,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Díl III\n\nCESTA DO LAPUTY, BALNIBARBI, LUGGNAGGU, GLUBBDUBDRIBU A DO JAPONSKA"
       },
       {
         "filename": "gulliverovy_cesty_026.md",
@@ -388,7 +393,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Díl IV\n\nCESTA DO ZEMĚ HVAJNINIMŮ"
       },
       {
         "filename": "gulliverovy_cesty_038.md",
@@ -524,7 +530,7 @@
         "filename": "gulliverovy_cesty_051.md",
         "xhtml": "gulliverovy_cesty_051.html",
         "id": 50,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
         "inToc": true,
         "children": []
@@ -537,7 +543,7 @@
       "identifier": "94576814-dc65-4aaf-b54d-e750a2a410d8",
       "author": "Jonathan Swift",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-10T08:19:16.936Z"
+      "modified": "2021-08-10T08:27:53.893Z"
     },
     "chapters": [
       {
@@ -577,7 +583,7 @@
         "xhtml": "gulliverovy_cesty_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Díl I\n\nCESTA DO LILIPUTU",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_007.md",
         "xhtml": "gulliverovy_cesty_007.html"
@@ -631,7 +637,7 @@
         "xhtml": "gulliverovy_cesty_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Díl II\n\nCESTA DO BROBDINGNAGU",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_016.md",
         "xhtml": "gulliverovy_cesty_016.html"
@@ -685,7 +691,7 @@
         "xhtml": "gulliverovy_cesty_024.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Díl III\n\nCESTA DO LAPUTY, BALNIBARBI, LUGGNAGGU, GLUBBDUBDRIBU A DO JAPONSKA",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_025.md",
         "xhtml": "gulliverovy_cesty_025.html"
@@ -757,7 +763,7 @@
         "xhtml": "gulliverovy_cesty_036.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Díl IV\n\nCESTA DO ZEMĚ HVAJNINIMŮ",
         "subtitleSuggest": "",
         "filename": "gulliverovy_cesty_037.md",
         "xhtml": "gulliverovy_cesty_037.html"
@@ -940,6 +946,6 @@
       "user": "books-are-next",
       "repo": "gulliverovy-cesty"
     },
-    "generatedAt": 1628583557581
+    "generatedAt": 1628584074597
   }
 }
