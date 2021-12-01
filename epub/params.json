@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Gulliverovy cesty",
@@ -6,7 +7,9 @@
       "author": "Jonathan Swift",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-08-09T14:19:22.701Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "mlpurovan2kapitola\nmlpuroven1zvlastnipripady\nmlpuroven1cast",
@@ -32,7 +35,7 @@
         "filename": "gulliverovy_cesty_001.md",
         "xhtml": "gulliverovy_cesty_001.html",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": false,
         "children": []
@@ -953,3 +956,4 @@
     "generatedAt": 1628585837635
   }
 }
+
