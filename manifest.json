@@ -1,16 +1,16 @@
 {
   "author": "Jonathan Swift",
   "edition": "beletrie",
-  "identifier": "swift-gulliverovy-cesty-aba7abf",
+  "identifier": "swift-gulliverovy-cesty-fb8d782",
   "languagecode": "cs",
   "modified": "2021-08-09T14:19:22.701Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Gulliverovy cesty",
-  "revision": "aba7abf",
+  "revision": "fb8d782",
   "generatedAt": {
-    "date": "Thu Dec 02 2021 08:50:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638435006242
+    "date": "Thu Dec 02 2021 09:00:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638435631299
   },
   "documents": [
     {
@@ -936,9 +936,9 @@
     {
       "title": "Poznámky pod čarou • Gulliverovy cesty",
       "file": "gulliverovy_cesty_050.html",
-      "words": 128,
-      "chars": 736,
-      "ideas": 30,
+      "words": 108,
+      "chars": 696,
+      "ideas": 10,
       "role": "chapter",
       "order": 46,
       "prev": "gulliverovy_cesty_049.html",
@@ -976,14 +976,14 @@
   ],
   "totals": {
     "all": {
-      "words": 77194,
-      "chars": 462107,
-      "ideas": 705
+      "words": 77174,
+      "chars": 462067,
+      "ideas": 685
     },
     "chapters": {
-      "words": 77040,
-      "chars": 461077,
-      "ideas": 677
+      "words": 77020,
+      "chars": 461037,
+      "ideas": 657
     }
   }
 }
