@@ -1,6 +1,8 @@
 ---
-title: ''
+title: Tiráž
 ---
+
+***
 
 Gulliverovy cesty
 
@@ -9,9 +11,7 @@ Jonathan Swift
 _Přeložil Aloys Skoumal_
 
 
----
-title: ''
----
+***
 
 Znění tohoto textu vychází z díla [Gulliverovy cesty](https://search.mlp.cz/cz/titul/gulliverovy-cesty/2413498/) tak, jak bylo vydáno v Praze nakladatelstvím Albatros v roce 2004. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -33,12 +33,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 24. 4. 2018.
 
-![](./resources/image002.png)
+![](../Images/image002.png)
 
 
----
-title: ''
----
+***
 
 **Jonathan Swift**
 
