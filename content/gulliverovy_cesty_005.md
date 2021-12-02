@@ -14,4 +14,4 @@ Tento svazek by byl aspoň dvakrát tak veliký, kdybych se nebyl osmělil vyšk
 
 Další podrobné zprávy o spisovateli najde čtenář na prvních stranách knihy.
 
-___Richard Sympson___
+__Richard Sympson__

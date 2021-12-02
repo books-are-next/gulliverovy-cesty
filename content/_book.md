@@ -84,6 +84,7 @@ tocBase:
         title: KAPITOLA 7
       - link: gulliverovy_cesty_015.html
         title: KAPITOLA 8
+    listType: plain
   - link: gulliverovy_cesty_016.html
     title: "Díl II\n\nCESTA\_DO BROBDINGNAGU"
     children:
@@ -103,6 +104,7 @@ tocBase:
         title: KAPITOLA 7
       - link: gulliverovy_cesty_024.html
         title: KAPITOLA 8
+    listType: plain
   - link: gulliverovy_cesty_025.html
     title: "Díl III\n\nCESTA DO LAPUTY, BALNIBARBI, LUGGNAGGU, GLUBBDUBDRIBU\_A DO JAPONSKA"
     children:
@@ -128,6 +130,7 @@ tocBase:
         title: KAPITOLA 10
       - link: gulliverovy_cesty_036.html
         title: KAPITOLA 11
+    listType: plain
   - link: gulliverovy_cesty_037.html
     title: "Díl IV\n\nCESTA DO ZEMĚ\_HVAJNINIMŮ"
     children:
@@ -155,6 +158,7 @@ tocBase:
         title: KAPITOLA 11
       - link: gulliverovy_cesty_049.html
         title: KAPITOLA 12
+    listType: plain
   - link: gulliverovy_cesty_050.html
     title: Poznámky pod čarou
 static:
