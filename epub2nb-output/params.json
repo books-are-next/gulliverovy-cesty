@@ -24,7 +24,7 @@
       "brAfter": "",
       "blockquote": "",
       "figure": "",
-      "em": "mlptitulkaprekladatel\nmlpdopispodpis\nmlpznakkurziva11b\n",
+      "em": "mlptitulkaprekladatel\nmlpznakkurziva11b\n",
       "strong": "mlpurove2kapilolafalesnynadpis\nmlpznaktucne\nmlptirazautoranazev",
       "remove": "",
       "ignore": ""
@@ -549,7 +549,7 @@
       "identifier": "94576814-dc65-4aaf-b54d-e750a2a410d8",
       "author": "Jonathan Swift",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-02T08:59:38.032Z"
+      "modified": "2021-12-02T09:11:47.057Z"
     },
     "chapters": [
       {
@@ -952,6 +952,6 @@
       "user": "books-are-next",
       "repo": "gulliverovy-cesty"
     },
-    "generatedAt": 1638435578629
+    "generatedAt": 1638436307820
   }
 }
