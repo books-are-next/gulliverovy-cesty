@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 1
+contentType: prose
 ---
 
 **Spisovatel odjíždí jakožto lodní kapitán. Mužstvo se proti němu spikne. Vězní ho dlouho v jeho kajutě a potom ho vysadí v neznámé zemi na břeh. Putuje dále do země. Líčení podivných zvířat Jahuů. Spisovatel se setká se dvěma Hvajninimy.**

@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 3
+contentType: prose
 ---
 
 **Spisovatel baví velmi neobyčejným způsobem císaře a jeho šlechtice i šlechtičny. Líčí se zábavy na liliputském dvoře. Spisovatel je za jistých podmínek puštěn na svobodu.**

@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 11
+contentType: prose
 ---
 
 **Nebezpečná cesta spisovatelova. Přijede do Nového Holandska a těší se, že se tam usadí. Domorodec ho poraní šípem. Zajmou ho a odvlečou na portugalskou loď. Jak byl k němu kapitán úslužný. Spisovatel přijede do Anglie.**

@@ -1,5 +1,6 @@
 ---
-title: "Díl II\n\nCESTA\_DO BROBDINGNAGU"
+title: "Díl II  CESTA\_DO BROBDINGNAGU"
+contentType: prose
 ---
 
 

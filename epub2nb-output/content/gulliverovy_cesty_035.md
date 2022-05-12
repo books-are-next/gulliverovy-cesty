@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 10
+contentType: prose
 ---
 
 **Velebí se Luggnačtí. Podrobný popis Struldbrugů s hojnými rozhovory spisovatele a několika významných osob  

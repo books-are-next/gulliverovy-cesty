@@ -1,21 +1,73 @@
 {
-  "author": "Jonathan Swift",
-  "edition": "beletrie",
-  "identifier": "swift-gulliverovy-cesty-97ec393",
-  "languagecode": "cs",
-  "modified": "2021-08-09T14:19:22.701Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Gulliverovy cesty",
-  "revision": "97ec393",
+  "author": "Jonathan Swift",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "swift-gulliverovy-cesty-44e1be9",
+  "revision": "44e1be9",
+  "readingOrder": [
+    "promo.html",
+    "gulliverovy_cesty_005.html",
+    "gulliverovy_cesty_006.html",
+    "gulliverovy_cesty_007.html",
+    "gulliverovy_cesty_008.html",
+    "gulliverovy_cesty_009.html",
+    "gulliverovy_cesty_010.html",
+    "gulliverovy_cesty_011.html",
+    "gulliverovy_cesty_012.html",
+    "gulliverovy_cesty_013.html",
+    "gulliverovy_cesty_014.html",
+    "gulliverovy_cesty_015.html",
+    "gulliverovy_cesty_016.html",
+    "gulliverovy_cesty_017.html",
+    "gulliverovy_cesty_018.html",
+    "gulliverovy_cesty_019.html",
+    "gulliverovy_cesty_020.html",
+    "gulliverovy_cesty_021.html",
+    "gulliverovy_cesty_022.html",
+    "gulliverovy_cesty_023.html",
+    "gulliverovy_cesty_024.html",
+    "gulliverovy_cesty_025.html",
+    "gulliverovy_cesty_026.html",
+    "gulliverovy_cesty_027.html",
+    "gulliverovy_cesty_028.html",
+    "gulliverovy_cesty_029.html",
+    "gulliverovy_cesty_030.html",
+    "gulliverovy_cesty_031.html",
+    "gulliverovy_cesty_032.html",
+    "gulliverovy_cesty_033.html",
+    "gulliverovy_cesty_034.html",
+    "gulliverovy_cesty_035.html",
+    "gulliverovy_cesty_036.html",
+    "gulliverovy_cesty_037.html",
+    "gulliverovy_cesty_038.html",
+    "gulliverovy_cesty_039.html",
+    "gulliverovy_cesty_040.html",
+    "gulliverovy_cesty_041.html",
+    "gulliverovy_cesty_042.html",
+    "gulliverovy_cesty_043.html",
+    "gulliverovy_cesty_044.html",
+    "gulliverovy_cesty_045.html",
+    "gulliverovy_cesty_046.html",
+    "gulliverovy_cesty_047.html",
+    "gulliverovy_cesty_048.html",
+    "gulliverovy_cesty_049.html",
+    "gulliverovy_cesty_050.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Dec 02 2021 09:12:41 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638436361023
+    "date": "Thu May 12 2022 10:35:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351735882
   },
   "documents": [
     {
-      "title": "Gulliverovy cesty",
-      "file": "gulliverovy_cesty_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +75,17 @@
       "order": 0,
       "prev": null,
       "next": "gulliverovy_cesty_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Vydavatel čtenáři • Gulliverovy cesty",
+      "title": "Vydavatel čtenáři",
       "file": "gulliverovy_cesty_005.html",
       "words": 352,
       "chars": 2185,
       "ideas": 8,
       "role": "chapter",
       "order": 1,
-      "prev": "gulliverovy_cesty_002.html",
+      "prev": "promo.html",
       "next": "gulliverovy_cesty_006.html",
       "toc": [
         {
@@ -54,11 +98,11 @@
       ]
     },
     {
-      "title": "Dopis kapitána\nGullivera příbuznému Sympsonovi • Gulliverovy cesty",
+      "title": "Dopis kapitána Gullivera příbuznému Sympsonovi",
       "file": "gulliverovy_cesty_006.html",
       "words": 1138,
-      "chars": 6767,
-      "ideas": 13,
+      "chars": 6768,
+      "ideas": 12,
       "role": "chapter",
       "order": 2,
       "prev": "gulliverovy_cesty_005.html",
@@ -67,18 +111,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Dopis kapitána\nGullivera příbuznému Sympsonovi",
+          "name": "Dopis kapitána Gullivera příbuznému Sympsonovi",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Díl I\n\nCESTA DO LILIPUTU • Gulliverovy cesty",
+      "title": "Díl I  CESTA DO LILIPUTU",
       "file": "gulliverovy_cesty_007.html",
       "words": 5,
-      "chars": 22,
-      "ideas": 2,
+      "chars": 24,
+      "ideas": 1,
       "role": "chapter",
       "order": 3,
       "prev": "gulliverovy_cesty_006.html",
@@ -87,14 +131,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Díl I\nCESTA DO LILIPUTU",
+          "name": "Díl I  CESTA DO LILIPUTU",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "KAPITOLA 1 • Gulliverovy cesty",
+      "title": "KAPITOLA 1",
       "file": "gulliverovy_cesty_008.html",
       "words": 3160,
       "chars": 18146,
@@ -114,7 +158,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 2 • Gulliverovy cesty",
+      "title": "KAPITOLA 2",
       "file": "gulliverovy_cesty_009.html",
       "words": 2739,
       "chars": 16199,
@@ -134,7 +178,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 3 • Gulliverovy cesty",
+      "title": "KAPITOLA 3",
       "file": "gulliverovy_cesty_010.html",
       "words": 2212,
       "chars": 13219,
@@ -154,7 +198,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 4 • Gulliverovy cesty",
+      "title": "KAPITOLA 4",
       "file": "gulliverovy_cesty_011.html",
       "words": 1454,
       "chars": 8943,
@@ -174,7 +218,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 5 • Gulliverovy cesty",
+      "title": "KAPITOLA 5",
       "file": "gulliverovy_cesty_012.html",
       "words": 1844,
       "chars": 11332,
@@ -194,7 +238,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 6 • Gulliverovy cesty",
+      "title": "KAPITOLA 6",
       "file": "gulliverovy_cesty_013.html",
       "words": 2123,
       "chars": 12854,
@@ -214,7 +258,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 7 • Gulliverovy cesty",
+      "title": "KAPITOLA 7",
       "file": "gulliverovy_cesty_014.html",
       "words": 2316,
       "chars": 14321,
@@ -234,7 +278,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 8 • Gulliverovy cesty",
+      "title": "KAPITOLA 8",
       "file": "gulliverovy_cesty_015.html",
       "words": 1974,
       "chars": 11370,
@@ -254,11 +298,11 @@
       ]
     },
     {
-      "title": "Díl II\n\nCESTA DO BROBDINGNAGU • Gulliverovy cesty",
+      "title": "Díl II  CESTA DO BROBDINGNAGU",
       "file": "gulliverovy_cesty_016.html",
       "words": 5,
-      "chars": 27,
-      "ideas": 2,
+      "chars": 29,
+      "ideas": 1,
       "role": "chapter",
       "order": 12,
       "prev": "gulliverovy_cesty_015.html",
@@ -267,14 +311,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Díl II\nCESTA DO BROBDINGNAGU",
+          "name": "Díl II  CESTA DO BROBDINGNAGU",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "KAPITOLA 1 • Gulliverovy cesty",
+      "title": "KAPITOLA 1",
       "file": "gulliverovy_cesty_017.html",
       "words": 3753,
       "chars": 21463,
@@ -294,7 +338,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 2 • Gulliverovy cesty",
+      "title": "KAPITOLA 2",
       "file": "gulliverovy_cesty_018.html",
       "words": 1718,
       "chars": 9883,
@@ -314,7 +358,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 3 • Gulliverovy cesty",
+      "title": "KAPITOLA 3",
       "file": "gulliverovy_cesty_019.html",
       "words": 3025,
       "chars": 18031,
@@ -334,7 +378,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 4 • Gulliverovy cesty",
+      "title": "KAPITOLA 4",
       "file": "gulliverovy_cesty_020.html",
       "words": 1425,
       "chars": 8499,
@@ -354,7 +398,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 5 • Gulliverovy cesty",
+      "title": "KAPITOLA 5",
       "file": "gulliverovy_cesty_021.html",
       "words": 2623,
       "chars": 15079,
@@ -374,7 +418,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 6 • Gulliverovy cesty",
+      "title": "KAPITOLA 6",
       "file": "gulliverovy_cesty_022.html",
       "words": 2501,
       "chars": 15497,
@@ -394,7 +438,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 7 • Gulliverovy cesty",
+      "title": "KAPITOLA 7",
       "file": "gulliverovy_cesty_023.html",
       "words": 1819,
       "chars": 11328,
@@ -414,7 +458,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 8 • Gulliverovy cesty",
+      "title": "KAPITOLA 8",
       "file": "gulliverovy_cesty_024.html",
       "words": 3638,
       "chars": 20976,
@@ -434,11 +478,11 @@
       ]
     },
     {
-      "title": "Díl III\n\nCESTA DO LAPUTY, BALNIBARBI, LUGGNAGGU, GLUBBDUBDRIBU A DO JAPONSKA • Gulliverovy cesty",
+      "title": "Díl III  CESTA DO LAPUTY, BALNIBARBI, LUGGNAGGU, GLUBBDUBDRIBU A DO JAPONSKA",
       "file": "gulliverovy_cesty_025.html",
       "words": 11,
-      "chars": 74,
-      "ideas": 2,
+      "chars": 76,
+      "ideas": 1,
       "role": "chapter",
       "order": 21,
       "prev": "gulliverovy_cesty_024.html",
@@ -447,14 +491,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Díl III\nCESTA DO LAPUTY, BALNIBARBI, LUGGNAGGU, GLUBBDUBDRIBU A DO JAPONSKA",
+          "name": "Díl III  CESTA DO LAPUTY, BALNIBARBI, LUGGNAGGU, GLUBBDUBDRIBU A DO JAPONSKA",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "KAPITOLA 1 • Gulliverovy cesty",
+      "title": "KAPITOLA 1",
       "file": "gulliverovy_cesty_026.html",
       "words": 1681,
       "chars": 9788,
@@ -474,7 +518,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 2 • Gulliverovy cesty",
+      "title": "KAPITOLA 2",
       "file": "gulliverovy_cesty_027.html",
       "words": 1986,
       "chars": 11972,
@@ -494,7 +538,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 3 • Gulliverovy cesty",
+      "title": "KAPITOLA 3",
       "file": "gulliverovy_cesty_028.html",
       "words": 1780,
       "chars": 11012,
@@ -514,7 +558,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 4 • Gulliverovy cesty",
+      "title": "KAPITOLA 4",
       "file": "gulliverovy_cesty_029.html",
       "words": 1744,
       "chars": 10457,
@@ -534,7 +578,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 5 • Gulliverovy cesty",
+      "title": "KAPITOLA 5",
       "file": "gulliverovy_cesty_030.html",
       "words": 1731,
       "chars": 10610,
@@ -554,7 +598,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 6 • Gulliverovy cesty",
+      "title": "KAPITOLA 6",
       "file": "gulliverovy_cesty_031.html",
       "words": 1393,
       "chars": 8756,
@@ -574,7 +618,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 7 • Gulliverovy cesty",
+      "title": "KAPITOLA 7",
       "file": "gulliverovy_cesty_032.html",
       "words": 1181,
       "chars": 7107,
@@ -594,7 +638,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 8 • Gulliverovy cesty",
+      "title": "KAPITOLA 8",
       "file": "gulliverovy_cesty_033.html",
       "words": 1352,
       "chars": 8515,
@@ -614,7 +658,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 9 • Gulliverovy cesty",
+      "title": "KAPITOLA 9",
       "file": "gulliverovy_cesty_034.html",
       "words": 1054,
       "chars": 6406,
@@ -634,7 +678,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 10 • Gulliverovy cesty",
+      "title": "KAPITOLA 10",
       "file": "gulliverovy_cesty_035.html",
       "words": 1896,
       "chars": 11704,
@@ -654,7 +698,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 11 • Gulliverovy cesty",
+      "title": "KAPITOLA 11",
       "file": "gulliverovy_cesty_036.html",
       "words": 802,
       "chars": 4931,
@@ -674,11 +718,11 @@
       ]
     },
     {
-      "title": "Díl IV\n\nCESTA DO ZEMĚ HVAJNINIMŮ • Gulliverovy cesty",
+      "title": "Díl IV  CESTA DO ZEMĚ HVAJNINIMŮ",
       "file": "gulliverovy_cesty_037.html",
       "words": 6,
-      "chars": 30,
-      "ideas": 2,
+      "chars": 32,
+      "ideas": 1,
       "role": "chapter",
       "order": 33,
       "prev": "gulliverovy_cesty_036.html",
@@ -687,14 +731,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Díl IV\nCESTA DO ZEMĚ HVAJNINIMŮ",
+          "name": "Díl IV  CESTA DO ZEMĚ HVAJNINIMŮ",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "KAPITOLA 1 • Gulliverovy cesty",
+      "title": "KAPITOLA 1",
       "file": "gulliverovy_cesty_038.html",
       "words": 1936,
       "chars": 11432,
@@ -714,7 +758,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 2 • Gulliverovy cesty",
+      "title": "KAPITOLA 2",
       "file": "gulliverovy_cesty_039.html",
       "words": 1777,
       "chars": 10177,
@@ -734,7 +778,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 3 • Gulliverovy cesty",
+      "title": "KAPITOLA 3",
       "file": "gulliverovy_cesty_040.html",
       "words": 1640,
       "chars": 9590,
@@ -754,7 +798,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 4 • Gulliverovy cesty",
+      "title": "KAPITOLA 4",
       "file": "gulliverovy_cesty_041.html",
       "words": 1509,
       "chars": 8912,
@@ -774,7 +818,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 5 • Gulliverovy cesty",
+      "title": "KAPITOLA 5",
       "file": "gulliverovy_cesty_042.html",
       "words": 1867,
       "chars": 11471,
@@ -794,7 +838,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 6 • Gulliverovy cesty",
+      "title": "KAPITOLA 6",
       "file": "gulliverovy_cesty_043.html",
       "words": 1261,
       "chars": 7939,
@@ -814,7 +858,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 7 • Gulliverovy cesty",
+      "title": "KAPITOLA 7",
       "file": "gulliverovy_cesty_044.html",
       "words": 1774,
       "chars": 10554,
@@ -834,7 +878,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 8 • Gulliverovy cesty",
+      "title": "KAPITOLA 8",
       "file": "gulliverovy_cesty_045.html",
       "words": 1114,
       "chars": 6751,
@@ -854,7 +898,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 9 • Gulliverovy cesty",
+      "title": "KAPITOLA 9",
       "file": "gulliverovy_cesty_046.html",
       "words": 1205,
       "chars": 7423,
@@ -874,7 +918,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 10 • Gulliverovy cesty",
+      "title": "KAPITOLA 10",
       "file": "gulliverovy_cesty_047.html",
       "words": 2217,
       "chars": 13501,
@@ -894,7 +938,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 11 • Gulliverovy cesty",
+      "title": "KAPITOLA 11",
       "file": "gulliverovy_cesty_048.html",
       "words": 2444,
       "chars": 13998,
@@ -914,7 +958,7 @@
       ]
     },
     {
-      "title": "KAPITOLA 12 • Gulliverovy cesty",
+      "title": "KAPITOLA 12",
       "file": "gulliverovy_cesty_049.html",
       "words": 1727,
       "chars": 11090,
@@ -934,7 +978,7 @@
       ]
     },
     {
-      "title": "Poznámky pod čarou • Gulliverovy cesty",
+      "title": "Poznámky pod čarou",
       "file": "gulliverovy_cesty_050.html",
       "words": 108,
       "chars": 696,
@@ -954,11 +998,11 @@
       ]
     },
     {
-      "title": "Tiráž • Gulliverovy cesty",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 148,
-      "chars": 988,
-      "ideas": 24,
+      "words": 117,
+      "chars": 780,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "gulliverovy_cesty_050.html",
@@ -976,14 +1020,14 @@
   ],
   "totals": {
     "all": {
-      "words": 77174,
-      "chars": 462067,
-      "ideas": 685
+      "words": 77143,
+      "chars": 461868,
+      "ideas": 670
     },
     "chapters": {
       "words": 77020,
-      "chars": 461037,
-      "ideas": 657
+      "chars": 461046,
+      "ideas": 652
     }
   }
 }

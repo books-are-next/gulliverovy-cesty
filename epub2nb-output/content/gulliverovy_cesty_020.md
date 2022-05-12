@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 4
+contentType: prose
 ---
 
 **Popis krajiny. Návrh na opravu novějších map. Králův palác a krátký výklad o hlavním městě. Jak cestovatel cestoval. Popis hlavního chrámu.**

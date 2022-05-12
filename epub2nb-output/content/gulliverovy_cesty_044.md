@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 7
+contentType: prose
 ---
 
 **Spisovatelova velká láska k otčině. Poznámky pánovy o anglické ústavě a státní správě, jak je vylíčil spisovatel, s obdobnými případy a srovnáními. Pánovy poznámky o lidské povaze.**

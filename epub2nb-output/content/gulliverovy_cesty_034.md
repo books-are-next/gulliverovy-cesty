@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 9
+contentType: prose
 ---
 
 **Spisovatel se vrací do Maldonady. Plaví se do království Luggnackého. Pošlou pro něho ode dvora. Jak byl přijat v slyšení. Králova veliká mírnost k poddaným.**

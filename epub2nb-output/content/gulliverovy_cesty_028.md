@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 3
+contentType: prose
 ---
 
 **Zjev řešený novější filozofií a hvězdářstvím. Velké hvězdářské pokroky Lapuťanů. Jak potlačuje král vzpoury.**

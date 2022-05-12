@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 5
+contentType: prose
 ---
 
 **Spisovatel překazí neobyčejnou válečnou lstí vpád. Je vyznamenán vysokou hodností. Příchod vyslanců od císaře blefuskuánského a žádost o mír. Císařovnin příbytek zachvátí náhodou požár a spisovatel přispěje k záchraně zbývající části paláce.**

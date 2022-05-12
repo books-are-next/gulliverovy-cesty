@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 5
+contentType: prose
 ---
 
 **Spisovatel smí zhlédnout velkou akademii lagadskou. Obšírný popis akademie. Jakým uměním se tam věnují profesoři.**

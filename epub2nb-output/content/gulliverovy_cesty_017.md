@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 1
+contentType: prose
 ---
 
 **Líčení veliké bouře. Pošlou pinasku pro vodu, spisovatel na ní odjíždí probádat krajinu. Zanechají ho na břehu, domorodec ho zajme a odnese k sedlákovi. Jak ho tam přijmou a jaké nehody ho tam potkají. Popis obyvatelstva.**

@@ -1,5 +1,6 @@
 ---
 title: Poznámky pod čarou
+contentType: prose
 ---
 
 [\[1\]](./resources/undefined) Dutá míra (něco přes litr) užívaná v některých zemích. _Pozn. red._

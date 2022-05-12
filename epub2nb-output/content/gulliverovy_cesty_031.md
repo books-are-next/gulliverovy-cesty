@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 6
+contentType: prose
 ---
 
 **Další zpráva o akademii. Spisovatel navrhuje několik oprav, a ty jsou uctivě přijaty.**

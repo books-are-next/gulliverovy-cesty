@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 2
+contentType: prose
 ---
 
 **Popis sedlákovy dcery. Spisovatele odnesou do městečka a potom do hlavního města. Podrobnosti z cesty.**

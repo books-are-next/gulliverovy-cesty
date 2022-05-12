@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 2
+contentType: prose
 ---
 
 **Spisovatel je Hvajninimem zaveden do domu. Popis domu. Jak ho tam přijali. Potrava Hvajninimů. Spisovatel trpí nedostatkem masa. Nakonec je mu pomoženo. Jak se v té zemi živil.**

@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 8
+contentType: prose
 ---
 
 **Další zprávy o Glubbdubdribu. Opravují se staré i novější dějiny.**
