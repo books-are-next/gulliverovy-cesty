@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 4
+contentType: prose
 ---
 
 **Spisovatel odchází z Laputy. Je dopraven do Balnibarbi a přijede do hlavního města. Popis hlavního města a přilehlé krajiny. Spisovatel je přijat pohostinsky předním velmožem. Jeho rozmluva s oním velmožem.**

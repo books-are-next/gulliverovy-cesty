@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 1
+contentType: prose
 ---
 
 **Spisovatel se vydá na třetí cestu. Je zajat piráty. Holanďanova zlomyslnost. Příjezd na ostrov. Přijmou ho na Laputu.**

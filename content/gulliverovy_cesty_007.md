@@ -1,5 +1,6 @@
 ---
-title: "Díl I\n\nCESTA\_DO LILIPUTU"
+title: "Díl I  CESTA\_DO LILIPUTU"
+contentType: prose
 ---
 
 

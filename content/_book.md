@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Gulliverovy cesty
@@ -12,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - gulliverovy_cesty_002.html
+  - promo.html
   - gulliverovy_cesty_005.html
   - gulliverovy_cesty_006.html
   - gulliverovy_cesty_007.html

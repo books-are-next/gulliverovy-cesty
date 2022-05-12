@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 8
+contentType: prose
 ---
 
 **Spisovatel vypráví o některých zvláštnostech Jahuů. Veliké ctnosti Hvajninimů. Jak vychovávají a cvičí svou mládež. Jejich valný sněm.**

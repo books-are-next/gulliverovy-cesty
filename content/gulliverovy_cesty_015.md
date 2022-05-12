@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 8
+contentType: prose
 ---
 
 **Šťastnou náhodou najde spisovatel možnost odejít z Blefusku. Po menších nesnázích se dostane šťastně do své rodné země.**

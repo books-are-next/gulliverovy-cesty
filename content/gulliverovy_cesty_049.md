@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 12
+contentType: prose
 ---
 
 **Spisovatelova pravdomluvnost. Jaký cíl sleduje uveřejněním tohoto díla. Důtka oněm spisovatelům, kteří se uchylují od pravdy. Spisovatel se ospravedlňuje, že při spisování neměl nekalých úmyslů. Odpověď na výtku. Jak se zakládají osady. Chvála otčiny. Prokazuje se právo Koruny na země, jež spisovatel vylíčil. Obtíže s jejich dobýváním. Spisovatel se loučí navždy se čtenářem. Uvádí, jak bude napříště žít, dává dobrou radu a končí.**

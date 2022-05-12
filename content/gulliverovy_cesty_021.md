@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 5
+contentType: prose
 ---
 
 **Rozličná dobrodružství, která spisovatele potkala. Poprava zločince. Spisovatel ukazuje, jak se vyzná v plavectví.**

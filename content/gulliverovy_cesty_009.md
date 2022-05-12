@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 2
+contentType: prose
 ---
 
 **Císař liliputský v průvodu velmožů přichází k spisovateli do vězení. Popisuje se císařova osobnost a vzezření. Jsou ustanoveni učenci, aby naučili spisovatele své řeči. Jeho laskavost mu dopomůže k přízni. Prohledají mu kapsy a odeberou mu šavli a pistole.**

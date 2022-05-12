@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 6
+contentType: prose
 ---
 
 **Pokračování o anglických poměrech. Povaha prvního ministra na evropských dvorech.**

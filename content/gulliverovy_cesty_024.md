@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 8
+contentType: prose
 ---
 
 **Král s královnou táhnou na hranice. Spisovatel je doprovází. Podrobná zpráva o tom, jak se dostal z té země. Vrací se do Anglie.**

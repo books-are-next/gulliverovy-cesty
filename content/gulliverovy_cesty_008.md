@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 1
+contentType: prose
 ---
 
 **Spisovatel vypráví o sobě a své rodině. Jak byl poprvé sveden k cestování. Ztroskotá a plave ze všech sil, dostane se šťastně na břeh v zemi Liliputů, je zajat a odveden dále do země.**

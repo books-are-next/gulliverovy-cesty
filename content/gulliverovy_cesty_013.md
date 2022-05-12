@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 6
+contentType: prose
 ---
 
 **Liliputští obyvatelé, jejich věda, zákony a zvyky. Výchova dětí. Jak žil spisovatel v té zemi.**

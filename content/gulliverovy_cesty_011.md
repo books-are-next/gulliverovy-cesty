@@ -1,5 +1,6 @@
 ---
 title: KAPITOLA 4
+contentType: prose
 ---
 
 **Líčí se liliputánské hlavní město Mildendo a císařský palác. Spisovatel rozmlouvá s nejvyšším tajemníkem o záležitostech té říše a nabízí, že bude císaři sloužit ve válkách.**
