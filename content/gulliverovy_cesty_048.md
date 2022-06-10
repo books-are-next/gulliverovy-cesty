@@ -3,6 +3,8 @@ title: KAPITOLA 11
 contentType: prose
 ---
 
+<section>
+
 **Nebezpečná cesta spisovatelova. Přijede do Nového Holandska a těší se, že se tam usadí. Domorodec ho poraní šípem. Zajmou ho a odvlečou na portugalskou loď. Jak byl k němu kapitán úslužný. Spisovatel přijede do Anglie.**
 
 Vydal jsem se na tuto beznadějnou cestu 15. února 1714/15 o deváté zrána. Vál příznivý vítr. Zpočátku jsem užíval toliko vesel. Ale potom jsem uvážil, že se brzy unavím a vítr se možná obrátí, a tak jsem se osmělil natáhnout malou plachtu. Plul jsem, podporován odlivem, pokud jsem mohl odhadnout, rychlostí asi půldruhé míle za hodinu. Můj pán setrval s přáteli na břehu tak dlouho, až jsem jim skoro zmizel z dohledu; slyšel jsem ryzáka, který mě měl vždycky rád, jak za mnou pokřikuje: „Hnuj illa nyha, madža Jahu!“ (Buď na sebe opatrný, ušlechtilý Jahu!)
@@ -40,3 +42,5 @@ Vida nezbytí, nakonec jsem se podrobil. 24. listopadu jsem vyjel z Lisabonu na 
 Má žena s celou rodinou mě přijala s velkým úžasem a radostí. Všichni byli pevně přesvědčeni, že jsem dávno mrtev. Ale přiznávám se bez obalu, že mě pohled na ně naplnil toliko záštím, odporem a opovržením. Od svého neblahého vypuzení ze země Hvajninimů přivedl jsem to sice tak daleko, že jsem snesl pohled na Jahuy a rozmlouval s donem Pedrem de Mendez. Ale přesto jsem měl v paměti i obraznosti plno ctnostných myšlenek těch vznešených Hvajninimů.
 
 Jakmile jsem vešel do domu, vzala mě žena do náručí a políbila. Upadl jsem skoro na hodinu do mdlob. Co to píši, uplynulo od mého posledního návratu do Anglie pět let. První rok jsem u sebe nevystál ženu ani děti. Až do nynějška se neopováží dotknout se mého chleba nebo se napít z mé číše. Za první uložené peníze jsem si koupil dva hřebečky. Chovám je v dobré stáji. Hned po nich je mým největším oblíbencem čeledín. Cítím, jak okřívám zápachem, jímž načichne ve stáji. Moji koně mi obstojně rozumějí. Rozmlouvám s nimi denně aspoň čtyři hodiny. Nevědí nic o uzdě a sedle. Žijí se mnou ve velkém přátelství a spolu v družnosti.
+
+</section>

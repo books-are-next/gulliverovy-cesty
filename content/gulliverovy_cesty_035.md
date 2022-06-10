@@ -3,6 +3,8 @@ title: KAPITOLA 10
 contentType: prose
 ---
 
+<section>
+
 **Velebí se Luggnačtí. Podrobný popis Struldbrugů s hojnými rozhovory spisovatele a několika významných osob  
 o tomto předmětu.**
 
@@ -37,3 +39,5 @@ Ježto se tamní řeč stále vyvíjí, struldbrugové z jednoho století nerozu
 To byla zpráva, kterou mi podal o struldbruzích, pokud se pamatuji. Viděl jsem jich později pět nebo šest různého stáří (nejmladšímu z nich nebylo více než dvě stě let), když mi je několikrát přivedli známí. Slyšeli o mně, že jsem veliký cestovatel, který zhlédl celý svět, ale ani se jim nezachtělo otázat se mě na něco. Požádali mě jen o slumskudask neboli dárek na památku. Je to neškodná žebrota, jíž se obchází zákon, který ji přísně zakazuje. Vydržuje je totiž veřejnost, arci jen hubenými částkami.
 
 Čtenář lehce uvěří, že po tom, co jsem slyšel a viděl, má nezkrotná chuť po neustálém životě notně ochabla. Zastyděl jsem se až do duše za ony utěšené představy, jež jsem si utvořil. Zdálo se mi, že by si žádný tyran nevymyslil smrt, k níž bych se s chutí neutekl před takovým životem. Král se dověděl o všem, co se při této příležitosti mluvilo mezi mnou a mými přáteli. Bodře si mě dobíral řka, že by chtěl, abych poslal do své vlasti několik struldbrugů, a tak obrnil své krajany proti strachu ze smrti. Ale jak se zdá, základní zákony toho království to zakazují. Jinak bych byl rád podstoupil námahu i útraty za jejich převezení.
+
+</section>

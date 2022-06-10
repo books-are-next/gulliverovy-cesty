@@ -3,6 +3,8 @@ title: KAPITOLA 3
 contentType: prose
 ---
 
+<section>
+
 **Zjev řešený novější filozofií a hvězdářstvím. Velké hvězdářské pokroky Lapuťanů. Jak potlačuje král vzpoury.**
 
 Požádal jsem panovníka o dovolení, abych směl zhlédnout pamětihodnosti ostrova. On mi je ráčil milostivě udělit a hned kázal mému učiteli, aby mě doprovázel. Zejména jsem se chtěl dovědět, jakým umělým nebo přírodním příčinám děkuje ostrov za svůj pohyb. O tom teď podám čtenáři učený výklad.
@@ -38,3 +40,5 @@ Ta příhoda nadobro zmařila královo trestní opatření, a tak (abych se už 
 Jeden ministr mě ujišťoval, že kdyby se byl ostrov přiblížil tak blízko k městu, že by se už nebyl mohl pozdvihnout, měšťané byli odhodláni připevnit jej navždy, zabít krále i jeho služebnictvo a úplně změnit vládu.
 
 Podle základního zákona toho království nesmí král ani oba jeho nejstarší synové odejít z ostrova. Rovněž ne královna, dokud neodchová děti.
+
+</section>

@@ -3,6 +3,8 @@ title: KAPITOLA 1
 contentType: prose
 ---
 
+<section>
+
 **Spisovatel se vydá na třetí cestu. Je zajat piráty. Holanďanova zlomyslnost. Příjezd na ostrov. Přijmou ho na Laputu.**
 
 Ještě jsem nepobyl doma více než deset dní, a tu ke mně přišel kapitán William Robinson, rodák z Cornwallu, velitel na Naději, statném to korábu o třech stech tunách. Byl jsem kdysi ranhojičem na jiné lodi, jejímž byl velitelem a z jedné čtvrtiny majitelem, když plula do Levanty. Jednal se mnou vždycky spíše jako s bratrem než jako s podřízeným důstojníkem. Když uslyšel o mém příjezdu, navštívil mě jen z pouhého přátelství. Tak jsem se aspoň domníval, protože mezi námi nepadlo žádné jiné slovo, než co se říkává po dlouhé odloučenosti. Ale opakoval návštěvy častěji, projevoval radost nad tím, že jsem zdráv, vyptával se mě, zdali jsem se už nadobro usadil, a přitom prohodil, že se chystá za dva měsíce na cestu do Východní Indie. Nakonec mě přímo sváděl, třeba s omluvami, abych se stal ranhojičem na jeho lodi. Budu prý mít k ruce ještě druhého ranhojiče a dva pomocníky. Dostanu dvojnásobný plat, než se obyčejně dává. A ježto prý se podle jeho zkušeností mé námořnické vědomosti nejméně vyrovnají jeho, zaváže se, že se bude řídit mou radou, jako kdybych byl spoluvelitelem.
@@ -30,3 +32,5 @@ Vrozená láska k životu vzbudila ve mně jakési radostné vzrušení a oddáv
 Zástup vzrůstal a ani ne za půl hodiny se ostrov pohyboval a vznášel tak, že byl nejnižší terasou zároveň se mnou, necelých sto yardů od pahorku, na němž jsem stál. Zaujal jsem postoj co nejúpěnlivější a mluvil co nejponíženěji, ale nikdo mi neodpovídal. Ti, kdo stáli nejblíže nade mnou, byli asi předáci, jak jsem soudil z jejich šatu. Rokovali vážně mezi sebou a často na mne shlíželi. Nakonec zavolal jeden z nich jasnou, plynnou, vytříbenou mluvou, ne nepodobnou zvukem italštině. Odvětil jsem proto touto řečí, doufaje, že aspoň její spád bude snad lahodnější jeho sluchu. Nerozuměli jsme sice jeden druhému, ale snadno poznali, co chci říci, neboť viděli, v jakých jsem nesnázích.
 
 Kývali na mne, abych sestoupil ze skály a šel na pobřeží. To jsem také učinil. Když se pak Létací ostrov vznesl do příhodné výše, takže jeho okraj byl přímo nade mnou, spustili z nejnižší terasy řetěz, na jehož konci bylo sedátko; usadil jsem se do něho a tak mě vytáhli po kladkách nahoru.
+
+</section>

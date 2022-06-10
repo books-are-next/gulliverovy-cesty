@@ -3,6 +3,8 @@ title: KAPITOLA 7
 contentType: prose
 ---
 
+<section>
+
 **Spisovatel odjíždí z Lagada, přichází do Maldonady. Není po ruce loď. Odjíždí nakrátko do Glubbdubdribu, je přijat guvernérem.**
 
 Pevnina, jejíž částí je toto království, prostírá se, jak se důvodně domnívám, na východ k oné neznámé končině americké ležící na západ od Kalifornie a na sever do Tichého oceánu, k němuž není z Lagada dále než sto padesát mil. Je tam dobrý přístav a vede se čilý obchod s velkým ostrovem Luggnaggem, který leží na severozápad asi na devětadvacátém stupni severní šířky a sto čtyřicátém stupni východní délky. Ostrov Luggnagg je jihovýchodně od Japonska ve vzdálenosti nějakých sto mořských mil. Japonský císař a král luggnacký jsou věrnými spojenci, takže je co chvíli možno plout z jednoho ostrova na druhý. Tam jsem se tedy rozhodl zamířit, abych se tak dostal zpátky do Evropy. Najal jsem si dva mezky s průvodcem, aby mi ukazoval cestu a nesl mi drobná zavazadla. Rozloučil jsem se se svým šlechetným ochráncem, který mi už projevil tolik přízně a ještě mě na rozchodnou štědře obdaroval.
@@ -26,3 +28,5 @@ Viděl jsem Caesara a Pompeia v čele vojsk, jak se právě chystali k boji. Prv
 Na mou žádost pokynul guvernér Caesarovi a Brutovi, aby k nám přistoupili. Při pohledu na Bruta pojala mě nábožná úcta a lehce jsem v každém rysu jeho obličeje rozeznal dokonalou ctnost, svrchovanou srdnatost a neochvějnost, pravou lásku k vlasti a naprostou blahovůli k lidstvu. Všiml jsem si s velikou radostí, že si ti dva dobře rozumějí, a Caesar se mi bez okolků přiznal, že se i největší činy z jeho života zdaleka nevyrovnají slávě toho, jak mu byl odňat. Měl jsem čest pohovořit si hodně s Brutem. Řekl mi, že je stále pohromadě se svým předchůdcem Juniem, se Sokratem, Epaminondou[\[3\]](./resources/undefined), Katonem mladším a se sirem Thomasem Morem. Věru, šesteřice mužů, k níž všechny věky celého světa nepřidají sedmého.
 
 Bylo by zdlouhavé, kdybych čtenáře obtěžoval výčtem ohromného množství výtečníků, které jsem si dal vyvolat, abych ukojil nezkrotnou touhu uvidět před sebou celý svět ve všech obdobích starověku. Pásl jsem se zrakem zejména na škůdcích tyranů a uchvatitelů a na osvoboditelích utlačovaných a porobených národů. Radost, jakou jsem v duchu cítil, nelze ani vyjádřit tak, aby z toho měl čtenář přiměřený požitek.
+
+</section>

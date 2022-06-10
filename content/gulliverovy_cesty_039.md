@@ -3,6 +3,8 @@ title: KAPITOLA 2
 contentType: prose
 ---
 
+<section>
+
 **Spisovatel je Hvajninimem zaveden do domu. Popis domu. Jak ho tam přijali. Potrava Hvajninimů. Spisovatel trpí nedostatkem masa. Nakonec je mu pomoženo. Jak se v té zemi živil.**
 
 Když jsme ušli asi tři míle, dostali jsme se k jakémusi stavení z kůlů zaražených do země a opletených proutím. Střecha byla nízká a došková. Upokojil jsem se trochu a vyňal hračky, jaké nosívají cestovatelé za dárky divošským indiánům v Americe a v jiných končinách. Doufal jsem, že si tím nakloním domácí, aby mě vlídně přijali. Kůň mi pokynul, abych šel napřed. Byla to prostorná místnost s hladkou hliněnou podlahou a na jedné straně se táhly po celé délce žebřiny a žlab. Byli tam tři valaši a dvě klisny. Nejedli, jenom posedávali na zadcích, nad čímž jsem velmi užasl. Ale ještě více jsem užasl, když jsem viděl, že ostatní se zabývají domácí prací. Zdálo se mi, že je to jen sprostý dobytek. To mě utvrdilo v mé dřívější domněnce, že lid, který dovede potud zcivilizovat nerozumná zvířata, jistotně předčí moudrostí všechny národy na světě. Jablečňák vstoupil hned po mně, a tak jsem ušel hrubostem, kterých by se mi bylo možná dostalo. Několikrát na ně pánovitě zaržál a oni mu odpovídali.
@@ -26,3 +28,5 @@ Když bylo po obědě, vzal mě koňský pán stranou a naznačoval mi posunky a
 Tolik postačí říci o stravě. Tímto předmětem přecpávají jiní cestovatelé své knihy, jako by měli čtenáři nevímjaký zájem o to, stravujeme-li se dobře, či špatně. Je třeba zmínit se o té věci, aby si svět nemyslil, že jsem se za ta tři léta v takové zemi a mezi takovým obyvatelstvem neměl čím obživit.
 
 Kvečeru mi koňský pán přidělil místo na nocleh. Bylo jen tři yardy od domu a oddělené od stáje Jahuů. Dostal jsem tam trochu slámy, a přikryv se šaty, usnul jsem velmi tvrdě. Za krátkou dobu jsem bydlel pohodlněji, jak se čtenář doví níže, až pojednám podrobně o svém způsobu života.
+
+</section>

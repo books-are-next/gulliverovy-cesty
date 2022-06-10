@@ -3,6 +3,8 @@ title: KAPITOLA 11
 contentType: prose
 ---
 
+<section>
+
 **Spisovatel odjíždí z Luggnaggu a odplouvá do Japonska. Odtamtud se vrací na holandské lodi do Amsterodamu a z Amsterodamu do Anglie.**
 
 Domníval jsem se, že snad tato zpráva o struldbruzích čtenáře pobaví. Zdá se mi trochu neobvyklá. Nepamatuji se aspoň, že bych na ni byl přišel v cestopisech, které mi padly do rukou. Klamu-li se, omlouvám se tím, že cestovatelé, kteří líčí touž krajinu, shodují se začasté nezbytně v tom, že zdůrazňují tytéž zvláštnosti. Proto si ještě nezaslouží výtku, že by si něco vypůjčovali nebo opisovali z dřívějších spisovatelů.
@@ -18,3 +20,5 @@ Dojel jsem do Nangasaku 9. června 1709 po dlouhé a úmorné cestě. Brzy jsem 
 Po cestě se nepřihodilo nic, co by stálo za zmínku. Pluli jsme po příznivém větru k mysu Dobré naděje, kde jsme se zastavili jenom pro pitnou vodu. 16. dubna 1710 jsme dopluli šťastně do Amsterodamu. Cestou jsme pozbyli jen tří mužů, kteří onemocněli, a čtvrtý spadl z předního stožáru do moře nedaleko Guinejského pobřeží. Z Amsterodamu jsem pak brzy odplul do Anglie na malé lodici patřící tomu městu.
 
 20\. dubna jsme zakotvili v Dunách. Nazítří ráno jsem vystoupil na břeh a znovu spatřil svou otčinu po celých pěti letech a šesti měsících. Šel jsem rovnou do Redriffu. Přišel jsem tam ještě téhož dne ve dvě hodiny odpoledne a zastihl ve zdraví ženu i rodinu.
+
+</section>

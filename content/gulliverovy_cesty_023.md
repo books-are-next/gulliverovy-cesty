@@ -3,6 +3,8 @@ title: KAPITOLA 7
 contentType: prose
 ---
 
+<section>
+
 **Spisovatelova láska k vlasti. Spisovatel podává králi velmi výhodný návrh, ale ten je zamítnut. Králova veliká nevědomost o politice. Učenost té země velmi nedokonalá a kusá. Jejich zákony, vojenství a politické strany.**
 
 Nebýt mé nesmírné pravdymilovnosti, nic by mi nebylo zabránilo, abych tuto část svého příběhu nezatajil. Nadarmo jsem projevoval nevoli, kterou král pokaždé zesměšnil. Ani jsem nedutal, když se tak opovržlivě odbývala má milovaná vlast. Je mi upřímně líto (stejně jako bude líto čtenáři), že k tomu vůbec došlo. Ale panovník byl tak zvědavý a dychtivý na kdejakou podrobnost, že by se nebývalo srovnávalo s vděčností ani se slušným chováním, kdybych ho nebyl uspokojil, seč jsem byl. Na svou obhajobu smím snad říci tolik, že jsem mnoha jeho otázkám obratně uhnul a mnoha věcem jsem dodal značně příznivějšího vzhledu, než by dovolila pouhá pravdivost. Měl jsem vždycky onu chvalitebnou stranickost k své vlasti, kterou dějepisci velmi vhodně doporučuje Dionysios Halikarnasský. Chtěl jsem zakrýt poklesky a vady své politické matky a její přednosti a krásy postavit do nejpříznivějšího světla. To bylo mou snahou při tolika rozmluvách s tím mocným vladařem, ale bohužel jsem nepochodil.
@@ -28,3 +30,5 @@ Co se týče jejich vojenství, jsou pyšni na to, že se královská armáda sk
 Často jsem viděl lorbrulgrudskou milici cvičit, když vytáhla na velké pole u města, měřící dvacet čtverečních mil. Nebylo jich všehovšudy více než pětadvacet tisíc pěšáků a šest tisíc jezdců. Ale vzhledem k prostoře, kterou zaujímali, nemohl jsem je sečísti. Jezdec na statném oři byl snad vysoký nějakých sto stop. Viděl jsem, jak celý jízdní sbor vytasil na povel meče a zamával jimi ve vzduchu. Něco velkolepějšího, neobyčejnějšího, úžasnějšího si nemůže obraznost ani představit. Vypadalo to, jako by ze všech stran oblohy naráz vyšlehlo tisíc blesků.
 
 Byl bych se rád dověděl, jak ten panovník, do jehož říše není z žádné jiné země přístup, připadl na tu armádu a na to, aby vycvičil svůj národ ve vojenské kázni. Brzy jsem se o tom poučil z rozhovoru i z četby jejich dějepisných knih. Po mnoho století sužovala je táž choroba, jíž trpí celé lidské pokolení. Šlechta tam bojovala o moc, lid a svobodu a král o neomezenou vládu. Zákony té země to ovšem šťastně zmírňují. Přesto se občas jedna ze tří stran proti nim prohřešila a několikrát podnítila občanské války. Poslední z nich šťastně skoncoval obecným narovnáním děd tohoto panovníka. A milice, která byla tehdy s obecným souhlasem zřízena, udržuje se od té doby v nejpřísnější službě.
+
+</section>

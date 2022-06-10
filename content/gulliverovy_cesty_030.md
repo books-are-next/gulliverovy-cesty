@@ -3,6 +3,8 @@ title: KAPITOLA 5
 contentType: prose
 ---
 
+<section>
+
 **Spisovatel smí zhlédnout velkou akademii lagadskou. Obšírný popis akademie. Jakým uměním se tam věnují profesoři.**
 
 Akademie není jediná celistvá budova, nýbrž souvislá řada domů po obou stranách ulice, která zpustla a byla pak zakoupena a upravena pro ten účel.
@@ -50,3 +52,5 @@ Jinou předností tohoto vynálezu bude, že se stane mezinárodní řečí sroz
 Byl jsem v matematické škole, kde vyučoval učitel žáky metodou, jakou si nedovedeme v Evropě ani představit. Poučka a důkaz byly na tenké oplatce pěkně napsány inkoustem složeným z mozkové tekutiny. Student musí spolknout oplatku na lačný žaludek a po tři dny smí jíst jen chléb a pít vodu. Když se oplatka stráví, vystoupí tekutina do mozku a zároveň s ní i poučka.
 
 Ale dosud to nemělo patřičného účinku, jednak pro chyby v množství nebo v složení tekutiny, jednak též pro svévolnost jinochů. Těm se ta pilulka tak hnusí, že se obyčejně odkradou a vyvrhnou ji, dříve než může účinkovat. Také se nedali dosud přimět k tomu, aby zachovávali újmu tak dlouho, jak žádá předpis.
+
+</section>

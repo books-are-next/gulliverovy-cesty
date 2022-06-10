@@ -3,6 +3,8 @@ title: KAPITOLA 4
 contentType: prose
 ---
 
+<section>
+
 **Spisovatel odchází z Laputy. Je dopraven do Balnibarbi a přijede do hlavního města. Popis hlavního města a přilehlé krajiny. Spisovatel je přijat pohostinsky předním velmožem. Jeho rozmluva s oním velmožem.**
 
 Nemohu sice říci, že by se mnou byli zacházeli na tom ostrově špatně, ale tolik musím přiznat, že mi bylo, jako by mě příliš zanedbávali, ba poněkud mnou opovrhovali. Ani vladař, ani lid nejevil zvědavost v žádném jiném oboru kromě počtářství a hudby, v nichž jsem byl hluboko pod nimi, a proto si mě tuze nevážili.
@@ -36,3 +38,5 @@ Jeho řeč měla v jádře takovýto smysl: Asi před čtyřiceti lety odebralo 
 Jeho Milost dodala, že mi nechce dalšími podrobnostmi kazit požitek, který budu jistě mít při prohlídce velké akademie; mermomocí mě tam posílal. Žádal mě jen, abych si ještě povšiml sesuté budovy na horském úbočí ve vzdálenosti asi tří mil. Vyprávěl mi o ní toto: Měl prý na půl míle od domu velmi příhodný mlýn, který byl hnán strouhou z velké řeky a stačil jeho rodině i četným nájemcům. Asi před sedmi lety přišlo za ním sdružení oněch vynálezců s návrhy, aby se ten mlýn zbořil a vystavěl nový na úbočí oné hory. Na jejím protáhlém hřebenu prý se vykope dlouhý příkop na nádrž vody, která se požene rourami a stroji nahoru a tak bude mlýn zásobovat. Vítr a vzduch ve výšinách čeří prý vodu a tím ji činí pohyblivější. Voda poteče po svahu a požene mlýn proudem o polovic menším než řeka, která proudí v rovině. Poněvadž prý tehdy nebyl příliš zadobře se dvorem a mnoho přátel naň doléhalo, přistoupil na ten návrh. Dvě léta zaměstnával dvě stě dělníků, ale práce se nepovedla a vynálezci zase odešli a všechnu vinu svalili na něho. Od té doby se mu posmívají. Také jiné přiměli k témuž pokusu se stejným ujišťováním o zdaru a také se stejným neúspěchem.
 
 Za několik dní jsme se vrátili do města. Vzhledem k tomu, jakou měl Excelence Munodi v akademii špatnou pověst, nechtěl jít se mnou. Doporučil mě však jednomu svému příteli, aby mě tam doprovodil. Ten velmož mě ráčil představit jako velkého ctitele vynálezů a člověka zvědavého a lehkověrného. Na tom bylo skutečně něco pravdy, neboť i já jsem byl v mladších letech tak trochu vynálezcem.
+
+</section>
