@@ -3,6 +3,8 @@ title: KAPITOLA 8
 contentType: prose
 ---
 
+<section>
+
 **Král s královnou táhnou na hranice. Spisovatel je doprovází. Podrobná zpráva o tom, jak se dostal z té země. Vrací se do Anglie.**
 
 Stále mi něco říkalo, že se jednou zase dostanu na svobodu, třebaže jsem nemohl uhádnout jak ani ukouti plán, který by se jen poněkud zdařil. Loď, na které jsem připlul, byla první známou lodí, která byla zahnána na dohled k tomu pobřeží. A král přísně rozkázal, aby každou loď, která by se objevila, vytáhli na břeh a dopravili ji i s posádkou a cestujícími na káře do města.
@@ -46,3 +48,5 @@ Když jsem tak po cestě pozoroval, jak drobné jsou domy, stromy, skot a lidé,
 Když jsem došel k svému domu, na nějž jsem se musel doptávat, otevřela mi služka dveře. Při vstupu do nich jsem se sehnul jako husa pod vrátky, abych se nepraštil do hlavy. Žena mě přiběhla obejmout, ale já jsem se před ní sklonil až po kolena. Domníval jsem se, že mi jinak vůbec nedosáhne na ústa. Dcera poklekla, abych jí požehnal. Uviděl jsem ji, teprve když povstala. Byl jsem tak dlouho zvyklý stát s hlavou vztyčenou a s očima upřenýma vzhůru, do výše přes šedesát stop. Potom jsem ji chtěl zdvihnout jednou rukou v pase. Na služky a na přátele v domě jsem shlížel, jako by byli trpaslíci a já obr. Řekl jsem ženě, že příliš šetřila. Jak vidím, je ona i dcera na kost vyhublá. Počínal jsem si zkrátka tak nepochopitelně, že byli všichni téhož mínění jako kapitán, když mě v první chvíli uviděl a usoudil, že jsem se minul na rozumu. Uvádím to jako příklad veliké síly zvyku a předsudku.
 
 Zakrátko jsem se dorozuměl s rodinou i s přáteli. Žena se zaříkala, že se už nesmím vydat na moře. Jenže můj zlý osud to zařídil tak, že neměla moci zabránit mi v tom, jak pozná čtenář dále. Prozatím tady uzavírám druhý díl svých neblahých Cest.
+
+</section>

@@ -3,6 +3,8 @@ title: KAPITOLA 12
 contentType: prose
 ---
 
+<section>
+
 **Spisovatelova pravdomluvnost. Jaký cíl sleduje uveřejněním tohoto díla. Důtka oněm spisovatelům, kteří se uchylují od pravdy. Spisovatel se ospravedlňuje, že při spisování neměl nekalých úmyslů. Odpověď na výtku. Jak se zakládají osady. Chvála otčiny. Prokazuje se právo Koruny na země, jež spisovatel vylíčil. Obtíže s jejich dobýváním. Spisovatel se loučí navždy se čtenářem. Uvádí, jak bude napříště žít, dává dobrou radu a končí.**
 
 Podal jsem ti tedy, laskavý čtenáři, věrné vypsání svých cest za šestnáct let a více než sedm měsíců. Neusiloval jsem v něm o příkrasu, jako spíše o pravdu. Snad jsem tě mohl jako jiní omračovat podivnými nepravděpodobnými příběhy. Chtěl jsem však raději vylíčit holou skutečnost tónem a slohem co nejprostším, neboť mým předním úmyslem je poučit tě, a nikoliv pobavit. Nám, kteří cestujeme do dalekých zemí, navštěvovaných jen zřídka Angličany nebo jinými Evropany, je lehko skládat líčení báječných zvířat pozemních a mořských. A zatím by mělo být spisovateli hlavním cílem činit lidi moudřejšími a lepšími a zušlechťovat jejich ducha dobrými i špatnými příklady toho, co vypráví o cizích zemích.
@@ -32,3 +34,5 @@ Odpověděv takto na jedinou námitku, kterou lze vznésti proti mně jakožto c
 Možná že by mi nebylo ani tak zatěžko smířit se celkem s jahujským plemenem, kdyby se spokojilo s neřestmi a pošetilostmi, na něž má od přírody právo. Naprosto mě nepohoršuje pohled na právníka, kapsáře, plukovníka, hlupáka, velmože, karbaníka, státníka, lékaře, svědka, úplatce, návladního, věrolomníka a podobné. Tak to už na světě chodí. Ale když vidím, jak se hromádka mrzáctví, tělesných i duševních chorob nadýmá pýchou, přejde mě rázem trpělivost. A nikdy nepochopím, jak se takový tvor shoduje s takovou neřestí. Moudří a ctnostní Hvajninimové, oplývající všemi přednostmi, které mohou být rozumovému tvoru k ozdobě, nevynašli pro tu neřest ani název. Jejich řeč nemá čím vyjádřit něco špatného kromě výrazů, jimiž popisují mrzké vlastnosti Jahuů. A přece ani u nich nedovedli přijít na tuto neřest pýchy, a to proto, že nerozumějí dokonale lidské povaze, jak se projevuje v jiných zemích, kde vládne ten tvor. Já však, maje více zkušeností, pozoroval jsem jasně její zárodky i u divošských Jahuů.
 
 Hvajninimové, kteří žijí pod vládou rozumu, nepyšní se svými dobrými vlastnostmi, právě tak jako já bych se nepyšnil tím, že mi nechybí ruka nebo noha. Těmi se přece žádný rozumný člověk nechlubí, třebaže by bez nich byl ubožákem. Mluvím o té věci obšírněji, protože si přeji, aby mi nebyla společnost anglických Jahuů tak zcela nesnesitelná. Žádám tudíž snažně ty, kdo mají jen stín této směšné neřesti, aby si netroufali chodit mi na oči.
+
+</section>

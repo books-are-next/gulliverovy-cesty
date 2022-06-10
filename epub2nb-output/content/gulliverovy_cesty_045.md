@@ -3,6 +3,8 @@ title: KAPITOLA 8
 contentType: prose
 ---
 
+<section>
+
 **Spisovatel vypráví o některých zvláštnostech Jahuů. Veliké ctnosti Hvajninimů. Jak vychovávají a cvičí svou mládež. Jejich valný sněm.**
 
 Lidské povaze jsem už dávno porozuměl, a to mnohem lépe, než jí kdy mohl porozumět můj pán. Mohl jsem tedy lehce vztahovat jeho popis Jahuů na sebe a své krajany. Domníval jsem se též, že vlastním pozorováním dojdu ještě k dalším objevům. Proto jsem ho často žádal o dovolení, abych směl chodit mezi stáda okolních Jahuů. Vždycky milostivě svolil, ježto byl naprosto přesvědčen, že ze samého záští, které mám k těm hovadům, nedám se jimi zkazit. Jeho Blahorodí pokaždé kázalo jednomu čeledínovi, velmi řádnému a dobráckému silnému ryzákovi, aby mě hlídal. Bez jeho ochrany jsem si na takové dobrodružství netroufal. Pověděl jsem už čtenáři, jak silně mě obtěžovala ta odporná zvířata při mém příjezdu. Později bych jim byl třikrát nebo čtyřikrát málem padl do spárů, když jsem se kousek zatoulal bez tesáku. Jak se právem domnívám, měli jakési tušení, že patřím k jejich druhu. Sám jsem k tomu přispíval tím, že jsem si vyhrnoval rukávy a ukazoval před nimi holé paže a prsa, když byl můj ochránce u mne. Tehdy se ke mně přibližovali tak blízko, jak si jen troufali, a napodobovali mé počínání po způsobu opic, vždycky však projevovali velké záští. Právě tak pronásledují divoké kavky krotkou kavku v čepičce a punčochách, když se náhodou dostane mezi ně.
@@ -30,3 +32,5 @@ Střídmost, přičinlivost, pohyb a čistota se ukládá stejně přísně za �
 Hvajninimové pěstují u mládeže sílu, rychlost a otužilost. Učí ji běhat o závod strmě z kopce do kopce po hrubé kamenité půdě. Když se zapotí, kážou jim skočit střemhlav do rybníka nebo do řeky. Čtyřikrát za rok se schází mládež z určitého kraje, aby ukázala své pokroky v běhu a skoku a v jiných projevech síly a hbitosti. Vítěz je odměněn písní složenou na jeho počest. O těch slavnostech vyženou čeledíni na pole stádo Jahuů s nákladem sena, ovsa a mléka na hostinu Hvajninimů. Potom zaženou ten dobytek zase hned zpátky, aby nekazil shromážděným chuť.
 
 Každý čtvrtý rok se za jarní rovnodennosti koná sněm zástupců celého národa; schází se na planině asi dvacet mil od našeho domu a trvá pět nebo šest dní. Přetřásají tam stav a poměry jednotlivých krajů, mají-li hojně, či málo ovsa a sena a krav a Jahuů. A ukáže-li se nějaký nedostatek (což bývá zřídka), uhradí jej berní, o které se jednomyslně dohodnou.
+
+</section>

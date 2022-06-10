@@ -3,6 +3,8 @@ title: "Dopis kapitána Gullivera\_příbuznému Sympsonovi"
 contentType: prose
 ---
 
+<section>
+
 Doufám, že se s ochotou veřejně přiznáte, když budete o to požádán, že jste na mne mocně a často doléhal, až jste mě přiměl k tomu, abych vydal velmi rozvláčnou a nepřesnou zprávu o svých cestách. A že jsem Vám nařídil, abyste zjednal mladé pány z obou našich univerzit, kteří by ji uspořádali a slohově opravili, tak jak to udělal na mou radu můj příbuzný Dampier s knihou zvanou Cesta kolem světa. Ale nepamatuji se, že bych Vám byl dal souhlas k tomu, aby se něco vynechalo, tím méně, aby se něco doplnilo. Toho všeho se zde nadobro zříkám. Tak třeba ve vyprávění o akademii vynálezců a v některých partiích o rozmluvě s mým hvajninimským pánem jste buďto hlavní okolnosti vynechal, nebo je tak zestručnil a pozměnil, že své dílo ani nepoznávám. Když jsem se Vám dříve v dopise o něčem takovém zmínil, ráčil jste mi odpovědět, že se bojíte někoho urazit. Ale jak se mohlo vztahovat, prosím Vás, něco, co jsem říkal už před tolika lety a skoro na pět tisíc mořských mil daleko, v jiném mocnářství, na některé Jahuy, kteří prý teď vládnou stádu? Zejména v době, kdy jsem ani nemyslil na to neštěstí, že budu žít pod jejich vládou, ani se ho nebál? Což opravdu nemám proč stěžovat si, když vidím, jak Hvajninimové vozí zrovna tyto Jahuy na voze, tak jako by oni byli dobytek a tito rozumní tvorové? Věru, hlavní pohnutkou k tomu, abych se sem uchýlil do ústraní, bylo mi to, abych neměl na očích tu ohavnou a hnusnou podívanou.
 
 Tolik jsem pokládal za slušné říci Vám, pokud se týče Vás a důvěry, kterou jsem ve Vás skládal.
@@ -24,3 +26,5 @@ Troufají si ti ubozí živočichové myslit, že jsem klesl tak hluboko, abych 
 Uvedl bych při této trapné příležitosti ještě jiné stížnosti. Ale přestanu a nebudu už trápit sebe ani Vás. Přiznávám se upřímně, že od posledního návratu zkažené rysy mé jahuovské povahy ožily ve mně stykem s několika lidmi z Vašeho plemene, a zvláště stykem s rodinou, což je nevyhnutelné. Jinak bych se nebyl nikdy podjal tak zpozdilého záměru, napravovat jahuovské plémě v našem království. Ale ode všech takových blouznivých plánů jsem už navždycky upustil.
 
 _2\. dubna 1727_
+
+</section>

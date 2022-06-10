@@ -3,6 +3,8 @@ title: KAPITOLA 1
 contentType: prose
 ---
 
+<section>
+
 **Spisovatel odjíždí jakožto lodní kapitán. Mužstvo se proti němu spikne. Vězní ho dlouho v jeho kajutě a potom ho vysadí v neznámé zemi na břeh. Putuje dále do země. Líčení podivných zvířat Jahuů. Spisovatel se setká se dvěma Hvajninimy.**
 
 Pobyl jsem šťastně doma u ženy a dětí pět měsíců, ale kdežpak bych si byl vzal k srdci, co mi jde k duhu! Zanechal jsem svou nebohou ženu v požehnaném stavu a přijal výhodnou nabídku stát se kapitánem na Dobrodruhu, statném to obchodním korábu o 350 tunách. Vyznal jsem se dobře v plavectví, a protože se mi omrzelo povolání námořního ranhojiče, které jsem podle okolností stejně mohl i nadále provozovat, vzal jsem si na loď mladého zručného lékaře, jistého Roberta Purefoye. 7. září 1710 jsme vypluli z Portsmouthu. Čtrnáctého jsme se setkali u Teneriffy s kapitánem Pocockem z Bristolu; jel do Kampešského zálivu na kampeškové dříví[\[5\]](./resources/undefined). Sedmnáctého nás rozehnala bouře. Teprve po návratu jsem se dověděl, že se jeho loď potopila a zachránil se jen jediný plavčík. Kapitán byl poctivec a dobrý námořník, jenže byl umíněný, a to ho přivedlo jako tolik jiných do záhuby. Kdyby se byl řídil podle mé rady, byl by možná nyní šťastně doma u rodiny tak jako já.
@@ -26,3 +28,5 @@ Chvílemi jsem rozeznával slovo Jahu, které oba několikrát opakovali. Nemohl
 Po nové rozpravě, která se snad, jak jsem soudil, týkala mne, oba přátelé se rozloučili se stejně zdvořilým vzájemným ťuknutím do kopyt. Jablečňák mi pokynul, abych šel před ním. Uznal jsem za vhodné vyhověti mu, dokud nenajdu lepšího dozorce.
 
 Když jsem se pokusil zmírnit krok, volal: „Hhún! Hhún!“ Dovtípil jsem se, co chce říci, a naznačil jsem mu podle svých možností, že jsem unaven a nemohu jíti rychleji. Potom chvílemi postával, abych si odpočinul.
+
+</section>

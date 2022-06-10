@@ -3,6 +3,8 @@ title: Vydavatel čtenáři
 contentType: prose
 ---
 
+<section>
+
 Spisovatel těchto cest pan Lemuel Gulliver je můj dávný a důvěrný přítel. Jsme po matce také vzdálení příbuzní. Asi před třemi lety se panu Gulliverovi omrzel shluk zvědavců, kteří se za ním táhli do Redriffu, a zakoupil v Newarku v hrabství nottinghamském, svém rodném kraji, kus pozemku s příhodným domem. Žije tam v ústraní, těší se však vážnosti u svých sousedů.
 
 Pan Gulliver se sice narodil v hrabství nottinghamském, kde žil jeho otec, slyšel jsem však od něho, že jeho rodina pochází z hrabství oxfordského. Na doklad toho uvádím, že jsem v tom hrabství zhlédl na hřbitově v Banbury několik náhrobků a pomníků rodiny Gulliverových.
@@ -16,3 +18,5 @@ Tento svazek by byl aspoň dvakrát tak veliký, kdybych se nebyl osmělil vyšk
 Další podrobné zprávy o spisovateli najde čtenář na prvních stranách knihy.
 
 _Richard Sympson_
+
+</section>

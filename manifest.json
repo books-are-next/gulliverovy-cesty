@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "swift-gulliverovy-cesty-44e1be9",
-  "revision": "44e1be9",
+  "identifier": "swift-gulliverovy-cesty-920b59b",
+  "revision": "920b59b",
   "readingOrder": [
     "promo.html",
     "gulliverovy_cesty_005.html",
@@ -61,8 +61,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:35:35 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351735882
+    "date": "Fri Jun 10 2022 17:50:10 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883410886
   },
   "documents": [
     {
@@ -1000,9 +1000,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 117,
-      "chars": 780,
-      "ideas": 14,
+      "words": 54,
+      "chars": 392,
+      "ideas": 5,
       "role": "colophon",
       "order": null,
       "prev": "gulliverovy_cesty_050.html",
@@ -1020,9 +1020,9 @@
   ],
   "totals": {
     "all": {
-      "words": 77143,
-      "chars": 461868,
-      "ideas": 670
+      "words": 77080,
+      "chars": 461480,
+      "ideas": 661
     },
     "chapters": {
       "words": 77020,

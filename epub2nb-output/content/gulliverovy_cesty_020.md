@@ -3,6 +3,8 @@ title: KAPITOLA 4
 contentType: prose
 ---
 
+<section>
+
 **Popis krajiny. Návrh na opravu novějších map. Králův palác a krátký výklad o hlavním městě. Jak cestovatel cestoval. Popis hlavního chrámu.**
 
 Nyní hodlám podat čtenáři krátký popis té krajiny, pokud jsem ji sám zcestoval. Nebylo to více než dva tisíce mil kolem hlavního města Lorbrulgrudu. Když provázela královna, u níž jsem stále prodléval, krále na jeho slavnostních vyjížďkách, nikdy se nepouštěla dále a zůstávala tam, dokud se král nevrátil z obhlídky hranic. Celé území toho panovníka se prostírá asi šest tisíc mil do délky a tři až pět tisíc mil do šířky. Nezbývá mi z toho než usoudit, že se evropští zeměpisci velmi mýlí, když myslí, že mezi Japonskem a Kalifornií je pouhé moře. Vždycky jsem se domníval, že musí být nějaká protiváha země, která by vyvážila velkou pevninu Tatarskou. Měli by tedy opraviti své mapy země a moře a připojit k severozápadní části Ameriky ten ohromný kus země. Budu jim při tom ochotně nápomocen.
@@ -22,3 +24,5 @@ Velice jsem toužil prohlédnout si hlavní chrám, a zvláště věž při něm
 Královská kuchyně je věru nádherná stavba, nahoře klenutá a vysoká asi šest set stop. Veliké peci chybí deset kroků do šířky svatopavelské kupole. Po návratu jsem ji totiž schválně měřil na kroky. Kdybych však vylíčil kuchyňský rošt, ohromné hrnce a kotle, kýty otáčející se na rožních a k tomu ještě mnoho jiných podrobností, ani by se mi nevěřilo. Přísný kritik by byl třeba nakloněn vidět v tom přehánění, z něhož bývají cestovatelé často podezíráni. Abych ušel té výtce, zaběhl jsem, jak se obávám, do opačné krajnosti. A kdyby se toto pojednání náhodou přeložilo do řeči brobdingnacké (tak se totiž to království obyčejně jmenuje) a dostalo se k nim, král a jeho národ by právem želeli, že jsem jim nesprávným a zkracujícím líčením ublížil.
 
 Jeho Veličenstvo málokdy chová ve stájích přes šest set koní. Koně bývají vysocí čtyřiapadesát až šedesát stop. Když však vyjíždí o slavnostech ven, provází ho nádherná jízdní garda na pěti stech koních. Ta garda se mi vskutku zdála nejkrásnější věcí na světě, až jsem potom uviděl část jeho armády v bitevním šiku. O tom se mi naskytne mluvit jinde.
+
+</section>

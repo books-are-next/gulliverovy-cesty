@@ -3,6 +3,8 @@ title: KAPITOLA 3
 contentType: prose
 ---
 
+<section>
+
 **Spisovatel baví velmi neobyčejným způsobem císaře a jeho šlechtice i šlechtičny. Líčí se zábavy na liliputském dvoře. Spisovatel je za jistých podmínek puštěn na svobodu.**
 
 _Má místnost a dobré chování_ působily silně na císaře a na jeho dvůr a vůbec na celou armádu a lid, a tak jsem pojal naději, že se mi zakrátko dostane svobody. Pěstoval jsem tuto příznivou náladu všemožně. Domorodci se obávali pomaloučku méně a méně, že by jim ode mne hrozilo nebezpečí. Někdy jsem ležel a nechal si jich pět nebo šest tancovat po ruce. Posléze se osmělili i chlapci a děvčata a hráli si v mých vlasech na schovávanou. Udělal jsem už v jejich řeči notný pokrok, takže jsem rozuměl i mluvil. Císaři se jednoho dne zamanulo, že mě pobaví tamějšími komediemi, v nichž vynikají obratností a nádherou, pokud vím, nade všechny národy. Žádná mě tak nepobavila jako komedie s provazolezci na tenké bílé nitce dlouhé dvě stopy, napjaté dvanáct palců od země. Shovívavý čtenář mi zajisté dovolí, abych se o ní trochu rozšířil.
@@ -44,3 +46,5 @@ Posléze: Když Člověk Hora slavnostně přisáhne, že bude zachovávati vše
 Přísahal jsem na tyto články a podepsal jsem je všecek rozjařen a spokojen, třebaže mi některé nedělaly tolik cti, jak bych si byl přál. Ty pocházely venkoncem ze zlomyslnosti nejvyššího admirála Skyreše Bolgolama. Poté mi ihned odemkli řetězy a byl jsem na svobodě. Císař sám mě poctil tím, že byl osobně při tom obřadu. Vyjádřil jsem svou vděčnost tak, že jsem se položil Jeho Veličenstvu k nohám, ale on mi kázal vstát. Po mnoha milostivých projevech, které nebudu opakovat, abych ušel výtce ješitnosti, dodal, že ze mne bude, jak doufá, užitečný sluha a že budu hoden vší přízně, kterou mě už zahrnul anebo snad v budoucnosti ještě zahrne.
 
 Nechť si čtenář laskavě všimne, že se v posledním článku o vrácení svobody císař zavazuje, že mi bude dodávati jídla a pití v takovém množství, kolik by stačilo na výživu 1728 Liliputánů. Za nějaký čas jsem se ptal přítele u dvora, jak to, že se ustálili na tom čísle. Řekl mi, že počtáři Jeho Veličenstva změřili kvadrantem mou výšku a poznali, že jsem větší než oni v poměru dvanácti k jedné. Z podobnosti k sobě usoudili, že by se jich do mne vešlo aspoň 1728, a že budu tudíž potřebovat tolik potravy, kolik je třeba na výživu tolika Liliputánů. Snad z toho čtenář nabude ponětí o důmyslu těch lidí, jakož i o moudrém a přesném hospodářství tohoto velikého vladaře.
+
+</section>

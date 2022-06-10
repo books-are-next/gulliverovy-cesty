@@ -2,6 +2,7 @@
 title: Tiráž
 ---
 
+<section>  
 **Jonathan Swift**  
 **Gulliverovy cesty**  
 Edice Literatura pro děti a mládež  
@@ -9,11 +10,8 @@ Překlad Aloys Skoumal
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-1. vydání z 12. 5. 2022.
-
-***
-
-Znění tohoto textu vychází z díla [Gulliverovy cesty](https://search.mlp.cz/cz/titul/gulliverovy-cesty/2413498/) tak, jak bylo vydáno v Praze nakladatelstvím Albatros v roce 2004. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
+</section>  
+1. vydání z 10. 6. 2022.
 
 ***
 

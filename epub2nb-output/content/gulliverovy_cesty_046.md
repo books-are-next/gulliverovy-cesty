@@ -3,6 +3,8 @@ title: KAPITOLA 9
 contentType: prose
 ---
 
+<section>
+
 **Veliká rozprava na valném shromáždění Hvajninimů, na čem se usnesli. Hvajninimská vzdělanost. Jejich stavby. Jak pohřbívají. Kus o jejich řeči.**
 
 Jedno takové valné shromáždění se konalo za mé doby asi tři měsíce před mým odjezdem. Pán na ně šel jakožto zástupce kraje. Na tom sněmu se dali opět do staré rozpravy, vlastně jediné, k níž v té zemi vůbec kdy došlo. Pán mi o ní podal po návratu dost podrobnou zprávu.
@@ -26,3 +28,5 @@ Dožívají se zpravidla sedmdesáti nebo pětasedmdesáti let, velmi zřídka o
 Nevím, stojí-li za zmínku, že Hvajninimové nemají ve své řeči slova na označení něčeho zlého. Odvozují je z vad a špatných vlastností Jahuů. A tak opisují nejapnost sluhovu, nedopatření dítěte, kámen, který se jim zaryl do nohy, trvale bídné nebo převrácené počasí tím, že přidají přívlastek Jahu. Tak třeba: Hhnm Jahu, Whnaholm Jahu, Ynlhmndwihlma Jahu, nebo špatně zbudovaný dům: Ynholmhnmrohlnw Jahu.
 
 Milerád bych se šířil ještě dále o mravech a ctnostech toho výtečného národa. Ale ježto hodlám zakrátko vydati samostatný spis výhradně o té věci, odkazuji čtenáře na něj. Prozatím se dostávám ve vypravování k své truchlivé pohromě.
+
+</section>

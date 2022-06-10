@@ -3,6 +3,8 @@ title: KAPITOLA 7
 contentType: prose
 ---
 
+<section>
+
 **Spisovatel se doví, že má býti obžalován z velezrady, a uteče do Blefusku. Jak ho tam přijali.**
 
 Nežli přikročím k vyprávění o tom, jak jsem odešel z toho království, bude snad vhodno povědět čtenáři o tajných pletichách, které se proti mně už dva měsíce strojily.
@@ -62,3 +64,5 @@ Ten vladař s ministry zavedl zvyk (prý velmi odlišný od zvyklostí dřívěj
 Posléze jsem se ustálil na rozhodnutí, za které snad zasloužím ne neprávem výtku. Přiznávám se, že za to, že jsem si uchoval zrak a svobodu, děkuji své ukvapenosti a nezkušenosti. Kdybych byl už tehdy znal povahu panovníků a ministrů, kterou jsem od té doby na mnoha místech pozoroval, a věděl, jak nakládají s neškodnějšími provinilci, než jsem byl já, byl bych se tomu lehkému trestu podrobil velmi chutě a ochotně. Jenže mne pobádala mladická unáhlenost. Ostatně jsem měl od Jeho císařského Veličenstva dovolení vykonat blefuskuánskému císaři návštěvu. A tak než uplynuly tři dni, využil jsem té příznivé okolnosti a poslal dopis svému příteli tajemníkovi a oznámil mu, že jsem si umínil vydati se toho dne ráno podle dovolení, které jsem dostal, do Blefusku. Nečekaje na odpověď, šel jsem v tu stranu ostrova, kde kotvilo naše loďstvo. Uchopil jsem velký válečný koráb, přivázal na příď lano, a vytáhnuv kotvy, svlékl jsem se, šaty i s pokrývkou, kterou jsem nesl pod paží, vložil do lodi, a chvíli plavaje a chvíli se brodě, táhl jsem ji za sebou; tak jsem se dostal do královského přístavu blefuskuánského, kde mě lid už dávno očekával. Poskytli mi dva průvodce, aby mě zavedli do hlavního města, které se jmenuje rovněž Blefusku. Držel jsem průvodce v rukou, až jsem došel na dvě stě yardů od brány, a požádal je, aby oznámili můj příchod některému tajemníkovi a řekli mu, že tam očekávám rozkaz Jeho Veličenstva. Asi za hodinu jsem dostal odpověď, že mě přichází uvítati Jeho Veličenstvo v průvodu královské rodiny a vysokých dvorních úředníků. Popošel jsem o sto yardů. Císař se svým průvodem slezli z koní, císařovna s dámami z kočárů a nepozoroval jsem na nich, že by byli zděšeni nebo znepokojeni. Ulehl jsem na zem a políbil císaři a císařovně ruku. Řekl jsem Jeho Veličenstvu, že jsem přišel, jak jsem slíbil, s dovolením svého císařského pána, abych měl čest spatřit tak mocného vladaře a nabídl mu všechny služby, pokud jsou v mé moci a srovnávají se s poslušností k mému panovníkovi. Ani slovem jsem se nedotkl toho, že jsem v nemilosti, protože jsem o ní doposud nebyl řádně zpraven, a tak jsem mohl dělat, že o těch záměrech nic nevím. Nešlo mi též na rozum, že by císař to tajemství prozradil, pokud nejsem v jeho moci. Brzo se však ukázalo, že se klamu.
 
 Nebudu čtenáře obtěžovat podrobným vyprávěním o svém přijetí na tom dvoře, které se shodovalo se šlechetností toho velikého panovníka. Ani o tom, jaké trampoty jsem snášel, nemaje dům ani postel, a jak jsem musel ležet na zemi, zahalen do své pokrývky.
+
+</section>

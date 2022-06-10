@@ -3,6 +3,8 @@ title: KAPITOLA 9
 contentType: prose
 ---
 
+<section>
+
 **Spisovatel se vrací do Maldonady. Plaví se do království Luggnackého. Pošlou pro něho ode dvora. Jak byl přijat v slyšení. Králova veliká mírnost k poddaným.**
 
 Nadešel nám den odchodu. Rozloučil jsem se s Jeho Výsostí guvernérem glubbdubdribským a vrátil se s oběma společníky do Maldonady, odkud měla asi po čtrnáctidenním čekání vyplout loď do Luggnaggu. Oba pánové ještě s několika jinými byli tak dobrotiví a laskaví, že mě zásobili potravinami a vyprovodili mě na loď. Byl jsem asi měsíc na cestě. Zažili jsme prudkou bouři a nezbývalo nám než zamířit na západ, abychom se octli v pasátním větru, který tam vane po délce dobrých šedesáti mořských mil. Dne 21. dubna 1708 jsme ústím řeky vpluli do Klumegnigu, námořního to přístavu na jihovýchodním cípu Luggnaggu. Zakotvili jsme asi mořskou míli od města a dávali znamení pro lodivoda. Ani ne za půl hodiny přišli k nám na loď hned dva a provedli nás mezi skalisky a mělčinami, které silně ohrožují vjezd do velké zátoky; v té se může bezpečně projíždět celé loďstvo na délku lana od městských hradeb.
@@ -20,3 +22,5 @@ Vraťme se však k tématu. Když jsem dolezl na čtyři yardy k trůnu, vztyči
 Král se velmi potěšil mou společností a nařídil bliffmarklubu neboli nejvyššímu komořímu, aby přidělil mně i mému tlumočníkovi byt u dvora, určil nám denní částku na stravování a mně dal velký měšec zlata na běžná vydání.
 
 Zůstal jsem v té zemi tři měsíce z pouhé poslušnosti k Jeho Veličenstvu, jež mi ráčilo prokazovat svrchovanou přízeň a činilo mi velmi lichotivé nabídky. Domníval jsem se však, že učiním moudřeji a spravedlivěji, když strávím zbytek života u ženy a rodiny.
+
+</section>

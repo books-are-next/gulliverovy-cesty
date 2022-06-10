@@ -3,6 +3,8 @@ title: Poznámky pod čarou
 contentType: prose
 ---
 
+<section>
+
 [\[1\]](./resources/undefined) Dutá míra (něco přes litr) užívaná v některých zemích. _Pozn. red._
 
 [\[2\]](./resources/undefined) Lep organického původu, klih (zastarale). _Pozn. red._
@@ -20,3 +22,5 @@ contentType: prose
 [\[8\]](./resources/undefined) Kůň, v jehož srsti převládá bílá barva. _Pozn. red._
 
 [\[9\]](./resources/undefined) Bezdůvodné nařčení, pomluva. _Pozn. red._
+
+</section>

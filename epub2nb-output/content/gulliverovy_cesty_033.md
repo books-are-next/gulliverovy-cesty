@@ -3,6 +3,8 @@ title: KAPITOLA 8
 contentType: prose
 ---
 
+<section>
+
 **Další zprávy o Glubbdubdribu. Opravují se staré i novější dějiny.**
 
 Toužil jsem spatřit ony starověké muže, kteří nejvíce prosluli důmyslem a učeností, a určil jsem si na to schválně jeden den. Navrhl jsem, aby se objevili Homér a Aristoteles v čele všech svých vykladačů. Jenže jich bylo tolik, že jich několik set muselo čekat na dvoře a v pokojích obrácených ven. Rozeznal jsem na první pohled oba ty bohatýry nejen od davu, nýbrž i navzájem od sebe. Homér byl z nich vyšší a švarnější, kráčel na svůj věk velmi vzpřímeně a měl nejbystřejší a nejpronikavější oči, jaké jsem kdy viděl. Aristoteles byl hodně shrbený a opíral se o hůl. Měl vyhublou tvář, řídké a měkké vlasy a dutý hlas. Brzy jsem poznal, že se s ostatními vůbec neznají a jakživi je neviděli ani o nich neslyšeli. Jeden duch, jehož jméno zamlčím, pošeptal mi, že se ti vykladači drží v podsvětí co nejdále od svých mistrů. Tíží je totiž vědomí hanby a viny, že tak hrubě zkomolili potomstvu smysl těch spisovatelů.
@@ -28,3 +30,5 @@ Užasl jsem vida, jak vysoko a rychle se rozmohla v té říši zkaženost z po�
 Každý, kdo byl vyvolán, měl totéž vzezření, jako míval na světě. I oddal jsem se smutným úvahám, když jsem pozoroval, jak se u nás lidské pokolení za posledních sto let zvrhlo. Jak změnily nakažlivé choroby se všemi svými následky a odrůdami kdekterý rys v anglickém obličeji, ubraly tělu na velikosti, ztrhaly nervy, ochromily šlachy a svaly, zbarvily popelavě pleť a maso rozmělnily a rozežraly.
 
 Sestoupil jsem už tak hluboko, že jsem požádal, aby byli vyvoláni nějací angličtí svobodníci starého ražení, kteří kdysi tak slynuli prostotou mravů, jídla a šatů, spravedlivostí v jednání, pravou svobodomyslností, chrabrostí a láskou k vlasti. Srovnával jsem žijící s mrtvými. Neubránil jsem se silnému dojetí, když jsem uvážil, jak jejich vnukové za babku zaprodávají všechny ty čisté, vrozené ctnosti a jak si kupčením s hlasy a handrkováním při volbách osvojili všechny neřesti a zvrácenosti, jaké jen lze pochytit u dvora.
+
+</section>

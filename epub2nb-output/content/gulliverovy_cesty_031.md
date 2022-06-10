@@ -3,6 +3,8 @@ title: KAPITOLA 6
 contentType: prose
 ---
 
+<section>
+
 **Další zpráva o akademii. Spisovatel navrhuje několik oprav, a ty jsou uctivě přijaty.**
 
 Ve škole politických vynálezců jsem se tuze nepobavil. Profesoři se mi tam jevili nadobro potrhlí a taková podívaná mě vždycky rozesmutní. Ti nešťastníci kuli plány, jak by přiměli vladaře k tomu, aby si vybírali milce podle jejich moudrosti, schopnosti a ctnosti, aby naučili ministry dbát veřejného blaha a aby odměňovali zásluhy, velká nadání, vynikající služby. Dále, jak by vštípili knížatům poznání, že jim skutečný prospěch poplyne jen z prospěchu lidu, aby do úřadů dosazovali jen osoby schopné zastávat je, a k tomu ještě plno jiných bujných a nemožných chimér, o jakých uvažovati člověku jakživo ani nenapadlo. To mě jen utvrdilo v starém poznatku, že nic není tak výstřední a nesmyslné, aby to někteří filozofové nepokládali za pravdu.
@@ -32,3 +34,5 @@ Když selže tento způsob, mají ještě dva účinnější. Tamější učenci
 Profesor mi projevil velké uznání za tyto postřehy a slíbil, že se o mně v svém pojednání pochvalně zmíní.
 
 Neviděl jsem v té zemi už nic, co by mě lákalo k dalšímu pobytu, i začal jsem pomýšlet na návrat domů, do Anglie.
+
+</section>

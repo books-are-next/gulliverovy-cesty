@@ -3,6 +3,8 @@ title: KAPITOLA 7
 contentType: prose
 ---
 
+<section>
+
 **Spisovatelova velká láska k otčině. Poznámky pánovy o anglické ústavě a státní správě, jak je vylíčil spisovatel, s obdobnými případy a srovnáními. Pánovy poznámky o lidské povaze.**
 
 Čtenář je snad nakloněn divit se tomu, jak jsem se mohl tolik přemoci a vypodobnit tak nepokrytě své vlastní plémě smrtelníkům, kteří jsou beztoho až příliš ochotni mít co nejšpatnější mínění o lidském pokolení podle naprosté shody mezi námi a Jahuy. Musím se však bez obalu přiznat, že srovnání přečetných ctností těch výtečných čtvernožců s lidskými zvrhlostmi otevřelo mi oči a rozšířilo můj duševní obzor. Začal jsem se na lidské skutky a náruživost dívat v docela jiném světle a myslet si, že nestojí za to, šetřit cti svého rodu. To mi bylo ostatně nemožné u osoby s tak bystrým úsudkem, jako byl můj pán. Denně mě přesvědčoval o tisícerých mých chybách, o nichž jsem neměl dříve ani potuchy a jež by se u nás nepokládaly ani za lidské slabůstky. Po jeho příkladu jsem si totiž osvojil naprostý odpor ke lži a přetvářce. A pravda se mi jevila tak rozkošnou, že jsem si umínil obětovat jí všechno.
@@ -34,3 +36,5 @@ Netroufal jsem si odmítnout tuto zlomyslnou insinuaci[\[9\]](./resources/undefi
 Velmi se můj pán divil tomu, že mají Jahuové takový sklon k neřádu a špíně, zatímco se u všech ostatních živočichů jeví vrozená láska k čistotě. Snadno bych byl mohl obhájit lidský rod z obvinění, že v této věci nemá sobě rovného, kdyby jen byli bývali v té zemi nějací vepři (naneštěstí tam nebyli). Jsou to ovšem půvabnější čtvernožci než Jahuové. Ale jak se ve vší poníženosti domnívám, přece jen si nemohu troufat tvrdit, že by byli čistotnější. Bylo by to muselo přiznat i Jeho Blahorodí, můj koňský pán, kdyby byl někdy viděl, jak špinavě žerou a jak se válejí a přespávají v blátě.
 
 Pán se zmínil ještě o jiné jahujské vlastnosti. Jeho čeledíni ji pozorovali u různých Jahuů a jemu byla naprosto nevysvětlitelná. Někdy prý třeba vypasený mladý Jahu zničehonic zaleze do kouta, lehne, vyje a sténá, odkopává všechny, kdož se mu přiblíží, a nechce potravu ani vodu. Sluhové prý si nedovedou představit, co mu asi chybí. Přišli jen na jediný lék: zapřáhnout ho do těžké práce, načež se rázem zase vzpamatuje. Na to jsem ani nedutal ze stranickosti k vlastnímu pokolení. Jasně jsem v tom shledával neklamné zárodky zádumčivosti, která přepadá toliko lenochy, požitkáře a boháče. Kdyby se tak museli podvolit téže životosprávě, ručil bych za vyléčení.
+
+</section>

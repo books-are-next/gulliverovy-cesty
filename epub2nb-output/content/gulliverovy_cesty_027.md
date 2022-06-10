@@ -3,6 +3,8 @@ title: KAPITOLA 2
 contentType: prose
 ---
 
+<section>
+
 **Líčení podivných nápadů a rozmarů Lapuťanů. Zpráva o jejich učenosti. O králi a jeho dvoru. Jak spisovatele přijali. Obyvatele trápí strach a starosti.**
 
 Když jsem sestoupil, obklopil mě zástup lidí. Ti, kdo stáli blíže mne, zdáli se urozenější. Patřili na mne se všemožnými známkami úžasu. A v tom jsem jim věru nijak nezadal. Jakživ jsem neviděl pokolení smrtelníků tak podivné postavy, obleku a vzezření. Nakláněli hlavu vesměs buďto napravo, nebo nalevo. Jedno oko i upírali dovnitř a druhé přímo k zenitu. Svrchní oděv jim zdobily obrazy sluncí, měsíců a hvězd protkané obrazy houslí, fléten, harf, trubek, kytar, spinetů a mnoha jiných hudebních nástrojů nám v Evropě neznámých. Zpozoroval jsem, že mnozí jsou oblečeni jako sluhové a mají nafouknutý měchýř přivázaný jako cep na konci hůlky, kterou drží v ruce. V každém měchýři bylo trochu suchého hrachu a drobných oblázků (jak jsem se dověděl později). Těmi měchýři plácali občas po ústech a po uších ty, kdo stáli vedle nich. Smysl toho počínání jsem tehdy nechápal. Jak se zdá, je mysl těch lidí tak zabrána usilovným bádáním, že nemohou mluvit ani dávat pozor na řeč jiných, neprobouzí-li je vnější dotek na mluvidla a sluchové ústrojí. Proto také ti, kdo na to mají, chovají vždycky v rodině jako služebníka pleskače (originál zní klimenole) a bez něho nevycházejí z domu ani na návštěvy. Když se sejde pár lidí dohromady, má ten zřízenec za úkol uhodit měchýřem lehce přes ústa toho, kdo má mluvit, a přes pravé ucho toho nebo ty, k nimž mluvčí hovoří. Pleskač doprovází též pilně pána na procházkách, a když je třeba, plácne ho jemně přes oči. Pán bývá tak zahloubán, že by spadl z každého srázu a rozbil si hlavu o každý sloup a na ulicích by srážel jiné do příkopu nebo tam byl sražen sám.
@@ -36,3 +38,5 @@ Ty lidi sužují ustavičné starosti, takže nemají ani chvilku duševního kl
 Obavy před těmito a podobnými hrozivými nebezpečími je bez ustání tak znepokojují, že nemohou klidně spát ani se oddávat prostým radostem a zábavám životním. Když potkají ráno známého, nejprve se táží, jak se vede Slunci, jak vypadalo při západu a při východu a je-li nějaká naděje, že uniknou nárazu blížící se vlasatice. Do takového hovoru se pouštějí se stejnou chutí jako malí chlapci. Ti také s rozkoší poslouchají strašidelné příběhy o skřítcích a šotcích, přímo je hltají a potom se bojí jít spát.
 
 Za nějaký měsíc jsem učinil slušný pokrok v jejich řeči a mohl králi odpovídat na většinu otázek, když jsem měl čest být u něho při audienci. Jeho Veličenstvo nebylo vůbec zvědavo na zákony, státní zřízení, dějiny, náboženství a mravy oněch zemí, v nichž jsem už byl. Spokojilo se jen otázkami po stavu matematiky. Zprávu, kterou jsem mu podal, vyslechlo velmi pohrdlivě a lhostejně, ačkoliv je pleskač z obou stran často burcoval.
+
+</section>

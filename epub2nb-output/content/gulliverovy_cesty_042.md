@@ -3,6 +3,8 @@ title: KAPITOLA 5
 contentType: prose
 ---
 
+<section>
+
 **Spisovatel poučuje svého pána na jeho rozkaz o anglických poměrech. Příčiny válek mezi evropskými panovníky. Spisovatel začíná vykládat anglickou ústavu.**
 
 Nechť si čtenáři ráčí všimnout, že v následujícím výtahu z mnoha rozmluv, které jsem měl se svým pánem, je obsaženo shrnutí nejpodstatnějších věcí probíraných v různých dobách za více než dvě léta. Jak jsem se dále zdokonaloval v hvajninimské řeči, žádal si můj pán důkladnějšího poučení. Rozvinul jsem před ním podle svých sil celé evropské poměry. Pojednal jsem o obchodě i průmyslu, o umění i vědách. Odpovědi, které jsem mu dával na otázky, jak se mu při jednotlivých věcech vynořily, byly nevyčerpatelným podkladem hovoru. Podám zde jen jádro toho, co jsme probrali o mé vlasti, a uspořádám to co nejlépe bez ohledu na čas i jiné okolnosti, přidržuje se přesně pravdy. Mám jen jedinou starost, že budu stěží moci podat přesné důvody a výrazy svého pána, které mou nezpůsobilostí, jakož i překladem do naší barbarské angličtiny nutně utrpí.
@@ -42,3 +44,5 @@ Třeba též podotknout, že ta společnost má vlastní hantýrku a hatmatilku,
 Při vyšetřování osob obžalovaných ze zločinů proti státu uplatňuje se postup mnohem kratší a chvalitebnější. Soudce dá nejprve vyzvědět smýšlení těch, kdož jsou u vesla, načež může zločince lehce oběsit nebo osvobodit, přidržuje se přesně všech příslušných právních formalit.
 
 Tu utrousil můj pán poznámku, řka, že je škoda, že tvorové obdaření takovými úžasnými duševními schopnostmi, jací jsou podle mého líčení ti právníci, nevedou se raději k tomu, aby byli jinými učiteli moudrosti a vědění. V odpovědi na to ujistil jsem Jeho Blahorodí, že ve všech záležitostech, které nepatří do jejich řemesla, jsou u nás pokolením nejnevzdělanějším a nejomezenějším, jakož i nejubožáčtějším v prostém hovoru. Jsou úhlavními nepřáteli vší vědy a učenosti a právě tak jako ve vlastním oboru, tak jsou ochotni převracet naruby veškerý rozum lidstva i při každém jiném předmětu řeči.
+
+</section>
