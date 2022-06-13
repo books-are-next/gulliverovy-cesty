@@ -62,106 +62,109 @@ readingOrder:
   - gulliverovy_cesty_050.html
   - colophon.html
 tocBase:
-  - link: gulliverovy_cesty_005.html
-    title: Vydavatel čtenáři
-  - link: gulliverovy_cesty_006.html
-    title: "Dopis kapitána Gullivera\_příbuznému Sympsonovi"
-  - link: gulliverovy_cesty_007.html
-    title: "Díl I\n\nCESTA\_DO LILIPUTU"
+  - id: section-1
     children:
-      - link: gulliverovy_cesty_008.html
-        title: KAPITOLA 1
-      - link: gulliverovy_cesty_009.html
-        title: KAPITOLA 2
-      - link: gulliverovy_cesty_010.html
-        title: KAPITOLA 3
-      - link: gulliverovy_cesty_011.html
-        title: KAPITOLA 4
-      - link: gulliverovy_cesty_012.html
-        title: KAPITOLA 5
-      - link: gulliverovy_cesty_013.html
-        title: KAPITOLA 6
-      - link: gulliverovy_cesty_014.html
-        title: KAPITOLA 7
-      - link: gulliverovy_cesty_015.html
-        title: KAPITOLA 8
-    listType: plain
-  - link: gulliverovy_cesty_016.html
-    title: "Díl II\n\nCESTA\_DO BROBDINGNAGU"
-    children:
-      - link: gulliverovy_cesty_017.html
-        title: KAPITOLA 1
-      - link: gulliverovy_cesty_018.html
-        title: KAPITOLA 2
-      - link: gulliverovy_cesty_019.html
-        title: KAPITOLA 3
-      - link: gulliverovy_cesty_020.html
-        title: KAPITOLA 4
-      - link: gulliverovy_cesty_021.html
-        title: KAPITOLA 5
-      - link: gulliverovy_cesty_022.html
-        title: KAPITOLA 6
-      - link: gulliverovy_cesty_023.html
-        title: KAPITOLA 7
-      - link: gulliverovy_cesty_024.html
-        title: KAPITOLA 8
-    listType: plain
-  - link: gulliverovy_cesty_025.html
-    title: "Díl III\n\nCESTA DO LAPUTY, BALNIBARBI, LUGGNAGGU, GLUBBDUBDRIBU\_A DO JAPONSKA"
-    children:
-      - link: gulliverovy_cesty_026.html
-        title: KAPITOLA 1
-      - link: gulliverovy_cesty_027.html
-        title: KAPITOLA 2
-      - link: gulliverovy_cesty_028.html
-        title: KAPITOLA 3
-      - link: gulliverovy_cesty_029.html
-        title: KAPITOLA 4
-      - link: gulliverovy_cesty_030.html
-        title: KAPITOLA 5
-      - link: gulliverovy_cesty_031.html
-        title: KAPITOLA 6
-      - link: gulliverovy_cesty_032.html
-        title: KAPITOLA 7
-      - link: gulliverovy_cesty_033.html
-        title: KAPITOLA 8
-      - link: gulliverovy_cesty_034.html
-        title: KAPITOLA 9
-      - link: gulliverovy_cesty_035.html
-        title: KAPITOLA 10
-      - link: gulliverovy_cesty_036.html
-        title: KAPITOLA 11
-    listType: plain
-  - link: gulliverovy_cesty_037.html
-    title: "Díl IV\n\nCESTA DO ZEMĚ\_HVAJNINIMŮ"
-    children:
-      - link: gulliverovy_cesty_038.html
-        title: KAPITOLA 1
-      - link: gulliverovy_cesty_039.html
-        title: KAPITOLA 2
-      - link: gulliverovy_cesty_040.html
-        title: KAPITOLA 3
-      - link: gulliverovy_cesty_041.html
-        title: KAPITOLA 4
-      - link: gulliverovy_cesty_042.html
-        title: KAPITOLA 5
-      - link: gulliverovy_cesty_043.html
-        title: KAPITOLA 6
-      - link: gulliverovy_cesty_044.html
-        title: KAPITOLA 7
-      - link: gulliverovy_cesty_045.html
-        title: KAPITOLA 8
-      - link: gulliverovy_cesty_046.html
-        title: KAPITOLA 9
-      - link: gulliverovy_cesty_047.html
-        title: KAPITOLA 10
-      - link: gulliverovy_cesty_048.html
-        title: KAPITOLA 11
-      - link: gulliverovy_cesty_049.html
-        title: KAPITOLA 12
-    listType: plain
-  - link: gulliverovy_cesty_050.html
-    title: Poznámky pod čarou
+      - link: gulliverovy_cesty_005.html
+        title: Vydavatel čtenáři
+      - link: gulliverovy_cesty_006.html
+        title: "Dopis kapitána Gullivera\_příbuznému Sympsonovi"
+      - link: gulliverovy_cesty_007.html
+        title: "Díl I\n\nCESTA\_DO LILIPUTU"
+        children:
+          - link: gulliverovy_cesty_008.html
+            title: KAPITOLA 1
+          - link: gulliverovy_cesty_009.html
+            title: KAPITOLA 2
+          - link: gulliverovy_cesty_010.html
+            title: KAPITOLA 3
+          - link: gulliverovy_cesty_011.html
+            title: KAPITOLA 4
+          - link: gulliverovy_cesty_012.html
+            title: KAPITOLA 5
+          - link: gulliverovy_cesty_013.html
+            title: KAPITOLA 6
+          - link: gulliverovy_cesty_014.html
+            title: KAPITOLA 7
+          - link: gulliverovy_cesty_015.html
+            title: KAPITOLA 8
+        listType: plain
+      - link: gulliverovy_cesty_016.html
+        title: "Díl II\n\nCESTA\_DO BROBDINGNAGU"
+        children:
+          - link: gulliverovy_cesty_017.html
+            title: KAPITOLA 1
+          - link: gulliverovy_cesty_018.html
+            title: KAPITOLA 2
+          - link: gulliverovy_cesty_019.html
+            title: KAPITOLA 3
+          - link: gulliverovy_cesty_020.html
+            title: KAPITOLA 4
+          - link: gulliverovy_cesty_021.html
+            title: KAPITOLA 5
+          - link: gulliverovy_cesty_022.html
+            title: KAPITOLA 6
+          - link: gulliverovy_cesty_023.html
+            title: KAPITOLA 7
+          - link: gulliverovy_cesty_024.html
+            title: KAPITOLA 8
+        listType: plain
+      - link: gulliverovy_cesty_025.html
+        title: "Díl III\n\nCESTA DO LAPUTY, BALNIBARBI, LUGGNAGGU, GLUBBDUBDRIBU\_A DO JAPONSKA"
+        children:
+          - link: gulliverovy_cesty_026.html
+            title: KAPITOLA 1
+          - link: gulliverovy_cesty_027.html
+            title: KAPITOLA 2
+          - link: gulliverovy_cesty_028.html
+            title: KAPITOLA 3
+          - link: gulliverovy_cesty_029.html
+            title: KAPITOLA 4
+          - link: gulliverovy_cesty_030.html
+            title: KAPITOLA 5
+          - link: gulliverovy_cesty_031.html
+            title: KAPITOLA 6
+          - link: gulliverovy_cesty_032.html
+            title: KAPITOLA 7
+          - link: gulliverovy_cesty_033.html
+            title: KAPITOLA 8
+          - link: gulliverovy_cesty_034.html
+            title: KAPITOLA 9
+          - link: gulliverovy_cesty_035.html
+            title: KAPITOLA 10
+          - link: gulliverovy_cesty_036.html
+            title: KAPITOLA 11
+        listType: plain
+      - link: gulliverovy_cesty_037.html
+        title: "Díl IV\n\nCESTA DO ZEMĚ\_HVAJNINIMŮ"
+        children:
+          - link: gulliverovy_cesty_038.html
+            title: KAPITOLA 1
+          - link: gulliverovy_cesty_039.html
+            title: KAPITOLA 2
+          - link: gulliverovy_cesty_040.html
+            title: KAPITOLA 3
+          - link: gulliverovy_cesty_041.html
+            title: KAPITOLA 4
+          - link: gulliverovy_cesty_042.html
+            title: KAPITOLA 5
+          - link: gulliverovy_cesty_043.html
+            title: KAPITOLA 6
+          - link: gulliverovy_cesty_044.html
+            title: KAPITOLA 7
+          - link: gulliverovy_cesty_045.html
+            title: KAPITOLA 8
+          - link: gulliverovy_cesty_046.html
+            title: KAPITOLA 9
+          - link: gulliverovy_cesty_047.html
+            title: KAPITOLA 10
+          - link: gulliverovy_cesty_048.html
+            title: KAPITOLA 11
+          - link: gulliverovy_cesty_049.html
+            title: KAPITOLA 12
+        listType: plain
+      - link: gulliverovy_cesty_050.html
+        title: Poznámky pod čarou
+    isSection: true
 static:
   - style
   - scripts
