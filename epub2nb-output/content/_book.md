@@ -61,7 +61,7 @@ readingOrder:
   - gulliverovy_cesty_048.html
   - gulliverovy_cesty_049.html
   - gulliverovy_cesty_050.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

@@ -57,7 +57,7 @@
             "filename": "gulliverovy_cesty_003.md",
             "xhtml": "gulliverovy_cesty_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -66,7 +66,7 @@
             "filename": "gulliverovy_cesty_004.md",
             "xhtml": "gulliverovy_cesty_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -541,7 +541,7 @@
             "filename": "gulliverovy_cesty_051.md",
             "xhtml": "gulliverovy_cesty_051.html",
             "id": 50,
-            "role": "colophon",
+            "role": "about",
             "inToc": true,
             "listType": "plain",
             "children": []
@@ -959,6 +959,6 @@
       "user": "books-are-next",
       "repo": "gulliverovy-cesty"
     },
-    "generatedAt": 1655978495063
+    "generatedAt": 1657181893469
   }
 }

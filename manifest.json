@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "swift-gulliverovy-cesty-3b91436",
-  "revision": "3b91436",
+  "identifier": "swift-gulliverovy-cesty-9c50fa6",
+  "revision": "9c50fa6",
   "readingOrder": [
     "promo.html",
     "gulliverovy_cesty_005.html",
@@ -58,11 +58,11 @@
     "gulliverovy_cesty_048.html",
     "gulliverovy_cesty_049.html",
     "gulliverovy_cesty_050.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:04:04 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978644567
+    "date": "Thu Jul 07 2022 08:24:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182263679
   },
   "documents": [
     {
@@ -131,7 +131,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Díl I  CESTA DO LILIPUTU",
+          "name": "Díl I  CESTA DO LILIPUTU",
           "id": null,
           "children": []
         }
@@ -311,7 +311,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Díl II  CESTA DO BROBDINGNAGU",
+          "name": "Díl II  CESTA DO BROBDINGNAGU",
           "id": null,
           "children": []
         }
@@ -491,7 +491,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Díl III  CESTA DO LAPUTY, BALNIBARBI, LUGGNAGGU, GLUBBDUBDRIBU A DO JAPONSKA",
+          "name": "Díl III  CESTA DO LAPUTY, BALNIBARBI, LUGGNAGGU, GLUBBDUBDRIBU A DO JAPONSKA",
           "id": null,
           "children": []
         }
@@ -731,7 +731,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Díl IV  CESTA DO ZEMĚ HVAJNINIMŮ",
+          "name": "Díl IV  CESTA DO ZEMĚ HVAJNINIMŮ",
           "id": null,
           "children": []
         }
@@ -986,7 +986,7 @@
       "role": "chapter",
       "order": 46,
       "prev": "gulliverovy_cesty_049.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -999,11 +999,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 136,
-      "chars": 915,
+      "chars": 914,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "gulliverovy_cesty_050.html",
       "next": null,
@@ -1021,7 +1021,7 @@
   "totals": {
     "all": {
       "words": 77162,
-      "chars": 462003,
+      "chars": 462002,
       "ideas": 671
     },
     "chapters": {
