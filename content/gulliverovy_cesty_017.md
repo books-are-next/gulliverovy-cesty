@@ -40,3 +40,21 @@ Krátce poté přišla do světnice má paní. Když uviděla, že jsem všecek 
 Doufám, že mi laskavý čtenář promine, že se obírám s takovýmito podrobnostmi. Ničemným sprosťákům se třeba budou zdát bezvýznamné. Filozofovi naproti tomu poslouží k obohacení myšlení a obraznosti, takže je zužitkuje ve veřejném i soukromém životě. Jedině to jsem měl na mysli, když jsem předkládal světu tyhle a jiné zprávy o svých cestách. Šlo mi v nich jen a jen o pravdu beze všech strojených učených a slohových příkras. Jenže celý děj této cesty účinkoval na mne tak a tolik se mi vryl do paměti, že jsem při spisování neopomenul ani jedinou důležitou okolnost. I tak jsem po bedlivém prozkoumání vyškrtl několik méně významných odstavců, aby se mi nepředhazovalo, že jsem nudný a malicherný. Cestopiscům se to často vytýká a možná že nikoliv neprávem.
 
 </section>
+
+[^1]: Dutá míra (něco přes litr) užívaná v některých zemích. _Pozn. red._
+
+[^2]: Lep organického původu, klih (zastarale). _Pozn. red._
+
+[^3]: Epaminondas (418–362 př. n. l.), thébský státník a generál, který přetvořil Théby v jeden z nejvýznamnějších městských států v antickém Řecku. _Pozn. red._
+
+[^4]: Otrok. _Pozn. red._
+
+[^5]: Barevné dřevo kreveně obecné z čeledi bobovitých, stromu rozšířeného ve Střední Americe a jižní Africe. Dřevo je z vnějšku modročerné, uvnitř červenohnědé. _Pozn. red._
+
+[^6]: Bělouš s okrouhlými tmavými barvami. _Pozn. red._
+
+[^7]: Agitování, přesvědčování někoho za odměnu. _Pozn. red._
+
+[^8]: Kůň, v jehož srsti převládá bílá barva. _Pozn. red._
+
+[^9]: Bezdůvodné nařčení, pomluva. _Pozn. red._

@@ -31,10 +31,28 @@ Všiml jsem si vskutku, že z tamních živočichů jedině Jahuové trpí choro
 
 Co se týče vzdělanosti, vlády, umění, řemesel a podobných, přiznal se můj pán, že nalézá jen nepatrnou nebo žádnou podobnost mezi Jahuy oné země a naší. Všímal prý si jen toho, v čem jsme si povahou rovni. Slyšel prý arci od některých zvídavých Hvajninimů zmínku o tom, že bývá ve stádech jakýsi vládnoucí Jahu (jako u nás v oboře vůdčí neboli přední jelen), který mívá vždycky mrzáčtější tělo a zlomyslnější povahu než všichni ostatní. Ten vůdce prý si vybírá oblíbence, který se mu ve všem podobá. Občas ho odměňuje kusem oslího masa. Celé stádo mívá toho oblíbence v nenávisti, a proto se on raději drží stále poblíže svého vůdce. Setrvává v úřadě tak dlouho, až se najde někdo horší. Jakmile je propuštěn, přijde jeho nástupce v čele všech Jahuů z toho okresu, mladých i starých, a jako jeden muž ho poházejí kalem od hlavy až k patě. Pokud to lze vztahovat na naše dvory a oblíbence a ministry, to prý nechť rozhodnu sám.
 
-Netroufal jsem si odmítnout tuto zlomyslnou insinuaci[\[9\]](./resources/undefined), která snižovala lidský rozum pod úroveň bystrosti obyčejného ohaře, který je tak chytrý, že rozezná a sleduje štěkot nejzdatnějšího psa ve smečce, a nikdy se nezmýlí.
+Netroufal jsem si odmítnout tuto zlomyslnou insinuaci[^9], která snižovala lidský rozum pod úroveň bystrosti obyčejného ohaře, který je tak chytrý, že rozezná a sleduje štěkot nejzdatnějšího psa ve smečce, a nikdy se nezmýlí.
 
 Velmi se můj pán divil tomu, že mají Jahuové takový sklon k neřádu a špíně, zatímco se u všech ostatních živočichů jeví vrozená láska k čistotě. Snadno bych byl mohl obhájit lidský rod z obvinění, že v této věci nemá sobě rovného, kdyby jen byli bývali v té zemi nějací vepři (naneštěstí tam nebyli). Jsou to ovšem půvabnější čtvernožci než Jahuové. Ale jak se ve vší poníženosti domnívám, přece jen si nemohu troufat tvrdit, že by byli čistotnější. Bylo by to muselo přiznat i Jeho Blahorodí, můj koňský pán, kdyby byl někdy viděl, jak špinavě žerou a jak se válejí a přespávají v blátě.
 
 Pán se zmínil ještě o jiné jahujské vlastnosti. Jeho čeledíni ji pozorovali u různých Jahuů a jemu byla naprosto nevysvětlitelná. Někdy prý třeba vypasený mladý Jahu zničehonic zaleze do kouta, lehne, vyje a sténá, odkopává všechny, kdož se mu přiblíží, a nechce potravu ani vodu. Sluhové prý si nedovedou představit, co mu asi chybí. Přišli jen na jediný lék: zapřáhnout ho do těžké práce, načež se rázem zase vzpamatuje. Na to jsem ani nedutal ze stranickosti k vlastnímu pokolení. Jasně jsem v tom shledával neklamné zárodky zádumčivosti, která přepadá toliko lenochy, požitkáře a boháče. Kdyby se tak museli podvolit téže životosprávě, ručil bych za vyléčení.
 
 </section>
+
+[^1]: Dutá míra (něco přes litr) užívaná v některých zemích. _Pozn. red._
+
+[^2]: Lep organického původu, klih (zastarale). _Pozn. red._
+
+[^3]: Epaminondas (418–362 př. n. l.), thébský státník a generál, který přetvořil Théby v jeden z nejvýznamnějších městských států v antickém Řecku. _Pozn. red._
+
+[^4]: Otrok. _Pozn. red._
+
+[^5]: Barevné dřevo kreveně obecné z čeledi bobovitých, stromu rozšířeného ve Střední Americe a jižní Africe. Dřevo je z vnějšku modročerné, uvnitř červenohnědé. _Pozn. red._
+
+[^6]: Bělouš s okrouhlými tmavými barvami. _Pozn. red._
+
+[^7]: Agitování, přesvědčování někoho za odměnu. _Pozn. red._
+
+[^8]: Kůň, v jehož srsti převládá bílá barva. _Pozn. red._
+
+[^9]: Bezdůvodné nařčení, pomluva. _Pozn. red._

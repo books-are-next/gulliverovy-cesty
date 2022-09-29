@@ -28,3 +28,21 @@ Třeba poznamenat, že ti vyslanci mluvili se mnou skrze tlumočníka. Řeč obo
 Byl už jasný den, když jsem se vrátil domů. Ani jsem nevyčkal, abych císaři blahopřál. Prokázal jsem mu, pravda, znamenitou službu, ale nevěděl jsem, nepohorší-li se snad Jeho Veličenstvo nad tím, jak jsem tu službu vykonal. Neboť podle základních zákonů říše každý, ať sebeurozenější, je trestán na hrdle, znečistí-li prostor v obvodu paláce. Jeho Veličenstvo mě trochu uklidnilo vzkazem, že nařídí nejvyššímu soudci, aby mi úředně udělil milost. Té se mi však nedostalo. A dověděl jsem se tajně, že císařovně se velmi hnusilo, co jsem udělal. Odstěhovala se do nejvzdálenějšího křídla dvora a trvala pevně na tom, aby se ty budovy už nikdy pro ni neobnovovaly. A neudržela se před svými hlavními důvěrnicemi, aby mi nepřísahala pomstu.
 
 </section>
+
+[^1]: Dutá míra (něco přes litr) užívaná v některých zemích. _Pozn. red._
+
+[^2]: Lep organického původu, klih (zastarale). _Pozn. red._
+
+[^3]: Epaminondas (418–362 př. n. l.), thébský státník a generál, který přetvořil Théby v jeden z nejvýznamnějších městských států v antickém Řecku. _Pozn. red._
+
+[^4]: Otrok. _Pozn. red._
+
+[^5]: Barevné dřevo kreveně obecné z čeledi bobovitých, stromu rozšířeného ve Střední Americe a jižní Africe. Dřevo je z vnějšku modročerné, uvnitř červenohnědé. _Pozn. red._
+
+[^6]: Bělouš s okrouhlými tmavými barvami. _Pozn. red._
+
+[^7]: Agitování, přesvědčování někoho za odměnu. _Pozn. red._
+
+[^8]: Kůň, v jehož srsti převládá bílá barva. _Pozn. red._
+
+[^9]: Bezdůvodné nařčení, pomluva. _Pozn. red._

@@ -27,7 +27,7 @@ Byl tam hvězdář, který si předsevzal připevnit na velkou větrnou korouhvi
 
 Navštívil jsem ještě mnoho jiných síní, ale nebudu čtenáře obtěžovat všemi zvláštnostmi, jež jsem spatřil, neboť mi záleží na stručnosti.
 
-Zhlédl jsem dosud jen jednu stranu akademie. Její druhá strana je vyhrazena pěstitelům spekulativní vědy. O těch ještě promluvím, jen co se zmíním o jiné věhlasné osobnosti, jíž tam říkají univerzální umělec. Řekl nám, že se už třicet let v myšlenkách obírá se zdokonalením lidského života. Měl dvě prostorné místnosti plné báječných zvláštností a zaměstnával padesát lidí. Jedni zhušťovali vzduch v suchou, tuhou látku, a to tak, že z něho vylučovali dusík a filtrovali tekuté neboli kapalné částice. Druzí změkčovali mramor na polštáře a jehelníčky. Další zase proměňovali živému koni kopyta v kámen, prý aby se neschvátil. Umělec právě pracoval na dvou velkých plánech. První bylo osévání půdy plevami, v nichž, jak tvrdil, je obsažena pravá klíčivá síla. Dokázal to několika pokusy, jež jsem však nepochopil, nejsa v tom dosti zběhlý. Druhý plán směřoval k tomu, zamezit u dvou jehňat vzrůst vlny jakousi směsí klí[\[2\]](./resources/undefined), nerostů a bylin, která se jim natírala zevně. Těšil se, že v dohledné době rozplemení chov holých ovcí po celém království.
+Zhlédl jsem dosud jen jednu stranu akademie. Její druhá strana je vyhrazena pěstitelům spekulativní vědy. O těch ještě promluvím, jen co se zmíním o jiné věhlasné osobnosti, jíž tam říkají univerzální umělec. Řekl nám, že se už třicet let v myšlenkách obírá se zdokonalením lidského života. Měl dvě prostorné místnosti plné báječných zvláštností a zaměstnával padesát lidí. Jedni zhušťovali vzduch v suchou, tuhou látku, a to tak, že z něho vylučovali dusík a filtrovali tekuté neboli kapalné částice. Druzí změkčovali mramor na polštáře a jehelníčky. Další zase proměňovali živému koni kopyta v kámen, prý aby se neschvátil. Umělec právě pracoval na dvou velkých plánech. První bylo osévání půdy plevami, v nichž, jak tvrdil, je obsažena pravá klíčivá síla. Dokázal to několika pokusy, jež jsem však nepochopil, nejsa v tom dosti zběhlý. Druhý plán směřoval k tomu, zamezit u dvou jehňat vzrůst vlny jakousi směsí klí[^2], nerostů a bylin, která se jim natírala zevně. Těšil se, že v dohledné době rozplemení chov holých ovcí po celém království.
 
 Přešli jsme na druhou stranu, do druhé části akademie, kterou zaujímali, jak jsem už řekl, badatelé ve spekulativní vědě.
 
@@ -54,3 +54,21 @@ Byl jsem v matematické škole, kde vyučoval učitel žáky metodou, jakou si n
 Ale dosud to nemělo patřičného účinku, jednak pro chyby v množství nebo v složení tekutiny, jednak též pro svévolnost jinochů. Těm se ta pilulka tak hnusí, že se obyčejně odkradou a vyvrhnou ji, dříve než může účinkovat. Také se nedali dosud přimět k tomu, aby zachovávali újmu tak dlouho, jak žádá předpis.
 
 </section>
+
+[^1]: Dutá míra (něco přes litr) užívaná v některých zemích. _Pozn. red._
+
+[^2]: Lep organického původu, klih (zastarale). _Pozn. red._
+
+[^3]: Epaminondas (418–362 př. n. l.), thébský státník a generál, který přetvořil Théby v jeden z nejvýznamnějších městských států v antickém Řecku. _Pozn. red._
+
+[^4]: Otrok. _Pozn. red._
+
+[^5]: Barevné dřevo kreveně obecné z čeledi bobovitých, stromu rozšířeného ve Střední Americe a jižní Africe. Dřevo je z vnějšku modročerné, uvnitř červenohnědé. _Pozn. red._
+
+[^6]: Bělouš s okrouhlými tmavými barvami. _Pozn. red._
+
+[^7]: Agitování, přesvědčování někoho za odměnu. _Pozn. red._
+
+[^8]: Kůň, v jehož srsti převládá bílá barva. _Pozn. red._
+
+[^9]: Bezdůvodné nařčení, pomluva. _Pozn. red._

@@ -48,3 +48,21 @@ Na přípravu jídla jsem měl v pohodlných chatách, nastavěných kolem domu,
 Jednoho dne projevil Jeho Veličenstvo císař, který měl zprávy o tom, jak žiji, přání mít potěšení (jak ráčil říci) poobědvat se mnou spolu se svou královskou chotí a s princi a princeznami. Přišli tedy za mnou a postavil jsem je v trůnech, obklopené stráží, na stůl naproti sobě. Nejvyšší komoří Flimnap s bílou holí byl rovněž v jejich družině. Povšiml jsem si, že na mne kysele zahlíží. Ale dělal jsem, jako bych to nepozoroval, a jedl jsem ještě více než jindy, jednak abych uctil svou drahou vlast a také abych tím u dvora vzbudil obdiv. Právem se domnívám, že ta návštěva Jeho Veličenstva zavdala Flimnapovi příležitost, aby mě u svého pána očernil. Ten ministr byl dávno mým nepřítelem, ačkoliv se naoko choval ke mně vlídněji, než měl při své mrzoutské povaze ve zvyku. Poukázal císaři na to, jak má vyčerpanou pokladnu. Že si musí vypůjčovat s velkou srážkou. Stál jsem už zkrátka Jeho Veličenstvo půldruhého milionu sprugů (což jest jejich největší zlatá mince, velká asi jako cetka), a bylo by tedy radno, aby mě císař při první slušné příležitosti propustil.
 
 </section>
+
+[^1]: Dutá míra (něco přes litr) užívaná v některých zemích. _Pozn. red._
+
+[^2]: Lep organického původu, klih (zastarale). _Pozn. red._
+
+[^3]: Epaminondas (418–362 př. n. l.), thébský státník a generál, který přetvořil Théby v jeden z nejvýznamnějších městských států v antickém Řecku. _Pozn. red._
+
+[^4]: Otrok. _Pozn. red._
+
+[^5]: Barevné dřevo kreveně obecné z čeledi bobovitých, stromu rozšířeného ve Střední Americe a jižní Africe. Dřevo je z vnějšku modročerné, uvnitř červenohnědé. _Pozn. red._
+
+[^6]: Bělouš s okrouhlými tmavými barvami. _Pozn. red._
+
+[^7]: Agitování, přesvědčování někoho za odměnu. _Pozn. red._
+
+[^8]: Kůň, v jehož srsti převládá bílá barva. _Pozn. red._
+
+[^9]: Bezdůvodné nařčení, pomluva. _Pozn. red._

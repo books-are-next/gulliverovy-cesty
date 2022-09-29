@@ -24,3 +24,21 @@ Můj pán zamýšlel ukazovati mě po cestě ve všech městech a odbočit na pa
 26\. října jsme přijeli do hlavního města, které se u nich jmenuje Lorbrulgrud neboli Chlouba vesmíru. Můj pán se ubytoval na hlavní ulici poblíž královského paláce a vylepil obvyklé vyhlášky s přesným popisem mé osoby a mých schopností. Najal velkou světnici, širokou tři sta až čtyři sta stop. Opatřil si stůl v průměru šedesáti stop, na němž jsem měl vystupovat, a ohradil jej na tři stopy od kraje do stejné výšky, abych nespadl dolů. Ukazovali mě desetkrát za den k úžasu a spokojenosti všech. Řeč už jsem uměl dosti dobře a rozuměl jsem každému slovu, které mi řekli. Naučil jsem se kromě toho jejich abecedě a dovedl jsem jakžtakž vysvětlit občas nějakou větu. Bylať mi Glumdalklič doma a ve volných chvílích i po cestě učitelkou. Měla s sebou v kapse knížku nemnoho větší než Sansonův Atlas. Byl to obyčejný spisek pro dívky se stručným výkladem jejich náboženství. Z něho mě učila písmenům a vykládala mi slůvka.
 
 </section>
+
+[^1]: Dutá míra (něco přes litr) užívaná v některých zemích. _Pozn. red._
+
+[^2]: Lep organického původu, klih (zastarale). _Pozn. red._
+
+[^3]: Epaminondas (418–362 př. n. l.), thébský státník a generál, který přetvořil Théby v jeden z nejvýznamnějších městských států v antickém Řecku. _Pozn. red._
+
+[^4]: Otrok. _Pozn. red._
+
+[^5]: Barevné dřevo kreveně obecné z čeledi bobovitých, stromu rozšířeného ve Střední Americe a jižní Africe. Dřevo je z vnějšku modročerné, uvnitř červenohnědé. _Pozn. red._
+
+[^6]: Bělouš s okrouhlými tmavými barvami. _Pozn. red._
+
+[^7]: Agitování, přesvědčování někoho za odměnu. _Pozn. red._
+
+[^8]: Kůň, v jehož srsti převládá bílá barva. _Pozn. red._
+
+[^9]: Bezdůvodné nařčení, pomluva. _Pozn. red._

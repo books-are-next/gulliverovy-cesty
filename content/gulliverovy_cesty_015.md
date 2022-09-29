@@ -30,3 +30,21 @@ Nebudu čtenáře obtěžovat podrobnou zprávou o této cestě, která se z val
 Pobyl jsem u své ženy a rodiny jenom dva měsíce, neboť nezkrotná touha po cizích krajinách mi nedala, abych tam zůstal déle. Zanechal jsem ženě patnáct set liber a usadil jsem ji v řádném domě v Redriffu. Ostatní majetek jsem vezl s sebou jednak v penězích, jednak ve zboží a těšil jsem se, že si pomohu ke jmění. Nejstarší strýc John mi zanechal pozemek u Eppingu, vynášející ročně asi třicet liber. Ve Fetter Lane jsem měl na dlouhou dobu pronajatou hospodu U Černého býka. Ta mi vynášela také tolik, takže nebylo nebezpečí, že bych zanechal rodinu v úzkých. Syn John, pojmenovaný po strýci, byl na gymnáziu a dobře se učil. Dcera Betty (která je teď už dobře vdána a má děti) tehdy ještě šila. Rozloučil jsem se se ženou, s chlapcem i s děvčetem a všichni jsme slzeli. Odebral jsem se na Dobrodružství, námořní loď o třech stech tunách, jedoucí do Suratu. Velel na ní kapitán John Nicholas z Liverpoolu. Ale vypravování o této cestě nutno odložit do druhého dílu mých Cest.
 
 </section>
+
+[^1]: Dutá míra (něco přes litr) užívaná v některých zemích. _Pozn. red._
+
+[^2]: Lep organického původu, klih (zastarale). _Pozn. red._
+
+[^3]: Epaminondas (418–362 př. n. l.), thébský státník a generál, který přetvořil Théby v jeden z nejvýznamnějších městských států v antickém Řecku. _Pozn. red._
+
+[^4]: Otrok. _Pozn. red._
+
+[^5]: Barevné dřevo kreveně obecné z čeledi bobovitých, stromu rozšířeného ve Střední Americe a jižní Africe. Dřevo je z vnějšku modročerné, uvnitř červenohnědé. _Pozn. red._
+
+[^6]: Bělouš s okrouhlými tmavými barvami. _Pozn. red._
+
+[^7]: Agitování, přesvědčování někoho za odměnu. _Pozn. red._
+
+[^8]: Kůň, v jehož srsti převládá bílá barva. _Pozn. red._
+
+[^9]: Bezdůvodné nařčení, pomluva. _Pozn. red._

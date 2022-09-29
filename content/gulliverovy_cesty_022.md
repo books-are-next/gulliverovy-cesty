@@ -48,3 +48,21 @@ Nadobro ho ohromil můj dějepisný přehled událostí u nás za poslední stol
 Jeho Veličenstvo král si dal v dalším slyšení velkou práci a zopakoval mi stručně všechno, co jsem řekl. Srovnal své otázky s mými odpověďmi. Potom mě vzal do ruky, něžně mě pohladil a pronesl tato slova, na něž nikdy nezapomenu, a také ne na způsob, jak to pověděl: „Přítelíčku Grildrigu, pronesls nejskvělejší chvalozpěv na svou vlast. Dokázals jasně, že nevzdělanost, lenost a neřest jsou vlastně nezbytnými vlastnostmi pro zákonodárce. Že nejlépe zákony vysvětlují, vykládají a uplatňují ti, jimž záleží na tom, převrátit je, zamotat a obejít, a kteří to také dovedou. Pozoruji u vás slabé obrysy zřízení, které snad bylo v původní podobě snesitelné, jenže ty obrysy jsou zpola vyhlazeny a nadobro zatemněny a potřísněny rozkladem. Ze všeho, cos řekl, nevysvítá, že by u vás bylo potřeba vůbec nějaké ctnosti k dosažení jakéhokoliv úřadu. Tím méně, že by se muži stávali šlechtici pro svou ctnost, že by kněží byli povyšováni pro svou zbožnost a učenost, vojíni pro svou chrabrost a udatnost, soudcové pro svou bezúhonnost, senátoři pro svou vlasteneckost a rádcové pro svou moudrost. Ty však,“ pokračoval král, „strávils většinu života na cestách, a jak aspoň doufám, vyhnul ses až dosavad mnoha nepravostem své vlasti. Ale z toho, co jsem se dověděl z tvé zprávy a z odpovědí, které jsem z tebe pracně vymámil a vyždímal, nemohu leč usoudit, že valná část tvých krajanů je nejškodlivější hnusná havěť, která se kdy z dopuštění přírody plazila po povrchu země.“
 
 </section>
+
+[^1]: Dutá míra (něco přes litr) užívaná v některých zemích. _Pozn. red._
+
+[^2]: Lep organického původu, klih (zastarale). _Pozn. red._
+
+[^3]: Epaminondas (418–362 př. n. l.), thébský státník a generál, který přetvořil Théby v jeden z nejvýznamnějších městských států v antickém Řecku. _Pozn. red._
+
+[^4]: Otrok. _Pozn. red._
+
+[^5]: Barevné dřevo kreveně obecné z čeledi bobovitých, stromu rozšířeného ve Střední Americe a jižní Africe. Dřevo je z vnějšku modročerné, uvnitř červenohnědé. _Pozn. red._
+
+[^6]: Bělouš s okrouhlými tmavými barvami. _Pozn. red._
+
+[^7]: Agitování, přesvědčování někoho za odměnu. _Pozn. red._
+
+[^8]: Kůň, v jehož srsti převládá bílá barva. _Pozn. red._
+
+[^9]: Bezdůvodné nařčení, pomluva. _Pozn. red._
