@@ -36,3 +36,21 @@ Možná že by mi nebylo ani tak zatěžko smířit se celkem s jahujským pleme
 Hvajninimové, kteří žijí pod vládou rozumu, nepyšní se svými dobrými vlastnostmi, právě tak jako já bych se nepyšnil tím, že mi nechybí ruka nebo noha. Těmi se přece žádný rozumný člověk nechlubí, třebaže by bez nich byl ubožákem. Mluvím o té věci obšírněji, protože si přeji, aby mi nebyla společnost anglických Jahuů tak zcela nesnesitelná. Žádám tudíž snažně ty, kdo mají jen stín této směšné neřesti, aby si netroufali chodit mi na oči.
 
 </section>
+
+[^1]: Dutá míra (něco přes litr) užívaná v některých zemích. _Pozn. red._
+
+[^2]: Lep organického původu, klih (zastarale). _Pozn. red._
+
+[^3]: Epaminondas (418–362 př. n. l.), thébský státník a generál, který přetvořil Théby v jeden z nejvýznamnějších městských států v antickém Řecku. _Pozn. red._
+
+[^4]: Otrok. _Pozn. red._
+
+[^5]: Barevné dřevo kreveně obecné z čeledi bobovitých, stromu rozšířeného ve Střední Americe a jižní Africe. Dřevo je z vnějšku modročerné, uvnitř červenohnědé. _Pozn. red._
+
+[^6]: Bělouš s okrouhlými tmavými barvami. _Pozn. red._
+
+[^7]: Agitování, přesvědčování někoho za odměnu. _Pozn. red._
+
+[^8]: Kůň, v jehož srsti převládá bílá barva. _Pozn. red._
+
+[^9]: Bezdůvodné nařčení, pomluva. _Pozn. red._

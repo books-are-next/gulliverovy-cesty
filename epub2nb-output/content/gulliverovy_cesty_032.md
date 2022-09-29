@@ -25,8 +25,26 @@ Dále jsem viděl Hannibala na přechodu přes Alpy; řekl mi, že neměl v táb
 
 Viděl jsem Caesara a Pompeia v čele vojsk, jak se právě chystali k boji. Prvního z nich jsem viděl při jeho posledním slavném triumfu. Žádal jsem, aby se mi zjevil v jedné velké místnosti římský senát a v druhé pro srovnání moderní sněm. První vypadal jako shromáždění bohatýrů a polobohů, druhý jako smečka kramářů, kapsářů, lupičů a chvastounů.
 
-Na mou žádost pokynul guvernér Caesarovi a Brutovi, aby k nám přistoupili. Při pohledu na Bruta pojala mě nábožná úcta a lehce jsem v každém rysu jeho obličeje rozeznal dokonalou ctnost, svrchovanou srdnatost a neochvějnost, pravou lásku k vlasti a naprostou blahovůli k lidstvu. Všiml jsem si s velikou radostí, že si ti dva dobře rozumějí, a Caesar se mi bez okolků přiznal, že se i největší činy z jeho života zdaleka nevyrovnají slávě toho, jak mu byl odňat. Měl jsem čest pohovořit si hodně s Brutem. Řekl mi, že je stále pohromadě se svým předchůdcem Juniem, se Sokratem, Epaminondou[\[3\]](./resources/undefined), Katonem mladším a se sirem Thomasem Morem. Věru, šesteřice mužů, k níž všechny věky celého světa nepřidají sedmého.
+Na mou žádost pokynul guvernér Caesarovi a Brutovi, aby k nám přistoupili. Při pohledu na Bruta pojala mě nábožná úcta a lehce jsem v každém rysu jeho obličeje rozeznal dokonalou ctnost, svrchovanou srdnatost a neochvějnost, pravou lásku k vlasti a naprostou blahovůli k lidstvu. Všiml jsem si s velikou radostí, že si ti dva dobře rozumějí, a Caesar se mi bez okolků přiznal, že se i největší činy z jeho života zdaleka nevyrovnají slávě toho, jak mu byl odňat. Měl jsem čest pohovořit si hodně s Brutem. Řekl mi, že je stále pohromadě se svým předchůdcem Juniem, se Sokratem, Epaminondou[^3], Katonem mladším a se sirem Thomasem Morem. Věru, šesteřice mužů, k níž všechny věky celého světa nepřidají sedmého.
 
 Bylo by zdlouhavé, kdybych čtenáře obtěžoval výčtem ohromného množství výtečníků, které jsem si dal vyvolat, abych ukojil nezkrotnou touhu uvidět před sebou celý svět ve všech obdobích starověku. Pásl jsem se zrakem zejména na škůdcích tyranů a uchvatitelů a na osvoboditelích utlačovaných a porobených národů. Radost, jakou jsem v duchu cítil, nelze ani vyjádřit tak, aby z toho měl čtenář přiměřený požitek.
 
 </section>
+
+[^1]: Dutá míra (něco přes litr) užívaná v některých zemích. _Pozn. red._
+
+[^2]: Lep organického původu, klih (zastarale). _Pozn. red._
+
+[^3]: Epaminondas (418–362 př. n. l.), thébský státník a generál, který přetvořil Théby v jeden z nejvýznamnějších městských států v antickém Řecku. _Pozn. red._
+
+[^4]: Otrok. _Pozn. red._
+
+[^5]: Barevné dřevo kreveně obecné z čeledi bobovitých, stromu rozšířeného ve Střední Americe a jižní Africe. Dřevo je z vnějšku modročerné, uvnitř červenohnědé. _Pozn. red._
+
+[^6]: Bělouš s okrouhlými tmavými barvami. _Pozn. red._
+
+[^7]: Agitování, přesvědčování někoho za odměnu. _Pozn. red._
+
+[^8]: Kůň, v jehož srsti převládá bílá barva. _Pozn. red._
+
+[^9]: Bezdůvodné nařčení, pomluva. _Pozn. red._

@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "swift-gulliverovy-cesty-cd90c89",
-  "revision": "cd90c89",
+  "identifier": "swift-gulliverovy-cesty-7473798",
+  "revision": "7473798",
   "readingOrder": [
     "promo.html",
     "gulliverovy_cesty_005.html",
@@ -61,8 +61,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:38:10 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414290663
+    "date": "Thu Sep 29 2022 21:23:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486606870
   },
   "documents": [
     {
@@ -360,9 +360,9 @@
     {
       "title": "KAPITOLA 3",
       "file": "gulliverovy_cesty_019.html",
-      "words": 3025,
-      "chars": 18031,
-      "ideas": 13,
+      "words": 3037,
+      "chars": 18097,
+      "ideas": 14,
       "role": "chapter",
       "order": 15,
       "prev": "gulliverovy_cesty_018.html",
@@ -580,9 +580,9 @@
     {
       "title": "KAPITOLA 5",
       "file": "gulliverovy_cesty_030.html",
-      "words": 1731,
-      "chars": 10610,
-      "ideas": 25,
+      "words": 1739,
+      "chars": 10663,
+      "ideas": 26,
       "role": "chapter",
       "order": 26,
       "prev": "gulliverovy_cesty_029.html",
@@ -620,9 +620,9 @@
     {
       "title": "KAPITOLA 7",
       "file": "gulliverovy_cesty_032.html",
-      "words": 1181,
-      "chars": 7107,
-      "ideas": 13,
+      "words": 1205,
+      "chars": 7261,
+      "ideas": 14,
       "role": "chapter",
       "order": 28,
       "prev": "gulliverovy_cesty_031.html",
@@ -640,9 +640,9 @@
     {
       "title": "KAPITOLA 8",
       "file": "gulliverovy_cesty_033.html",
-      "words": 1352,
-      "chars": 8515,
-      "ideas": 14,
+      "words": 1356,
+      "chars": 8533,
+      "ideas": 15,
       "role": "chapter",
       "order": 29,
       "prev": "gulliverovy_cesty_032.html",
@@ -740,9 +740,9 @@
     {
       "title": "KAPITOLA 1",
       "file": "gulliverovy_cesty_038.html",
-      "words": 1936,
-      "chars": 11432,
-      "ideas": 13,
+      "words": 1969,
+      "chars": 11647,
+      "ideas": 15,
       "role": "chapter",
       "order": 34,
       "prev": "gulliverovy_cesty_037.html",
@@ -840,9 +840,9 @@
     {
       "title": "KAPITOLA 6",
       "file": "gulliverovy_cesty_043.html",
-      "words": 1261,
-      "chars": 7939,
-      "ideas": 14,
+      "words": 1279,
+      "chars": 8044,
+      "ideas": 16,
       "role": "chapter",
       "order": 39,
       "prev": "gulliverovy_cesty_042.html",
@@ -860,9 +860,9 @@
     {
       "title": "KAPITOLA 7",
       "file": "gulliverovy_cesty_044.html",
-      "words": 1774,
-      "chars": 10554,
-      "ideas": 17,
+      "words": 1780,
+      "chars": 10594,
+      "ideas": 18,
       "role": "chapter",
       "order": 40,
       "prev": "gulliverovy_cesty_043.html",
@@ -980,9 +980,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "gulliverovy_cesty_050.html",
-      "words": 108,
-      "chars": 696,
-      "ideas": 10,
+      "words": 213,
+      "chars": 1347,
+      "ideas": 19,
       "role": "chapter",
       "order": 46,
       "prev": "gulliverovy_cesty_049.html",
@@ -1000,9 +1000,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 136,
-      "chars": 915,
-      "ideas": 15,
+      "words": 127,
+      "chars": 872,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "gulliverovy_cesty_050.html",
@@ -1020,14 +1020,14 @@
   ],
   "totals": {
     "all": {
-      "words": 77162,
-      "chars": 462003,
-      "ideas": 671
+      "words": 77363,
+      "chars": 463262,
+      "ideas": 688
     },
     "chapters": {
-      "words": 77020,
-      "chars": 461046,
-      "ideas": 652
+      "words": 77230,
+      "chars": 462348,
+      "ideas": 670
     }
   }
 }

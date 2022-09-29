@@ -48,3 +48,21 @@ Přísahal jsem na tyto články a podepsal jsem je všecek rozjařen a spokojen
 Nechť si čtenář laskavě všimne, že se v posledním článku o vrácení svobody císař zavazuje, že mi bude dodávati jídla a pití v takovém množství, kolik by stačilo na výživu 1728 Liliputánů. Za nějaký čas jsem se ptal přítele u dvora, jak to, že se ustálili na tom čísle. Řekl mi, že počtáři Jeho Veličenstva změřili kvadrantem mou výšku a poznali, že jsem větší než oni v poměru dvanácti k jedné. Z podobnosti k sobě usoudili, že by se jich do mne vešlo aspoň 1728, a že budu tudíž potřebovat tolik potravy, kolik je třeba na výživu tolika Liliputánů. Snad z toho čtenář nabude ponětí o důmyslu těch lidí, jakož i o moudrém a přesném hospodářství tohoto velikého vladaře.
 
 </section>
+
+[^1]: Dutá míra (něco přes litr) užívaná v některých zemích. _Pozn. red._
+
+[^2]: Lep organického původu, klih (zastarale). _Pozn. red._
+
+[^3]: Epaminondas (418–362 př. n. l.), thébský státník a generál, který přetvořil Théby v jeden z nejvýznamnějších městských států v antickém Řecku. _Pozn. red._
+
+[^4]: Otrok. _Pozn. red._
+
+[^5]: Barevné dřevo kreveně obecné z čeledi bobovitých, stromu rozšířeného ve Střední Americe a jižní Africe. Dřevo je z vnějšku modročerné, uvnitř červenohnědé. _Pozn. red._
+
+[^6]: Bělouš s okrouhlými tmavými barvami. _Pozn. red._
+
+[^7]: Agitování, přesvědčování někoho za odměnu. _Pozn. red._
+
+[^8]: Kůň, v jehož srsti převládá bílá barva. _Pozn. red._
+
+[^9]: Bezdůvodné nařčení, pomluva. _Pozn. red._

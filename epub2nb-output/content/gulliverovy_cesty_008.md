@@ -32,3 +32,21 @@ Druhý den ráno za svítání jsme pokračovali v pochodu a v poledne jsme se o
 Tam, kde povoz zastavil, stál starodávný chrám, který prý je největší v celém království. Před několika lety byl poskvrněn nelidskou vraždou. V náboženském zápalu jej pokládali za znesvěcený, a proto jej zveřejnili a odstranili z něho ozdoby a zařízení. Bylo ustanoveno, abych bydlel v té budově. Hlavní brána, obrácená k severu, byla na čtyři stopy do výšky a skoro dvě stopy do šířky, takže jsem jí snadno prolezl. Na obou stranách brány, ani ne na šest palců od země, bylo okénko. Do levého okénka vpravili královští kováři jedenadevadesát řetězů, bezmála tak velikých, jaké visívají od hodinek vznešeným paním v Evropě, a zamkli mi je na levé noze na šestatřicet zámků. Na dvacet stop naproti chrámu za velkou silnicí byla věžička, vysoká aspoň pět stop. Na tu vystoupil císař s nejpřednějšími pány svého dvora, aby si mě dobře prohlédli. Dověděl jsem se to, neboť sám jsem je neviděl. Podle odhadu vyšlo z města za týmž cílem přes sto tisíc obyvatel. A třebaže mě hlídali, domnívám se, že jich na mne po žebřících několikrát vystoupilo aspoň deset tisíc. Ale brzy vyšla vyhláška, podle níž to bylo pod trestem smrti zakázáno. Když dělníci poznali, že se nemohu utrhnout, přeřezali všechny provazy, kterými jsem byl spoután. Tu jsem povstal a jakživ mi nebylo tak truchlivo jako tehdy. Ani nelze naznačit, jak hlučeli a žasli, když mě uviděli vstávat a chodit. Řetězy poutající mi levou nohu měřily na dva yardy. Dovolovaly mi procházet se sem tam v půlkruhu, a ježto byly na čtyři palce od brány, mohl jsem vlézt dovnitř a natáhnout se v chrámu jak široký tak dlouhý.
 
 </section>
+
+[^1]: Dutá míra (něco přes litr) užívaná v některých zemích. _Pozn. red._
+
+[^2]: Lep organického původu, klih (zastarale). _Pozn. red._
+
+[^3]: Epaminondas (418–362 př. n. l.), thébský státník a generál, který přetvořil Théby v jeden z nejvýznamnějších městských států v antickém Řecku. _Pozn. red._
+
+[^4]: Otrok. _Pozn. red._
+
+[^5]: Barevné dřevo kreveně obecné z čeledi bobovitých, stromu rozšířeného ve Střední Americe a jižní Africe. Dřevo je z vnějšku modročerné, uvnitř červenohnědé. _Pozn. red._
+
+[^6]: Bělouš s okrouhlými tmavými barvami. _Pozn. red._
+
+[^7]: Agitování, přesvědčování někoho za odměnu. _Pozn. red._
+
+[^8]: Kůň, v jehož srsti převládá bílá barva. _Pozn. red._
+
+[^9]: Bezdůvodné nařčení, pomluva. _Pozn. red._

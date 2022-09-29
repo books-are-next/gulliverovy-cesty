@@ -40,3 +40,21 @@ Obavy před těmito a podobnými hrozivými nebezpečími je bez ustání tak zn
 Za nějaký měsíc jsem učinil slušný pokrok v jejich řeči a mohl králi odpovídat na většinu otázek, když jsem měl čest být u něho při audienci. Jeho Veličenstvo nebylo vůbec zvědavo na zákony, státní zřízení, dějiny, náboženství a mravy oněch zemí, v nichž jsem už byl. Spokojilo se jen otázkami po stavu matematiky. Zprávu, kterou jsem mu podal, vyslechlo velmi pohrdlivě a lhostejně, ačkoliv je pleskač z obou stran často burcoval.
 
 </section>
+
+[^1]: Dutá míra (něco přes litr) užívaná v některých zemích. _Pozn. red._
+
+[^2]: Lep organického původu, klih (zastarale). _Pozn. red._
+
+[^3]: Epaminondas (418–362 př. n. l.), thébský státník a generál, který přetvořil Théby v jeden z nejvýznamnějších městských států v antickém Řecku. _Pozn. red._
+
+[^4]: Otrok. _Pozn. red._
+
+[^5]: Barevné dřevo kreveně obecné z čeledi bobovitých, stromu rozšířeného ve Střední Americe a jižní Africe. Dřevo je z vnějšku modročerné, uvnitř červenohnědé. _Pozn. red._
+
+[^6]: Bělouš s okrouhlými tmavými barvami. _Pozn. red._
+
+[^7]: Agitování, přesvědčování někoho za odměnu. _Pozn. red._
+
+[^8]: Kůň, v jehož srsti převládá bílá barva. _Pozn. red._
+
+[^9]: Bezdůvodné nařčení, pomluva. _Pozn. red._

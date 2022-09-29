@@ -22,3 +22,21 @@ Ujistil jsem ho, jak nesmírně dychtím uspokojit ho v každém směru. Velmi s
 Za té řeči mě ráčil můj pán několikrát přerušit. Sahal jsem k mnoha opisům, když jsem mu líčil povahu rozličných zločinů, pro něž musela většina našeho mužstva uprchnout z vlasti. Ta práce se protáhla na několikadenní rozmluvu, než byl s to, aby mi porozuměl. Nemohl a nemohl pochopit, jaký mají ty neřesti smysl a co k nim ponouká. Na objasněnou snažil jsem se mu vpravit jakési ponětí o touze po moci a bohatství, o hrozných následcích obžerství, prostopášnosti, zloby a závisti. Musel jsem to všechno objasňovat a líčit tak, že jsem uváděl příklady a vymýšlel příběhy. Otvíral nad tím oči úžasem a rozhořčením jako člověk, jehož obraznost zaujalo něco, co dosud ještě neviděl ani neslyšel. Moc, vláda, válka, právo, trest a tisíce jiných věcí nemělo v té řeči vůbec názvů, jimiž by se vyjádřily, takže svízel vpravit mému pánovi pojem o tom, co chci říci, byla skorem nepřekonatelná. Ale ježto měl znamenitou soudnost, zdokonalenou ještě hloubáním a hovorem, došel posléze k dostatečnému poznání, čeho je schopna lidská povaha v našich končinách. Chtěl, abych mu podal zevrubnou zprávu o pevnině, které říkáme Evropa, zejména pak o své vlasti.
 
 </section>
+
+[^1]: Dutá míra (něco přes litr) užívaná v některých zemích. _Pozn. red._
+
+[^2]: Lep organického původu, klih (zastarale). _Pozn. red._
+
+[^3]: Epaminondas (418–362 př. n. l.), thébský státník a generál, který přetvořil Théby v jeden z nejvýznamnějších městských států v antickém Řecku. _Pozn. red._
+
+[^4]: Otrok. _Pozn. red._
+
+[^5]: Barevné dřevo kreveně obecné z čeledi bobovitých, stromu rozšířeného ve Střední Americe a jižní Africe. Dřevo je z vnějšku modročerné, uvnitř červenohnědé. _Pozn. red._
+
+[^6]: Bělouš s okrouhlými tmavými barvami. _Pozn. red._
+
+[^7]: Agitování, přesvědčování někoho za odměnu. _Pozn. red._
+
+[^8]: Kůň, v jehož srsti převládá bílá barva. _Pozn. red._
+
+[^9]: Bezdůvodné nařčení, pomluva. _Pozn. red._

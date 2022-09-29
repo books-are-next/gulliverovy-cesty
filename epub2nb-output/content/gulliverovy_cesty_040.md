@@ -34,3 +34,21 @@ Od té chvíle zdvojnásobil úsilí, s nímž mě vyučoval. Vodil mě do spole
 Jak už jsem se mu pokusil říci, přišel jsem ještě asi s padesáti jinými příslušníky svého druhu z velmi daleké země. Cestovali jsme po moři ve velkém dutém plavidle ze dřeva, větším, než je dům Jeho Blahorodí. Popsal jsem mu nejvhodnějšími výrazy loď a s pomocí rozpjatého kapesníku jsem mu vysvětlil, jak ji pohání vítr vpřed. Když vypukl mezi námi svár, že mě vysadili na toto pobřeží. Kráčel jsem vpřed, nevěda kam, až mě on vysvobodil od pronásledování těch mrzkých Jahuů. Tázal se mě, kdo robí tu loď a jak je možné, že Hvajninimové mé vlasti dávají ji řídit dobytku? Má odpověď zněla, že si netroufám pokračovat ve svém vyprávění, dokud mi nedá čestné slovo, že se neurazí. Potom mu povím divy, které jsem mu tak často sliboval. Byl s tím srozuměn. I ujišťoval jsem ho dále, že tu loď zhotovují tvorové jako já, kteří jsou ve všech zemích, po nichž jsem cestoval, právě tak jako v mé zemi, jedinými vládnoucími, rozumovými tvory. Po svém příchodu že jsem právě tak žasl nad tím, že si Hvajninimové počínají jako rozumové bytosti, jako žasne on a jeho přátelé nad jakýmisi známkami rozumu u tvora, jehož ráčí nazývat Jahu. Přiznávám sice, že jsem Jahuům venkoncem podoben, ale jejich zvrhlou a surovou povahu si nedovedu vysvětlit. Pravil jsem dále, že přivede-li mě někdy šťastný osud zpátky do rodné vlasti a budu vyprávět o svých cestách sem, jak jsem si umínil, každý bude přesvědčen, že říkám něco, co není, a že jsem si tu povídačku vymyslil. Při vší úctě k němu, k jeho rodině a přátelům a spoléhaje na slib, že se neurazí, soudím, že naši krajané budou mít stěží za pravděpodobné, že je někde na světě vůdčím tvorem Hvajninim a Jahu dobytčetem.
 
 </section>
+
+[^1]: Dutá míra (něco přes litr) užívaná v některých zemích. _Pozn. red._
+
+[^2]: Lep organického původu, klih (zastarale). _Pozn. red._
+
+[^3]: Epaminondas (418–362 př. n. l.), thébský státník a generál, který přetvořil Théby v jeden z nejvýznamnějších městských států v antickém Řecku. _Pozn. red._
+
+[^4]: Otrok. _Pozn. red._
+
+[^5]: Barevné dřevo kreveně obecné z čeledi bobovitých, stromu rozšířeného ve Střední Americe a jižní Africe. Dřevo je z vnějšku modročerné, uvnitř červenohnědé. _Pozn. red._
+
+[^6]: Bělouš s okrouhlými tmavými barvami. _Pozn. red._
+
+[^7]: Agitování, přesvědčování někoho za odměnu. _Pozn. red._
+
+[^8]: Kůň, v jehož srsti převládá bílá barva. _Pozn. red._
+
+[^9]: Bezdůvodné nařčení, pomluva. _Pozn. red._

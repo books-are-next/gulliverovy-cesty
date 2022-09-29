@@ -9,7 +9,7 @@ contentType: prose
 
 Toužil jsem spatřit ony starověké muže, kteří nejvíce prosluli důmyslem a učeností, a určil jsem si na to schválně jeden den. Navrhl jsem, aby se objevili Homér a Aristoteles v čele všech svých vykladačů. Jenže jich bylo tolik, že jich několik set muselo čekat na dvoře a v pokojích obrácených ven. Rozeznal jsem na první pohled oba ty bohatýry nejen od davu, nýbrž i navzájem od sebe. Homér byl z nich vyšší a švarnější, kráčel na svůj věk velmi vzpřímeně a měl nejbystřejší a nejpronikavější oči, jaké jsem kdy viděl. Aristoteles byl hodně shrbený a opíral se o hůl. Měl vyhublou tvář, řídké a měkké vlasy a dutý hlas. Brzy jsem poznal, že se s ostatními vůbec neznají a jakživi je neviděli ani o nich neslyšeli. Jeden duch, jehož jméno zamlčím, pošeptal mi, že se ti vykladači drží v podsvětí co nejdále od svých mistrů. Tíží je totiž vědomí hanby a viny, že tak hrubě zkomolili potomstvu smysl těch spisovatelů.
 
-Rozmlouval jsem pět dní s mnoha jinými starověkými učenci. Viděl jsem většinu prvotních římských císařů. Pohnul jsem guvernéra k tomu, že vyvolal Heliogabalovy kuchaře, aby nám vystrojili oběd, ale mnoho dovednosti nám neukázali, neboť neměli dosti potřebných věcí. Agesilaův hélót[\[4\]](./resources/undefined) nám uvařil mísu spartské polévky, ale spolkl jsem jen jednu lžíci.
+Rozmlouval jsem pět dní s mnoha jinými starověkými učenci. Viděl jsem většinu prvotních římských císařů. Pohnul jsem guvernéra k tomu, že vyvolal Heliogabalovy kuchaře, aby nám vystrojili oběd, ale mnoho dovednosti nám neukázali, neboť neměli dosti potřebných věcí. Agesilaův hélót[^4] nám uvařil mísu spartské polévky, ale spolkl jsem jen jednu lžíci.
 
 Oba pánové, kteří mě doprovodili na ostrov, musili se po třech dnech vrátit za svými soukromými záležitostmi. Za tu dobu jsem zhlédl několik největších nebožtíků, kteří se za poslední dvě nebo tři století u nás a v jiných evropských zemích nejvíce proslavili. Jakožto dávný ctitel starých proslulých rodů požádal jsem guvernéra, aby mi vyvolal asi tucet králů i s předky seřazenými od osmého nebo devátého kolena. Ale zažil jsem bolestné a neočekávané překvapení. Mám příliš velikou úctu ke korunovaným hlavám, takže se nebudu déle obírat tímto choulostivým tématem.
 
@@ -32,3 +32,21 @@ Každý, kdo byl vyvolán, měl totéž vzezření, jako míval na světě. I od
 Sestoupil jsem už tak hluboko, že jsem požádal, aby byli vyvoláni nějací angličtí svobodníci starého ražení, kteří kdysi tak slynuli prostotou mravů, jídla a šatů, spravedlivostí v jednání, pravou svobodomyslností, chrabrostí a láskou k vlasti. Srovnával jsem žijící s mrtvými. Neubránil jsem se silnému dojetí, když jsem uvážil, jak jejich vnukové za babku zaprodávají všechny ty čisté, vrozené ctnosti a jak si kupčením s hlasy a handrkováním při volbách osvojili všechny neřesti a zvrácenosti, jaké jen lze pochytit u dvora.
 
 </section>
+
+[^1]: Dutá míra (něco přes litr) užívaná v některých zemích. _Pozn. red._
+
+[^2]: Lep organického původu, klih (zastarale). _Pozn. red._
+
+[^3]: Epaminondas (418–362 př. n. l.), thébský státník a generál, který přetvořil Théby v jeden z nejvýznamnějších městských států v antickém Řecku. _Pozn. red._
+
+[^4]: Otrok. _Pozn. red._
+
+[^5]: Barevné dřevo kreveně obecné z čeledi bobovitých, stromu rozšířeného ve Střední Americe a jižní Africe. Dřevo je z vnějšku modročerné, uvnitř červenohnědé. _Pozn. red._
+
+[^6]: Bělouš s okrouhlými tmavými barvami. _Pozn. red._
+
+[^7]: Agitování, přesvědčování někoho za odměnu. _Pozn. red._
+
+[^8]: Kůň, v jehož srsti převládá bílá barva. _Pozn. red._
+
+[^9]: Bezdůvodné nařčení, pomluva. _Pozn. red._

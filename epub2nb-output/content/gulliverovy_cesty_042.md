@@ -46,3 +46,21 @@ Při vyšetřování osob obžalovaných ze zločinů proti státu uplatňuje se
 Tu utrousil můj pán poznámku, řka, že je škoda, že tvorové obdaření takovými úžasnými duševními schopnostmi, jací jsou podle mého líčení ti právníci, nevedou se raději k tomu, aby byli jinými učiteli moudrosti a vědění. V odpovědi na to ujistil jsem Jeho Blahorodí, že ve všech záležitostech, které nepatří do jejich řemesla, jsou u nás pokolením nejnevzdělanějším a nejomezenějším, jakož i nejubožáčtějším v prostém hovoru. Jsou úhlavními nepřáteli vší vědy a učenosti a právě tak jako ve vlastním oboru, tak jsou ochotni převracet naruby veškerý rozum lidstva i při každém jiném předmětu řeči.
 
 </section>
+
+[^1]: Dutá míra (něco přes litr) užívaná v některých zemích. _Pozn. red._
+
+[^2]: Lep organického původu, klih (zastarale). _Pozn. red._
+
+[^3]: Epaminondas (418–362 př. n. l.), thébský státník a generál, který přetvořil Théby v jeden z nejvýznamnějších městských států v antickém Řecku. _Pozn. red._
+
+[^4]: Otrok. _Pozn. red._
+
+[^5]: Barevné dřevo kreveně obecné z čeledi bobovitých, stromu rozšířeného ve Střední Americe a jižní Africe. Dřevo je z vnějšku modročerné, uvnitř červenohnědé. _Pozn. red._
+
+[^6]: Bělouš s okrouhlými tmavými barvami. _Pozn. red._
+
+[^7]: Agitování, přesvědčování někoho za odměnu. _Pozn. red._
+
+[^8]: Kůň, v jehož srsti převládá bílá barva. _Pozn. red._
+
+[^9]: Bezdůvodné nařčení, pomluva. _Pozn. red._
