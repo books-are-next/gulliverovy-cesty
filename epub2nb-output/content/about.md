@@ -18,7 +18,7 @@ Mariánské nám. 1, 115 72 Praha 1
 [^7]: Agitování, přesvědčování někoho za odměnu. _Pozn. red._  
 [^8]: Kůň, v jehož srsti převládá bílá barva. _Pozn. red._  
 [^9]: Bezdůvodné nařčení, pomluva. _Pozn. red._  
-V MKP 2. elektronické vydání z 4. 10. 2022.
+V MKP 2. elektronické vydání z 7. 10. 2022.
 
 ***
 
