@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "swift-gulliverovy-cesty-3dc7e62",
-  "revision": "3dc7e62",
+  "identifier": "swift-gulliverovy-cesty-44f835c",
+  "revision": "44f835c",
   "readingOrder": [
     "promo.html",
     "gulliverovy_cesty_005.html",
@@ -61,8 +61,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:04:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151489836
+    "date": "Mon Oct 10 2022 15:56:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417397151
   },
   "documents": [
     {
